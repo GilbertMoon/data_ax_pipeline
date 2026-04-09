@@ -1,0 +1,560 @@
+﻿category,paper_id,title,link,summary
+cs.LG,cs.LG_0,A Benchmark of Classical and Deep Learning Models for Agricultural Commodity Price Forecasting on A Novel Bangladeshi Market Price Dataset,https://arxiv.org/abs/2604.06227,"arXiv:2604.06227v1 Announce Type: new 
+Abstract: Accurate short-term forecasting of agricultural commodity prices is critical for food security planning and smallholder income stabilisation in develop"
+cs.LG,cs.LG_1,"Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse",https://arxiv.org/abs/2604.06228,"arXiv:2604.06228v1 Announce Type: new 
+Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generativ"
+cs.LG,cs.LG_2,FLeX: Fourier-based Low-rank EXpansion for multilingual transfer,https://arxiv.org/abs/2604.06253,"arXiv:2604.06253v1 Announce Type: new 
+Abstract: Cross-lingual code generation is critical in enterprise environments where multiple programming languages coexist. However, fine-tuning large language "
+cs.LG,cs.LG_3,Spectral Edge Dynamics Reveal Functional Modes of Learning,https://arxiv.org/abs/2604.06256,"arXiv:2604.06256v1 Announce Type: new 
+Abstract: Training dynamics during grokking concentrate along a small number of dominant update directions -- the spectral edge -- which reliably distinguishes g"
+cs.LG,cs.LG_4,$S^3$: Stratified Scaling Search for Test-Time in Diffusion Language Models,https://arxiv.org/abs/2604.06260,"arXiv:2604.06260v1 Announce Type: new 
+Abstract: Test-time scaling investigates whether a fixed diffusion language model (DLM) can generate better outputs when given more inference compute, without ad"
+cs.LG,cs.LG_5,SMT-AD: a scalable quantum-inspired anomaly detection approach,https://arxiv.org/abs/2604.06265,"arXiv:2604.06265v1 Announce Type: new 
+Abstract: Quantum-inspired tensor networks algorithms have shown to be effective and efficient models for machine learning tasks, including anomaly detection. He"
+cs.LG,cs.LG_6,MO-RiskVAE: A Multi-Omics Variational Autoencoder for Survival Risk Modeling in Multiple MyelomaMO-RiskVAE,https://arxiv.org/abs/2604.06267,"arXiv:2604.06267v1 Announce Type: new 
+Abstract: Multimodal variational autoencoders (VAEs) have emerged as a powerful framework for survival risk modeling in multiple myeloma by integrating heterogen"
+cs.LG,cs.LG_7,RAGEN-2: Reasoning Collapse in Agentic RL,https://arxiv.org/abs/2604.06268,"arXiv:2604.06268v1 Announce Type: new 
+Abstract: RL training of multi-turn LLM agents is inherently unstable, and reasoning quality directly determines task performance. Entropy is widely used to trac"
+cs.LG,cs.LG_8,Asymptotic-Preserving Neural Networks for Viscoelastic Parameter Identification in Multiscale Blood Flow Modeling,https://arxiv.org/abs/2604.06287,"arXiv:2604.06287v1 Announce Type: new 
+Abstract: Mathematical models and numerical simulations offer a non-invasive way to explore cardiovascular phenomena, providing access to quantities that cannot "
+cs.LG,cs.LG_9,TalkLoRA: Communication-Aware Mixture of Low-Rank Adaptation for Large Language Models,https://arxiv.org/abs/2604.06291,"arXiv:2604.06291v1 Announce Type: new 
+Abstract: Low-Rank Adaptation (LoRA) enables parameter-efficient fine-tuning of Large Language Models (LLMs), and recent Mixture-of-Experts (MoE) extensions furt"
+cs.LG,cs.LG_10,AgentOpt v0.1 Technical Report: Client-Side Optimization for LLM-Based Agent,https://arxiv.org/abs/2604.06296,"arXiv:2604.06296v1 Announce Type: new 
+Abstract: AI agents are increasingly deployed in real-world applications, including systems such as Manus, OpenClaw, and coding agents. Existing research has pri"
+cs.LG,cs.LG_11,Limits of Difficulty Scaling: Hard Samples Yield Diminishing Returns in GRPO-Tuned SLMs,https://arxiv.org/abs/2604.06298,"arXiv:2604.06298v1 Announce Type: new 
+Abstract: Recent alignment work on Large Language Models (LLMs) suggests preference optimization can improve reasoning by shifting probability mass toward better"
+cs.LG,cs.LG_12,Drifting Fields are not Conservative,https://arxiv.org/abs/2604.06333,"arXiv:2604.06333v1 Announce Type: new 
+Abstract: Drifting models generate high-quality samples in a single forward pass by transporting generated samples toward the data distribution using a vector va"
+cs.LG,cs.LG_13,BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning,https://arxiv.org/abs/2604.06336,"arXiv:2604.06336v1 Announce Type: new 
+Abstract: Graph Transformers have recently attracted attention for molecular property prediction by combining the inductive biases of graph neural networks (GNNs"
+cs.LG,cs.LG_14,Bi-Level Optimization for Single Domain Generalization,https://arxiv.org/abs/2604.06349,"arXiv:2604.06349v1 Announce Type: new 
+Abstract: Generalizing from a single labeled source domain to unseen target domains, without access to any target data during training, remains a fundamental cha"
+cs.LG,cs.LG_15,Stochastic Gradient Descent in the Saddle-to-Saddle Regime of Deep Linear Networks,https://arxiv.org/abs/2604.06366,"arXiv:2604.06366v1 Announce Type: new 
+Abstract: Deep linear networks (DLNs) are used as an analytically tractable model of the training dynamics of deep neural networks. While gradient descent in DLN"
+cs.LG,cs.LG_16,The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment,https://arxiv.org/abs/2604.06377,"arXiv:2604.06377v1 Announce Type: new 
+Abstract: We investigate whether post-trained capabilities can be transferred across models without retraining, with a focus on transfer across different model s"
+cs.LG,cs.LG_17,Toward a universal foundation model for graph-structured data,https://arxiv.org/abs/2604.06391,"arXiv:2604.06391v1 Announce Type: new 
+Abstract: Graphs are a central representation in biomedical research, capturing molecular interaction networks, gene regulatory circuits, cell--cell communicatio"
+cs.LG,cs.LG_18,Bridging Theory and Practice in Crafting Robust Spiking Reservoirs,https://arxiv.org/abs/2604.06395,"arXiv:2604.06395v1 Announce Type: new 
+Abstract: Spiking reservoir computing provides an energy-efficient approach to temporal processing, but reliably tuning reservoirs to operate at the edge-of-chao"
+cs.LG,cs.LG_19,ODE-free Neural Flow Matching for One-Step Generative Modeling,https://arxiv.org/abs/2604.06413,"arXiv:2604.06413v1 Announce Type: new 
+Abstract: Diffusion and flow matching models generate samples by learning time-dependent vector fields whose integration transports noise to data, requiring tens"
+cs.LG,cs.LG_20,Neural Computers,https://arxiv.org/abs/2604.06425,"arXiv:2604.06425v1 Announce Type: new 
+Abstract: We propose a new frontier: Neural Computers (NCs) -- an emerging machine form that unifies computation, memory, and I/O in a learned runtime state. Unl"
+cs.LG,cs.LG_21,The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning,https://arxiv.org/abs/2604.06427,"arXiv:2604.06427v1 Announce Type: new 
+Abstract: The viability of chain-of-thought (CoT) monitoring hinges on models being unable to reason effectively in their latent representations. Yet little is k"
+cs.LG,cs.LG_22,From Load Tests to Live Streams: Graph Embedding-Based Anomaly Detection in Microservice Architectures,https://arxiv.org/abs/2604.06448,"arXiv:2604.06448v1 Announce Type: new 
+Abstract: Prime Video regularly conducts load tests to simulate the viewer traffic spikes seen during live events such as Thursday Night Football as well as vide"
+cs.LG,cs.LG_23,Quality-preserving Model for Electronics Production Quality Tests Reduction,https://arxiv.org/abs/2604.06451,"arXiv:2604.06451v1 Announce Type: new 
+Abstract: Manufacturing test flows in high-volume electronics production are typically fixed during product development and executed unchanged on every unit, eve"
+cs.LG,cs.LG_24,Weighted Bayesian Conformal Prediction,https://arxiv.org/abs/2604.06464,"arXiv:2604.06464v1 Announce Type: new 
+Abstract: Conformal prediction provides distribution-free prediction intervals with finite-sample coverage guarantees, and recent work by Snell \& Griffiths refr"
+cs.LG,cs.LG_25,Conformal Margin Risk Minimization: An Envelope Framework for Robust Learning under Label Noise,https://arxiv.org/abs/2604.06468,"arXiv:2604.06468v1 Announce Type: new 
+Abstract: Most methods for learning with noisy labels require privileged knowledge such as noise transition matrices, clean subsets or pretrained feature extract"
+cs.LG,cs.LG_26,MICA: Multivariate Infini Compressive Attention for Time Series Forecasting,https://arxiv.org/abs/2604.06473,"arXiv:2604.06473v1 Announce Type: new 
+Abstract: Multivariate forecasting with Transformers faces a core scalability challenge: modeling cross-channel dependencies via attention compounds attention's "
+cs.LG,cs.LG_27,AE-ViT: Stable Long-Horizon Parametric Partial Differential Equations Modeling,https://arxiv.org/abs/2604.06475,"arXiv:2604.06475v1 Announce Type: new 
+Abstract: Deep Learning Reduced Order Models (ROMs) are becoming increasingly popular as surrogate models for parametric partial differential equations (PDEs) du"
+cs.LG,cs.LG_28,Distributed Interpretability and Control for Large Language Models,https://arxiv.org/abs/2604.06483,"arXiv:2604.06483v1 Announce Type: new 
+Abstract: Large language models that require multiple GPU cards to host are usually the most capable models. It is necessary to understand and steer these models"
+cs.LG,cs.LG_29,Inference-Time Code Selection via Symbolic Equivalence Partitioning,https://arxiv.org/abs/2604.06485,"arXiv:2604.06485v1 Announce Type: new 
+Abstract: ""Best-of-N"" selection is a popular inference-time scaling method for code generation using Large Language Models (LLMs). However, to reliably identify "
+cs.LG,cs.LG_30,Discrete Flow Matching Policy Optimization,https://arxiv.org/abs/2604.06491,"arXiv:2604.06491v1 Announce Type: new 
+Abstract: We introduce Discrete flow Matching policy Optimization (DoMinO), a unified framework for Reinforcement Learning (RL) fine-tuning Discrete Flow Matchin"
+cs.LG,cs.LG_31,Optimal Rates for Pure {\varepsilon}-Differentially Private Stochastic Convex Optimization with Heavy Tails,https://arxiv.org/abs/2604.06492,"arXiv:2604.06492v1 Announce Type: new 
+Abstract: We study stochastic convex optimization (SCO) with heavy-tailed gradients under pure epsilon-differential privacy (DP). Instead of assuming a bound on "
+cs.LG,cs.LG_32,Improving Robustness In Sparse Autoencoders via Masked Regularization,https://arxiv.org/abs/2604.06495,"arXiv:2604.06495v1 Announce Type: new 
+Abstract: Sparse autoencoders (SAEs) are widely used in mechanistic interpretability to project LLM activations onto sparse latent spaces. However, sparsity alon"
+cs.LG,cs.LG_33,"Transformer See, Transformer Do: Copying as an Intermediate Step in Learning Analogical Reasoning",https://arxiv.org/abs/2604.06501,"arXiv:2604.06501v1 Announce Type: new 
+Abstract: Analogical reasoning is a hallmark of human intelligence, enabling us to solve new problems by transferring knowledge from one situation to another. Ye"
+cs.LG,cs.LG_34,VLMShield: Efficient and Robust Defense of Vision-Language Models against Malicious Prompts,https://arxiv.org/abs/2604.06502,"arXiv:2604.06502v1 Announce Type: new 
+Abstract: Vision-Language Models (VLMs) face significant safety vulnerabilities from malicious prompt attacks due to weakened alignment during visual integration"
+cs.LG,cs.LG_35,Efficient Quantization of Mixture-of-Experts with Theoretical Generalization Guarantees,https://arxiv.org/abs/2604.06515,"arXiv:2604.06515v1 Announce Type: new 
+Abstract: Sparse Mixture-of-Experts (MoE) allows scaling of language and vision models efficiently by activating only a small subset of experts per input. While "
+cs.LG,cs.LG_36,Time-Series Classification with Multivariate Statistical Dependence Features,https://arxiv.org/abs/2604.06537,"arXiv:2604.06537v1 Announce Type: new 
+Abstract: In this paper, we propose a novel framework for non-stationary time-series analysis that replaces conventional correlation-based statistics with direct"
+cs.LG,cs.LG_37,When Does Context Help? A Systematic Study of Target-Conditional Molecular Property Prediction,https://arxiv.org/abs/2604.06558,"arXiv:2604.06558v1 Announce Type: new 
+Abstract: We present the first systematic study of when target context helps molecular property prediction, evaluating context conditioning across 10 diverse pro"
+cs.LG,cs.LG_38,TwinLoop: Simulation-in-the-Loop Digital Twins for Online Multi-Agent Reinforcement Learning,https://arxiv.org/abs/2604.06610,"arXiv:2604.06610v1 Announce Type: new 
+Abstract: Decentralised online learning enables runtime adaptation in cyber-physical multi-agent systems, but when operating conditions change, learned policies "
+cs.LG,cs.LG_39,PD-SOVNet: A Physics-Driven Second-Order Vibration Operator Network for Estimating Wheel Polygonal Roughness from Axle-Box Vibrations,https://arxiv.org/abs/2604.06620,"arXiv:2604.06620v1 Announce Type: new 
+Abstract: Quantitative estimation of wheel polygonal roughness from axle-box vibration signals is a challenging yet practically relevant problem for rail-vehicle"
+cs.LG,cs.LG_40,SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport,https://arxiv.org/abs/2604.06631,"arXiv:2604.06631v1 Announce Type: new 
+Abstract: Federated Learning (FL) enables collaborative model training while preserving data privacy, but its practical deployment is hampered by system and stat"
+cs.LG,cs.LG_41,SHAPE: Stage-aware Hierarchical Advantage via Potential Estimation for LLM Reasoning,https://arxiv.org/abs/2604.06636,"arXiv:2604.06636v1 Announce Type: new 
+Abstract: Process supervision has emerged as a promising approach for enhancing LLM reasoning, yet existing methods fail to distinguish meaningful progress from "
+cs.LG,cs.LG_42,FlowAdam: Implicit Regularization via Geometry-Aware Soft Momentum Injection,https://arxiv.org/abs/2604.06652,"arXiv:2604.06652v1 Announce Type: new 
+Abstract: Adaptive moment methods such as Adam use a diagonal, coordinate-wise preconditioner based on exponential moving averages of squared gradients. This dia"
+cs.LG,cs.LG_43,GraphWalker: Graph-Guided In-Context Learning for Clinical Reasoning on Electronic Health Records,https://arxiv.org/abs/2604.06684,"arXiv:2604.06684v1 Announce Type: new 
+Abstract: Clinical Reasoning on Electronic Health Records (EHRs) is a fundamental yet challenging task in modern healthcare. While in-context learning (ICL) offe"
+cs.LG,cs.LG_44,Towards Accurate and Calibrated Classification: Regularizing Cross-Entropy From A Generative Perspective,https://arxiv.org/abs/2604.06689,"arXiv:2604.06689v1 Announce Type: new 
+Abstract: Accurate classification requires not only high predictive accuracy but also well-calibrated confidence estimates. Yet, modern deep neural networks (DNN"
+cs.LG,cs.LG_45,Bi-Lipschitz Autoencoder With Injectivity Guarantee,https://arxiv.org/abs/2604.06701,"arXiv:2604.06701v1 Announce Type: new 
+Abstract: Autoencoders are widely used for dimensionality reduction, based on the assumption that high-dimensional data lies on low-dimensional manifolds. Regula"
+cs.LG,cs.LG_46,Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach,https://arxiv.org/abs/2604.06727,"arXiv:2604.06727v1 Announce Type: new 
+Abstract: Heterogeneity in time series data is more pronounced than in vision or language, as temporal dynamics vary substantially across domains and tasks. Exis"
+cs.LG,cs.LG_47,Extraction of linearized models from pre-trained networks via knowledge distillation,https://arxiv.org/abs/2604.06732,"arXiv:2604.06732v1 Announce Type: new 
+Abstract: Recent developments in hardware, such as photonic integrated circuits and optical devices, are driving demand for research on constructing machine lear"
+cs.LG,cs.LG_48,Busemann energy-based attention for emotion analysis in Poincar\'e discs,https://arxiv.org/abs/2604.06752,"arXiv:2604.06752v1 Announce Type: new 
+Abstract: We present EmBolic - a novel fully hyperbolic deep learning architecture for fine-grained emotion analysis from textual messages. The underlying idea i"
+cs.LG,cs.LG_49,The Rhetoric of Machine Learning,https://arxiv.org/abs/2604.06754,"arXiv:2604.06754v1 Announce Type: new 
+Abstract: I examine the technology of machine learning from the perspective of rhetoric, which is simply the art of persuasion. Rather than being a neutral and """
+cs.LG,cs.LG_50,Geometric Properties of the Voronoi Tessellation in Latent Semantic Manifolds of Large Language Models,https://arxiv.org/abs/2604.06767,"arXiv:2604.06767v1 Announce Type: new 
+Abstract: Language models operate on discrete tokens but compute in continuous vector spaces, inducing a Voronoi tessellation over the representation manifold. W"
+cs.LG,cs.LG_51,Sparse-Aware Neural Networks for Nonlinear Functionals: Mitigating the Exponential Dependence on Dimension,https://arxiv.org/abs/2604.06774,"arXiv:2604.06774v1 Announce Type: new 
+Abstract: Deep neural networks have emerged as powerful tools for learning operators defined over infinite-dimensional function spaces. However, existing theorie"
+cs.LG,cs.LG_52,Instance-Adaptive Parametrization for Amortized Variational Inference,https://arxiv.org/abs/2604.06796,"arXiv:2604.06796v1 Announce Type: new 
+Abstract: Latent variable models, including variational autoencoders (VAE), remain a central tool in modern deep generative modeling due to their scalability and"
+cs.LG,cs.LG_53,MoBiE: Efficient Inference of Mixture of Binary Experts under Post-Training Quantization,https://arxiv.org/abs/2604.06798,"arXiv:2604.06798v1 Announce Type: new 
+Abstract: Mixture-of-Experts (MoE) based large language models (LLMs) offer strong performance but suffer from high memory and computation costs. Weight binariza"
+cs.LG,cs.LG_54,"OmniTabBench: Mapping the Empirical Frontiers of GBDTs, Neural Networks, and Foundation Models for Tabular Data at Scale",https://arxiv.org/abs/2604.06814,"arXiv:2604.06814v1 Announce Type: new 
+Abstract: While traditional tree-based ensemble methods have long dominated tabular tasks, deep neural networks and emerging foundation models have challenged th"
+cs.LG,cs.LG_55,STQuant: Spatio-Temporal Adaptive Framework for Optimizer Quantization in Large Multimodal Model Training,https://arxiv.org/abs/2604.06836,"arXiv:2604.06836v1 Announce Type: new 
+Abstract: Quantization is an effective way to reduce the memory cost of large-scale model training. However, most existing methods adopt fixed-precision policies"
+cs.LG,cs.LG_56,Contraction-Aligned Analysis of Soft Bellman Residual Minimization with Weighted Lp-Norm for Markov Decision Problem,https://arxiv.org/abs/2604.06837,"arXiv:2604.06837v1 Announce Type: new 
+Abstract: The problem of solving Markov decision processes under function approximation remains a fundamental challenge, even under linear function approximation"
+cs.LG,cs.LG_57,MENO: MeanFlow-Enhanced Neural Operators for Dynamical Systems,https://arxiv.org/abs/2604.06881,"arXiv:2604.06881v1 Announce Type: new 
+Abstract: Neural operators have emerged as powerful surrogates for dynamical systems due to their grid-invariant properties and computational efficiency. However"
+cs.LG,cs.LG_58,VertAX: a differentiable vertex model for learning epithelial tissue mechanics,https://arxiv.org/abs/2604.06896,"arXiv:2604.06896v1 Announce Type: new 
+Abstract: Epithelial tissues dynamically reshape through local mechanical interactions among cells, a process well captured by vertex models. Yet their many tuna"
+cs.LG,cs.LG_59,Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems,https://arxiv.org/abs/2604.06914,"arXiv:2604.06914v1 Announce Type: new 
+Abstract: In this paper, we study a vehicle-to-infrastructure (V2I) system where distributed base stations (BSs) acting as road-side units (RSUs) collect multimo"
+cs.LG,cs.LG_60,"FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",https://arxiv.org/abs/2604.06916,"arXiv:2604.06916v1 Announce Type: new 
+Abstract: Reinforcement-Learning-based post-training has recently emerged as a promising paradigm for aligning text-to-image diffusion models with human preferen"
+cs.LG,cs.LG_61,A First Guess is Rarely the Final Answer: Learning to Search in the Travelling Salesperson Problem,https://arxiv.org/abs/2604.06940,"arXiv:2604.06940v1 Announce Type: new 
+Abstract: Most neural solvers for the Traveling Salesperson Problem (TSP) are trained to output a single solution, even though practitioners rarely stop there: a"
+cs.LG,cs.LG_62,Frailty Estimation in Elderly Oncology Patients Using Multimodal Wearable Data and Multi-Instance Learning,https://arxiv.org/abs/2604.06985,"arXiv:2604.06985v1 Announce Type: new 
+Abstract: Frailty and functional decline strongly influence treatment tolerance and outcomes in older patients with cancer, yet assessment is typically limited t"
+cs.LG,cs.LG_63,Stress Estimation in Elderly Oncology Patients Using Visual Wearable Representations and Multi-Instance Learning,https://arxiv.org/abs/2604.06990,"arXiv:2604.06990v1 Announce Type: new 
+Abstract: Psychological stress is clinically relevant in cardio-oncology, yet it is typically assessed only through patient-reported outcome measures (PROMs) and"
+cs.LG,cs.LG_64,Predictive Representations for Skill Transfer in Reinforcement Learning,https://arxiv.org/abs/2604.07016,"arXiv:2604.07016v1 Announce Type: new 
+Abstract: A key challenge in scaling up Reinforcement Learning is generalizing learned behaviour. Without the ability to carry forward acquired knowledge an agen"
+cs.LG,cs.LG_65,ConceptTracer: Interactive Analysis of Concept Saliency and Selectivity in Neural Representations,https://arxiv.org/abs/2604.07019,"arXiv:2604.07019v1 Announce Type: new 
+Abstract: Neural networks deliver impressive predictive performance across a variety of tasks, but they are often opaque in their decision-making processes. Desp"
+cs.LG,cs.LG_66,Learning to Query History: Nonstationary Classification via Learned Retrieval,https://arxiv.org/abs/2604.07027,"arXiv:2604.07027v1 Announce Type: new 
+Abstract: Nonstationarity is ubiquitous in practical classification settings, leading deployed models to perform poorly even when they generalize well to holdout"
+cs.LG,cs.LG_67,MoE Routing Testbed: Studying Expert Specialization and Routing Behavior at Small Scale,https://arxiv.org/abs/2604.07030,"arXiv:2604.07030v1 Announce Type: new 
+Abstract: Sparse Mixture-of-Experts (MoE) architectures are increasingly popular for frontier large language models (LLM) but they introduce training challenges "
+cs.LG,cs.LG_68,AdaBoost Does Not Always Cycle: A Computer-Assisted Counterexample,https://arxiv.org/abs/2604.07055,"arXiv:2604.07055v1 Announce Type: new 
+Abstract: We give a computer-assisted counterexample to the open question, posed by Rudin, Schapire, and Daubechies in COLT 2012, of whether exhaustive AdaBoost "
+cs.LG,cs.LG_69,Production-Ready Automated ECU Calibration using Residual Reinforcement Learning,https://arxiv.org/abs/2604.07059,"arXiv:2604.07059v1 Announce Type: new 
+Abstract: Electronic Control Units (ECUs) have played a pivotal role in transforming motorcars of yore into the modern vehicles we see on our roads today. They a"
+cs.LG,cs.LG_70,Epistemic Robust Offline Reinforcement Learning,https://arxiv.org/abs/2604.07072,"arXiv:2604.07072v1 Announce Type: new 
+Abstract: Offline reinforcement learning learns policies from fixed datasets without further environment interaction. A key challenge in this setting is epistemi"
+cs.LG,cs.LG_71,Mining Electronic Health Records to Investigate Effectiveness of Ensemble Deep Clustering,https://arxiv.org/abs/2604.07085,"arXiv:2604.07085v1 Announce Type: new 
+Abstract: In electronic health records (EHRs), clustering patients and distinguishing disease subtypes are key tasks to elucidate pathophysiology and aid clinica"
+cs.LG,cs.LG_72,Are Stochastic Multi-objective Bandits Harder than Single-objective Bandits?,https://arxiv.org/abs/2604.07096,"arXiv:2604.07096v1 Announce Type: new 
+Abstract: Multi-objective bandits have attracted increasing attention because of their broad applicability and mathematical elegance, where the reward of each ar"
+cs.LG,cs.LG_73,Selective Neuron Amplification for Training-Free Task Enhancement,https://arxiv.org/abs/2604.07098,"arXiv:2604.07098v1 Announce Type: new 
+Abstract: Large language models often fail on tasks they seem to already understand. In our experiments, this appears to be less about missing knowledge and more"
+cs.LG,cs.LG_74,Information as Structural Alignment: A Dynamical Theory of Continual Learning,https://arxiv.org/abs/2604.07108,"arXiv:2604.07108v1 Announce Type: new 
+Abstract: Catastrophic forgetting is not an engineering failure. It is a mathematical consequence of storing knowledge as global parameter superposition. Existin"
+cs.LG,cs.LG_75,Lumbermark: Resistant Clustering by Chopping Up Mutual Reachability Minimum Spanning Trees,https://arxiv.org/abs/2604.07143,"arXiv:2604.07143v1 Announce Type: new 
+Abstract: We introduce Lumbermark, a robust divisive clustering algorithm capable of detecting clusters of varying sizes, densities, and shapes. Lumbermark itera"
+cs.LG,cs.LG_76,Multi-Turn Reasoning LLMs for Task Offloading in Mobile Edge Computing,https://arxiv.org/abs/2604.07148,"arXiv:2604.07148v1 Announce Type: new 
+Abstract: Emerging computation-intensive applications impose stringent latency requirements on resource-constrained mobile devices. Mobile Edge Computing (MEC) a"
+cs.LG,cs.LG_77,"SBBTS: A Unified Schr\""odinger-Bass Framework for Synthetic Financial Time Series",https://arxiv.org/abs/2604.07159,"arXiv:2604.07159v1 Announce Type: new 
+Abstract: We study the problem of generating synthetic time series that reproduce both marginal distributions and temporal dynamics, a central challenge in finan"
+cs.LG,cs.LG_78,Smart Commander: A Hierarchical Reinforcement Learning Framework for Fleet-Level PHM Decision Optimization,https://arxiv.org/abs/2604.07171,"arXiv:2604.07171v1 Announce Type: new 
+Abstract: Decision-making in military aviation Prognostics and Health Management (PHM) faces significant challenges due to the ""curse of dimensionality"" in large"
+cs.LG,cs.LG_79,Improving Semantic Uncertainty Quantification in Language Model Question-Answering via Token-Level Temperature Scaling,https://arxiv.org/abs/2604.07172,"arXiv:2604.07172v1 Announce Type: new 
+Abstract: Calibration is central to reliable semantic uncertainty quantification, yet prior work has largely focused on discrimination, neglecting calibration. A"
+cs.LG,cs.LG_80,Mixture Proportion Estimation and Weakly-supervised Kernel Test for Conditional Independence,https://arxiv.org/abs/2604.07191,"arXiv:2604.07191v1 Announce Type: new 
+Abstract: Mixture proportion estimation (MPE) aims to estimate class priors from unlabeled data. This task is a critical component in weakly supervised learning,"
+cs.LG,cs.LG_81,Beyond the Mean: Modelling Annotation Distributions in Continuous Affect Prediction,https://arxiv.org/abs/2604.07198,"arXiv:2604.07198v1 Announce Type: new 
+Abstract: Emotion annotation is inherently subjective and cognitively demanding, producing signals that reflect diverse perceptions across annotators rather than"
+cs.LG,cs.LG_82,Diffusion Processes on Implicit Manifolds,https://arxiv.org/abs/2604.07213,"arXiv:2604.07213v1 Announce Type: new 
+Abstract: High-dimensional data are often modeled as lying near a low-dimensional manifold. We study how to construct diffusion processes on this data manifold i"
+cs.LG,cs.LG_83,How Does Machine Learning Manage Complexity?,https://arxiv.org/abs/2604.07233,"arXiv:2604.07233v1 Announce Type: new 
+Abstract: We provide a computational complexity lens to understand the power of machine learning models, particularly their ability to model complex systems.
+  M"
+cs.LG,cs.LG_84,On the Price of Privacy for Language Identification and Generation,https://arxiv.org/abs/2604.07238,"arXiv:2604.07238v1 Announce Type: new 
+Abstract: As large language models (LLMs) are increasingly trained on sensitive user data, understanding the fundamental cost of privacy in language learning bec"
+cs.LG,cs.LG_85,"Weaves, Wires, and Morphisms: Formalizing and Implementing the Algebra of Deep Learning",https://arxiv.org/abs/2604.07242,"arXiv:2604.07242v1 Announce Type: new 
+Abstract: Despite deep learning models running well-defined mathematical functions, we lack a formal mathematical framework for describing model architectures. A"
+cs.LG,cs.LG_86,A comparative analysis of machine learning models in SHAP analysis,https://arxiv.org/abs/2604.07258,"arXiv:2604.07258v1 Announce Type: new 
+Abstract: In this growing age of data and technology, large black-box models are becoming the norm due to their ability to handle vast amounts of data and learn "
+cs.LG,cs.LG_87,Tracking Adaptation Time: Metrics for Temporal Distribution Shift,https://arxiv.org/abs/2604.07266,"arXiv:2604.07266v1 Announce Type: new 
+Abstract: Evaluating robustness under temporal distribution shift remains an open challenge. Existing metrics quantify the average decline in performance, but fa"
+cs.LG,cs.LG_88,Android Coach: Improve Online Agentic Training Efficiency with Single State Multiple Actions,https://arxiv.org/abs/2604.07277,"arXiv:2604.07277v1 Announce Type: new 
+Abstract: Online reinforcement learning (RL) serves as an effective method for enhancing the capabilities of Android agents. However, guiding agents to learn thr"
+cs.LG,cs.LG_89,Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability,https://arxiv.org/abs/2604.07292,"arXiv:2604.07292v1 Announce Type: new 
+Abstract: Real-time supervisory control of advanced reactors requires accurate forecasting of plant-wide thermal-hydraulic states, including locations where phys"
+cs.LG,cs.LG_90,SL-FAC: A Communication-Efficient Split Learning Framework with Frequency-Aware Compression,https://arxiv.org/abs/2604.07316,"arXiv:2604.07316v1 Announce Type: new 
+Abstract: The growing complexity of neural networks hinders the deployment of distributed machine learning on resource-constrained devices. Split learning (SL) o"
+cs.LG,cs.LG_91,How to sketch a learning algorithm,https://arxiv.org/abs/2604.07328,"arXiv:2604.07328v1 Announce Type: new 
+Abstract: How does the choice of training data influence an AI model? This question is of central importance to interpretability, privacy, and basic science. At "
+cs.LG,cs.LG_92,MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis,https://arxiv.org/abs/2604.06180,"arXiv:2604.06180v1 Announce Type: cross 
+Abstract: Medical diagnosis using Large Multimodal Models (LMMs) has gained increasing attention due to capability of these models in providing precise diagnos"
+cs.LG,cs.LG_93,The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning Correlated in LLMs?,https://arxiv.org/abs/2604.06192,"arXiv:2604.06192v1 Announce Type: cross 
+Abstract: Recent work uses entropy-based signals at multiple representation levels to study reasoning in large language models, but the field remains largely e"
+cs.LG,cs.LG_94,Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook,https://arxiv.org/abs/2604.06210,"arXiv:2604.06210v1 Announce Type: cross 
+Abstract: As LLMs are globally deployed, aligning their cultural value orientations is critical for safety and user engagement. However, existing benchmarks fa"
+cs.LG,cs.LG_95,Toward Reducing Unproductive Container Moves: Predicting Service Requirements and Dwell Times,https://arxiv.org/abs/2604.06251,"arXiv:2604.06251v1 Announce Type: cross 
+Abstract: This article presents the results of a data science study conducted at a container terminal, aimed at reducing unproductive container moves through t"
+cs.LG,cs.LG_96,Incentive-Aware Multi-Fidelity Optimization for Generative Advertising in Large Language Models,https://arxiv.org/abs/2604.06263,"arXiv:2604.06263v1 Announce Type: cross 
+Abstract: Generative advertising in large language model (LLM) responses requires optimizing sponsorship configurations under two strict constraints: the strat"
+cs.LG,cs.LG_97,Weakly Supervised Distillation of Hallucination Signals into Transformer Representations,https://arxiv.org/abs/2604.06277,"arXiv:2604.06277v1 Announce Type: cross 
+Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, re"
+cs.LG,cs.LG_98,Tight Convergence Rates for Online Distributed Linear Estimation with Adversarial Measurements,https://arxiv.org/abs/2604.06282,"arXiv:2604.06282v1 Announce Type: cross 
+Abstract: We study mean estimation of a random vector $X$ in a distributed parameter-server-worker setup. Worker $i$ observes samples of $a_i^\top X$, where $a"
+cs.LG,cs.LG_99,Adversarial Robustness of Time-Series Classification for Crystal Collimator Alignment,https://arxiv.org/abs/2604.06289,"arXiv:2604.06289v1 Announce Type: cross 
+Abstract: In this paper, we analyze and improve the adversarial robustness of a convolutional neural network (CNN) that assists crystal-collimator alignment at"
+cs.LG,cs.LG_100,FedSpy-LLM: Towards Scalable and Generalizable Data Reconstruction Attacks from Gradients on LLMs,https://arxiv.org/abs/2604.06297,"arXiv:2604.06297v1 Announce Type: cross 
+Abstract: Given the growing reliance on private data in training Large Language Models (LLMs), Federated Learning (FL) combined with Parameter-Efficient Fine-T"
+cs.LG,cs.LG_101,Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection,https://arxiv.org/abs/2604.06332,"arXiv:2604.06332v1 Announce Type: cross 
+Abstract: Autonomous highway driving, especially for long-haul heavy trucks, requires detecting objects at long ranges beyond 500 meters to satisfy braking dis"
+cs.LG,cs.LG_102,WebSP-Eval: Evaluating Web Agents on Website Security and Privacy Tasks,https://arxiv.org/abs/2604.06367,"arXiv:2604.06367v1 Announce Type: cross 
+Abstract: Web agents automate browser tasks, ranging from simple form completion to complex workflows like ordering groceries. While current benchmarks evaluat"
+cs.LG,cs.LG_103,ForkKV: Scaling Multi-LoRA Agent Serving via Copy-on-Write Disaggregated KV Cache,https://arxiv.org/abs/2604.06370,"arXiv:2604.06370v1 Announce Type: cross 
+Abstract: The serving paradigm of large language models (LLMs) is rapidly shifting towards complex multi-agent workflows where specialized agents collaborate o"
+cs.LG,cs.LG_104,The Illusion of Superposition? A Principled Analysis of Latent Thinking in Language Models,https://arxiv.org/abs/2604.06374,"arXiv:2604.06374v1 Announce Type: cross 
+Abstract: Latent reasoning via continuous chain-of-thoughts (Latent CoT) has emerged as a promising alternative to discrete CoT reasoning. Operating in continu"
+cs.LG,cs.LG_105,Revisiting Fairness Impossibility with Endogenous Behavior,https://arxiv.org/abs/2604.06378,"arXiv:2604.06378v1 Announce Type: cross 
+Abstract: In many real-world settings, institutions can and do adjust the consequences attached to algorithmic classification decisions, such as the size of fi"
+cs.LG,cs.LG_106,Calibration of a neural network ocean closure for improved mean state and variability,https://arxiv.org/abs/2604.06398,"arXiv:2604.06398v1 Announce Type: cross 
+Abstract: Global ocean models exhibit biases in the mean state and variability, particularly at coarse resolution, where mesoscale eddies are unresolved. To ad"
+cs.LG,cs.LG_107,ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning,https://arxiv.org/abs/2604.06401,"arXiv:2604.06401v1 Announce Type: cross 
+Abstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argument often includes so"
+cs.LG,cs.LG_108,"Towards Resilient Intrusion Detection in CubeSats: Challenges, TinyML Solutions, and Future Directions",https://arxiv.org/abs/2604.06411,"arXiv:2604.06411v1 Announce Type: cross 
+Abstract: CubeSats have revolutionized access to space by providing affordable and accessible platforms for research and education. However, their reliance on "
+cs.LG,cs.LG_109,Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries,https://arxiv.org/abs/2604.06416,"arXiv:2604.06416v1 Announce Type: cross 
+Abstract: Although LLM context lengths have grown, there is evidence that their ability to integrate information across long-form texts has not kept pace. We e"
+cs.LG,cs.LG_110,The Unreasonable Effectiveness of Data for Recommender Systems,https://arxiv.org/abs/2604.06420,"arXiv:2604.06420v1 Announce Type: cross 
+Abstract: In recommender systems, collecting, storing, and processing large-scale interaction data is increasingly costly in terms of time, energy, and computa"
+cs.LG,cs.LG_111,Operator Learning for Surrogate Modeling of Wave-Induced Forces from Sea Surface Waves,https://arxiv.org/abs/2604.06433,"arXiv:2604.06433v1 Announce Type: cross 
+Abstract: Wave setup plays a significant role in transferring wave-induced energy to currents and causing an increase in water elevation. This excess momentum "
+cs.LG,cs.LG_112,Learning Debt and Cost-Sensitive Bayesian Retraining: A Forecasting Operations Framework,https://arxiv.org/abs/2604.06438,"arXiv:2604.06438v1 Announce Type: cross 
+Abstract: Forecasters often choose retraining schedules by convention rather than by an explicit decision rule. This paper gives that decision a posterior-spac"
+cs.LG,cs.LG_113,Visual prompting reimagined: The power of the Activation Prompts,https://arxiv.org/abs/2604.06440,"arXiv:2604.06440v1 Announce Type: cross 
+Abstract: Visual prompting (VP) has emerged as a popular method to repurpose pretrained vision models for adaptation to downstream tasks. Unlike conventional m"
+cs.LG,cs.LG_114,Anticipating tipping in spatiotemporal systems with machine learning,https://arxiv.org/abs/2604.06454,"arXiv:2604.06454v1 Announce Type: cross 
+Abstract: In nonlinear dynamical systems, tipping refers to a critical transition from one steady state to another, typically catastrophic, steady state, often"
+cs.LG,cs.LG_115,Spatiotemporal Gaussian representation-based dynamic reconstruction and motion estimation framework for time-resolved volumetric MR imaging (DREME-GSMR),https://arxiv.org/abs/2604.06482,"arXiv:2604.06482v1 Announce Type: cross 
+Abstract: Time-resolved volumetric MR imaging that reconstructs a 3D MRI within sub-seconds to resolve deformable motion is essential for motion-adaptive radio"
+cs.LG,cs.LG_116,Soft-Quantum Algorithms,https://arxiv.org/abs/2604.06523,"arXiv:2604.06523v1 Announce Type: cross 
+Abstract: Quantum operations on pure states can be fully represented by unitary matrices. Variational quantum circuits, also known as quantum neural networks, "
+cs.LG,cs.LG_117,Stochastic Auto-conditioned Fast Gradient Methods with Optimal Rates,https://arxiv.org/abs/2604.06525,"arXiv:2604.06525v1 Announce Type: cross 
+Abstract: Achieving optimal rates for stochastic composite convex optimization without prior knowledge of problem parameters remains a central challenge. In th"
+cs.LG,cs.LG_118,"A Generalized Sinkhorn Algorithm for Mean-Field Schr\""odinger Bridge",https://arxiv.org/abs/2604.06531,"arXiv:2604.06531v1 Announce Type: cross 
+Abstract: The mean-field Schr\""odinger bridge (MFSB) problem concerns designing a minimum-effort controller that guides a diffusion process with nonlocal inter"
+cs.LG,cs.LG_119,Quantum-Inspired Tensor Network Autoencoders for Anomaly Detection: A MERA-Based Approach,https://arxiv.org/abs/2604.06541,"arXiv:2604.06541v1 Announce Type: cross 
+Abstract: We investigate whether a multiscale tensor-network architecture can provide a useful inductive bias for reconstruction-based anomaly detection in col"
+cs.LG,cs.LG_120,The Illusion of Stochasticity in LLMs,https://arxiv.org/abs/2604.06543,"arXiv:2604.06543v1 Announce Type: cross 
+Abstract: In this work, we demonstrate that reliable stochastic sampling is a fundamental yet unfulfilled requirement for Large Language Models (LLMs) operatin"
+cs.LG,cs.LG_121,ExplainFuzz: Explainable and Constraint-Conditioned Test Generation with Probabilistic Circuits,https://arxiv.org/abs/2604.06559,"arXiv:2604.06559v1 Announce Type: cross 
+Abstract: Understanding and explaining the structure of generated test inputs is essential for effective software testing and debugging. Existing approaches--i"
+cs.LG,cs.LG_122,Accelerating 4D Hyperspectral Imaging through Physics-Informed Neural Representation and Adaptive Sampling,https://arxiv.org/abs/2604.06561,"arXiv:2604.06561v1 Announce Type: cross 
+Abstract: High-dimensional hyperspectral imaging (HSI) enables the visualization of ultrafast molecular dynamics and complex, heterogeneous spectra. However, a"
+cs.LG,cs.LG_123,LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources,https://arxiv.org/abs/2604.06571,"arXiv:2604.06571v1 Announce Type: cross 
+Abstract: Missing-person and child-safety investigations rely on heterogeneous case documents, including structured forms, bulletin-style posters, and narrativ"
+cs.LG,cs.LG_124,DynLP: Parallel Dynamic Batch Update for Label Propagation in Semi-Supervised Learning,https://arxiv.org/abs/2604.06596,"arXiv:2604.06596v1 Announce Type: cross 
+Abstract: Semi-supervised learning aims to infer class labels using only a small fraction of labeled data. In graph-based semi-supervised learning, this is typ"
+cs.LG,cs.LG_125,Neural parametric representations for thin-shell shape optimisation,https://arxiv.org/abs/2604.06612,"arXiv:2604.06612v1 Announce Type: cross 
+Abstract: Shape optimisation of thin-shell structures requires a flexible, differentiable geometric representation suitable for gradient-based optimisation. We"
+cs.LG,cs.LG_126,The Detection--Extraction Gap: Models Know the Answer Before They Can Say It,https://arxiv.org/abs/2604.06613,"arXiv:2604.06613v1 Announce Type: cross 
+Abstract: Modern reasoning models continue generating long after the answer is already determined. Across five model configurations, two families, and three be"
+cs.LG,cs.LG_127,Holistic Optimal Label Selection for Robust Prompt Learning under Partial Labels,https://arxiv.org/abs/2604.06614,"arXiv:2604.06614v1 Announce Type: cross 
+Abstract: Prompt learning has gained significant attention as a parameter-efficient approach for adapting large pre-trained vision-language models to downstrea"
+cs.LG,cs.LG_128,The Theorems of Dr. David Blackwell and Their Contributions to Artificial Intelligence,https://arxiv.org/abs/2604.06621,"arXiv:2604.06621v1 Announce Type: cross 
+Abstract: Dr. David Blackwell was a mathematician and statistician of the first rank, whose contributions to statistical theory, game theory, and decision theo"
+cs.LG,cs.LG_129,Variational Feature Compression for Model-Specific Representations,https://arxiv.org/abs/2604.06644,"arXiv:2604.06644v1 Announce Type: cross 
+Abstract: As deep learning inference is increasingly deployed in shared and cloud-based settings, a growing concern is input repurposing, in which data submitt"
+cs.LG,cs.LG_130,Towards Robust Content Watermarking Against Removal and Forgery Attacks,https://arxiv.org/abs/2604.06662,"arXiv:2604.06662v1 Announce Type: cross 
+Abstract: Generated contents have raised serious concerns about copyright protection, image provenance, and credit attribution. A potential solution for these "
+cs.LG,cs.LG_131,Foundry: Template-Based CUDA Graph Context Materialization for Fast LLM Serving Cold Start,https://arxiv.org/abs/2604.06664,"arXiv:2604.06664v1 Announce Type: cross 
+Abstract: Modern LLM service providers increasingly rely on autoscaling and parallelism reconfiguration to respond to rapidly changing workloads, but cold-star"
+cs.LG,cs.LG_132,Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs,https://arxiv.org/abs/2604.06699,"arXiv:2604.06699v1 Announce Type: cross 
+Abstract: Automated prompt optimization is crucial for eliciting reliable reasoning from large language models (LLMs), yet most API-only prompt optimizers iter"
+cs.LG,cs.LG_133,Steering the Verifiability of Multimodal AI Hallucinations,https://arxiv.org/abs/2604.06714,"arXiv:2604.06714v1 Announce Type: cross 
+Abstract: AI applications driven by multimodal large language models (MLLMs) are prone to hallucinations and pose considerable risks to human users. Crucially,"
+cs.LG,cs.LG_134,CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation,https://arxiv.org/abs/2604.06718,"arXiv:2604.06718v1 Announce Type: cross 
+Abstract: Repurchase behavior is a primary signal in large-scale retail recommendation, particularly in categories with frequent replenishment: many items in a"
+cs.LG,cs.LG_135,Beyond Pessimism: Offline Learning in KL-regularized Games,https://arxiv.org/abs/2604.06738,"arXiv:2604.06738v1 Announce Type: cross 
+Abstract: We study offline learning in KL-regularized two-player zero-sum games, where policies are optimized under a KL constraint to a fixed reference policy"
+cs.LG,cs.LG_136,CBM-Dual: A 65-nm Fully Connected Chaotic Boltzmann Machine Processor for Dual Function Simulated Annealing and Reservoir Computing,https://arxiv.org/abs/2604.06808,"arXiv:2604.06808v1 Announce Type: cross 
+Abstract: This paper presents CBM-Dual, the first silicon-proven digital chaotic dynamics processor (CDP) supporting both simulated annealing (SA) and reservoi"
+cs.LG,cs.LG_137,FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization,https://arxiv.org/abs/2604.06833,"arXiv:2604.06833v1 Announce Type: cross 
+Abstract: As high quality public data becomes scarce, Federated Learning (FL) provides a vital pathway to leverage valuable private user data while preserving "
+cs.LG,cs.LG_138,Explaining Neural Networks in Preference Learning: a Post-hoc Inductive Logic Programming Approach,https://arxiv.org/abs/2604.06838,"arXiv:2604.06838v1 Announce Type: cross 
+Abstract: In this paper, we propose using Learning from Answer Sets to approximate black-box models, such as Neural Networks (NN), in the specific case of lear"
+cs.LG,cs.LG_139,A Data-Informed Variational Clustering Framework for Noisy High-Dimensional Data,https://arxiv.org/abs/2604.06864,"arXiv:2604.06864v1 Announce Type: cross 
+Abstract: Clustering in high-dimensional settings with severe feature noise remains challenging, especially when only a small subset of dimensions is informati"
+cs.LG,cs.LG_140,Energy-Regularized Spatial Masking: A Novel Approach to Enhancing Robustness and Interpretability in Vision Models,https://arxiv.org/abs/2604.06893,"arXiv:2604.06893v1 Announce Type: cross 
+Abstract: Deep convolutional neural networks achieve remarkable performance by exhaustively processing dense spatial feature maps, yet this brute-force strateg"
+cs.LG,cs.LG_141,Data Leakage in Automotive Perception: Practitioners' Insights,https://arxiv.org/abs/2604.06899,"arXiv:2604.06899v1 Announce Type: cross 
+Abstract: Data leakage is the inadvertent transfer of information between training and evaluation datasets that poses a subtle, yet critical, risk to the relia"
+cs.LG,cs.LG_142,Continuous-Time Dynamics of the Difference-of-Convex Algorithm,https://arxiv.org/abs/2604.06926,"arXiv:2604.06926v1 Announce Type: cross 
+Abstract: We study the continuous-time structure of the difference-of-convex algorithm (DCA) for smooth DC decompositions with a strongly convex component. In "
+cs.LG,cs.LG_143,"Evaluating PQC KEMs, Combiners, and Cascade Encryption via Adaptive IND-CPA Testing Using Deep Learning",https://arxiv.org/abs/2604.06942,"arXiv:2604.06942v1 Announce Type: cross 
+Abstract: Ensuring ciphertext indistinguishability is fundamental to cryptographic security, but empirically validating this property in real implementations a"
+cs.LG,cs.LG_144,"NestPipe: Large-Scale Recommendation Training on 1,500+ Accelerators via Nested Pipelining",https://arxiv.org/abs/2604.06956,"arXiv:2604.06956v1 Announce Type: cross 
+Abstract: Modern recommendation models have increased to trillions of parameters. As cluster scales expand to O(1k), distributed training bottlenecks shift fro"
+cs.LG,cs.LG_145,ELC: Evidential Lifelong Classifier for Uncertainty Aware Radar Pulse Classification,https://arxiv.org/abs/2604.06958,"arXiv:2604.06958v1 Announce Type: cross 
+Abstract: Reliable radar pulse classification is essential in Electromagnetic Warfare for situational awareness and decision support. Deep Neural Networks have"
+cs.LG,cs.LG_146,CAFP: A Post-Processing Framework for Group Fairness via Counterfactual Model Averaging,https://arxiv.org/abs/2604.07009,"arXiv:2604.07009v1 Announce Type: cross 
+Abstract: Ensuring fairness in machine learning predictions is a critical challenge, especially when models are deployed in sensitive domains such as credit sc"
+cs.LG,cs.LG_147,QNAS: A Neural Architecture Search Framework for Accurate and Efficient Quantum Neural Networks,https://arxiv.org/abs/2604.07013,"arXiv:2604.07013v1 Announce Type: cross 
+Abstract: Designing quantum neural networks (QNNs) that are both accurate and deployable on NISQ hardware is challenging. Handcrafted ansatze must balance expr"
+cs.LG,cs.LG_148,Physics-Informed Functional Link Constrained Framework with Domain Mapping for Solving Bending Analysis of an Exponentially Loaded Perforated Beam,https://arxiv.org/abs/2604.07025,"arXiv:2604.07025v1 Announce Type: cross 
+Abstract: This article presents a novel and comprehensive approach for analyzing bending behavior of the tapered perforated beam under an exponential load. The"
+cs.LG,cs.LG_149,ReDAct: Uncertainty-Aware Deferral for LLM Agents,https://arxiv.org/abs/2604.07036,"arXiv:2604.07036v1 Announce Type: cross 
+Abstract: Recently, LLM-based agents have become increasingly popular across many applications, including complex sequential decision-making problems. However,"
+cs.LG,cs.LG_150,Controller Design for Structured State-space Models via Contraction Theory,https://arxiv.org/abs/2604.07069,"arXiv:2604.07069v1 Announce Type: cross 
+Abstract: This paper presents an indirect data-driven output feedback controller synthesis for nonlinear systems, leveraging Structured State-space Models (SSM"
+cs.LG,cs.LG_151,"EVGeoQA: Benchmarking LLMs on Dynamic, Multi-Objective Geo-Spatial Exploration",https://arxiv.org/abs/2604.07070,"arXiv:2604.07070v1 Announce Type: cross 
+Abstract: While Large Language Models (LLMs) demonstrate remarkable reasoning capabilities, their potential for purpose-driven exploration in dynamic geo-spati"
+cs.LG,cs.LG_152,Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator,https://arxiv.org/abs/2604.07122,"arXiv:2604.07122v1 Announce Type: cross 
+Abstract: In semantic segmentation, the creation of pixel-level labels for training data incurs significant costs. To address this problem, semi-supervised lea"
+cs.LG,cs.LG_153,DDP-SA: Scalable Privacy-Preserving Federated Learning via Distributed Differential Privacy and Secure Aggregation,https://arxiv.org/abs/2604.07125,"arXiv:2604.07125v1 Announce Type: cross 
+Abstract: This article presents DDP-SA, a scalable privacy-preserving federated learning framework that jointly leverages client-side local differential privac"
+cs.LG,cs.LG_154,Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction,https://arxiv.org/abs/2604.07126,"arXiv:2604.07126v1 Announce Type: cross 
+Abstract: Predicting vehicle trajectories plays an important role in autonomous driving and ITS applications. Although multiple deep learning algorithms are de"
+cs.LG,cs.LG_155,A solver-in-the-loop framework for end-to-end differentiable coastal hydrodynamics,https://arxiv.org/abs/2604.07129,"arXiv:2604.07129v1 Announce Type: cross 
+Abstract: Numerical simulation of wave propagation and run-up is a cornerstone of coastal engineering and tsunami hazard assessment. However, applying these fo"
+cs.LG,cs.LG_156,CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research,https://arxiv.org/abs/2604.07132,"arXiv:2604.07132v1 Announce Type: cross 
+Abstract: Child Sexual Abuse Imagery (CSAI) classification is an important yet challenging problem for computer vision research due to the strict legal and eth"
+cs.LG,cs.LG_157,Energy Saving for Cell-Free Massive MIMO Networks: A Multi-Agent Deep Reinforcement Learning Approach,https://arxiv.org/abs/2604.07133,"arXiv:2604.07133v1 Announce Type: cross 
+Abstract: This paper focuses on energy savings in downlink operation of cell-free massive MIMO (CF mMIMO) networks under dynamic traffic conditions. We propose"
+cs.LG,cs.LG_158,Dynamic Context Evolution for Scalable Synthetic Data Generation,https://arxiv.org/abs/2604.07147,"arXiv:2604.07147v1 Announce Type: cross 
+Abstract: Large language models produce repetitive output when prompted independently across many batches, a phenomenon we term cross-batch mode collapse: the "
+cs.LG,cs.LG_159,"Reason in Chains, Learn in Trees: Self-Rectification and Grafting for Multi-turn Agent Policy Optimization",https://arxiv.org/abs/2604.07165,"arXiv:2604.07165v1 Announce Type: cross 
+Abstract: Reinforcement learning for Large Language Model agents is often hindered by sparse rewards in multi-step reasoning tasks. Existing approaches like Gr"
+cs.LG,cs.LG_160,DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification,https://arxiv.org/abs/2604.07166,"arXiv:2604.07166v1 Announce Type: cross 
+Abstract: Although visual foundation models like DINOv2 provide state-of-the-art performance as feature extractors, their complex, high-dimensional representat"
+cs.LG,cs.LG_161,Amortized Filtering and Smoothing with Conditional Normalizing Flows,https://arxiv.org/abs/2604.07169,"arXiv:2604.07169v1 Announce Type: cross 
+Abstract: Bayesian filtering and smoothing for high-dimensional nonlinear dynamical systems are fundamental yet challenging problems in many areas of science a"
+cs.LG,cs.LG_162,Splats under Pressure: Exploring Performance-Energy Trade-offs in Real-Time 3D Gaussian Splatting under Constrained GPU Budgets,https://arxiv.org/abs/2604.07177,"arXiv:2604.07177v1 Announce Type: cross 
+Abstract: We investigate the feasibility of real-time 3D Gaussian Splatting (3DGS) rasterisation on edge clients with varying Gaussian splat counts and GPU com"
+cs.LG,cs.LG_163,TeaLeafVision: An Explainable and Robust Deep Learning Framework for Tea Leaf Disease Classification,https://arxiv.org/abs/2604.07182,"arXiv:2604.07182v1 Announce Type: cross 
+Abstract: As the worlds second most consumed beverage after water, tea is not just a cultural staple but a global economic force of profound scale and influenc"
+cs.LG,cs.LG_164,The ATOM Report: Measuring the Open Language Model Ecosystem,https://arxiv.org/abs/2604.07190,"arXiv:2604.07190v1 Announce Type: cross 
+Abstract: We present a comprehensive adoption snapshot of the leading open language models and who is building them, focusing on the ~1.5K mainline open models"
+cs.LG,cs.LG_165,TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories,https://arxiv.org/abs/2604.07223,"arXiv:2604.07223v1 Announce Type: cross 
+Abstract: As large language models (LLMs) evolve from static chatbots into autonomous agents, the primary vulnerability surface shifts from final outputs to in"
+cs.LG,cs.LG_166,Efficient Learned Data Compression via Dual-Stream Feature Decoupling,https://arxiv.org/abs/2604.07239,"arXiv:2604.07239v1 Announce Type: cross 
+Abstract: While Learned Data Compression (LDC) has achieved superior compression ratios, balancing precise probability modeling with system efficiency remains "
+cs.LG,cs.LG_167,$k$-server-bench: Automating Potential Discovery for the $k$-Server Conjecture,https://arxiv.org/abs/2604.07240,"arXiv:2604.07240v1 Announce Type: cross 
+Abstract: We introduce a code-based challenge for automated, open-ended mathematical discovery based on the $k$-server conjecture, a central open problem in co"
+cs.LG,cs.LG_168,Non-identifiability of Explanations from Model Behavior in Deep Networks of Image Authenticity Judgments,https://arxiv.org/abs/2604.07254,"arXiv:2604.07254v1 Announce Type: cross 
+Abstract: Deep neural networks can predict human judgments, but this does not imply that they rely on human-like information or reveal the cues underlying thos"
+cs.LG,cs.LG_169,The Theory and Practice of Highly Scalable Gaussian Process Regression with Nearest Neighbours,https://arxiv.org/abs/2604.07267,"arXiv:2604.07267v1 Announce Type: cross 
+Abstract: Gaussian process ($GP$) regression is a widely used non-parametric modeling tool, but its cubic complexity in the training size limits its use on mas"
+cs.LG,cs.LG_170,A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering,https://arxiv.org/abs/2604.07274,"arXiv:2604.07274v1 Announce Type: cross 
+Abstract: Large language models (LLMs) have demonstrated strong capabilities in medical question answering; however, purely parametric models often suffer from"
+cs.LG,cs.LG_171,Making Room for AI: Multi-GPU Molecular Dynamics with Deep Potentials in GROMACS,https://arxiv.org/abs/2604.07276,"arXiv:2604.07276v1 Announce Type: cross 
+Abstract: GROMACS is a de-facto standard for classical Molecular Dynamics (MD). The rise of AI-driven interatomic potentials that pursue near-quantum accuracy "
+cs.LG,cs.LG_172,Are Face Embeddings Compatible Across Deep Neural Network Models?,https://arxiv.org/abs/2604.07282,"arXiv:2604.07282v1 Announce Type: cross 
+Abstract: Automated face recognition has made rapid strides over the past decade due to the unprecedented rise of deep neural network (DNN) models that can be "
+cs.LG,cs.LG_173,CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency,https://arxiv.org/abs/2604.07286,"arXiv:2604.07286v1 Announce Type: cross 
+Abstract: Autonomous vehicles deployed in remote environments typically rely on embedded processors, compact batteries, and lightweight sensors. These hardware"
+cs.LG,cs.LG_174,Beyond Loss Values: Robust Dynamic Pruning via Loss Trajectory Alignment,https://arxiv.org/abs/2604.07306,"arXiv:2604.07306v1 Announce Type: cross 
+Abstract: Existing dynamic data pruning methods often fail under noisy-label settings, as they typically rely on per-sample loss as the ranking criterion. This"
+cs.LG,cs.LG_175,Gaussian Approximation for Asynchronous Q-learning,https://arxiv.org/abs/2604.07323,"arXiv:2604.07323v1 Announce Type: cross 
+Abstract: In this paper, we derive rates of convergence in the high-dimensional central limit theorem for Polyak-Ruppert averaged iterates generated by the asy"
+cs.LG,cs.LG_176,Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization,https://arxiv.org/abs/2604.07343,"arXiv:2604.07343v1 Announce Type: cross 
+Abstract: Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a ce"
+cs.LG,cs.LG_177,Measurement of Generative AI Workload Power Profiles for Whole-Facility Data Center Infrastructure Planning,https://arxiv.org/abs/2604.07345,"arXiv:2604.07345v1 Announce Type: cross 
+Abstract: The rapid growth of generative artificial intelligence (AI) has introduced unprecedented computational demands, driving significant increases in the "
+cs.LG,cs.LG_178,MoRight: Motion Control Done Right,https://arxiv.org/abs/2604.07348,"arXiv:2604.07348v1 Announce Type: cross 
+Abstract: Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands t"
+cs.LG,cs.LG_179,Fast Spatial Memory with Elastic Test-Time Training,https://arxiv.org/abs/2604.07350,"arXiv:2604.07350v1 Announce Type: cross 
+Abstract: Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates re"
+cs.LG,cs.LG_180,"An Automated Survey of Generative Artificial Intelligence: Large Language Models, Architectures, Protocols, and Applications",https://arxiv.org/abs/2306.02781,"arXiv:2306.02781v3 Announce Type: replace 
+Abstract: Generative artificial intelligence, and large language models in particular, have emerged as one of the most transformative paradigms in modern com"
+cs.LG,cs.LG_181,Smoothing the Edges: Smooth Optimization for Sparse Regularization using Hadamard Overparametrization,https://arxiv.org/abs/2307.03571,"arXiv:2307.03571v4 Announce Type: replace 
+Abstract: We present a framework for smooth optimization of explicitly regularized objectives for (structured) sparsity. These non-smooth and possibly non-co"
+cs.LG,cs.LG_182,Don't Label Twice: Quantity Beats Quality when Comparing Binary Classifiers on a Budget,https://arxiv.org/abs/2402.02249,"arXiv:2402.02249v3 Announce Type: replace 
+Abstract: We study how to best spend a budget of noisy labels to compare the accuracy of two binary classifiers. It's common practice to collect and aggregat"
+cs.LG,cs.LG_183,Novel Interpretable and Robust Web-based AI Platform for Phishing Email Detection,https://arxiv.org/abs/2405.11619,"arXiv:2405.11619v2 Announce Type: replace 
+Abstract: Phishing emails continue to pose a significant threat, causing financial losses and security breaches. This study addresses limitations in existing"
+cs.LG,cs.LG_184,AFL: A Single-Round Analytic Approach for Federated Learning with Pre-trained Models,https://arxiv.org/abs/2405.16240,"arXiv:2405.16240v3 Announce Type: replace 
+Abstract: In this paper, we introduce analytic federated learning (AFL), a new training paradigm that brings analytical (i.e., closed-form) solutions to the "
+cs.LG,cs.LG_185,SleepNet and DreamNet: Enriching and Reconstructing Representations for Consolidated Visual Classification,https://arxiv.org/abs/2409.01633,"arXiv:2409.01633v4 Announce Type: replace 
+Abstract: An effective integration of rich feature representations with robust classification mechanisms remains a key challenge in visual understanding task"
+cs.LG,cs.LG_186,Matrix Profile for Anomaly Detection on Multidimensional Time Series,https://arxiv.org/abs/2409.09298,"arXiv:2409.09298v2 Announce Type: replace 
+Abstract: The Matrix Profile (MP), a versatile tool for time series data mining, has been shown effective in time series anomaly detection (TSAD). This paper"
+cs.LG,cs.LG_187,DROP: Distributional and Regular Optimism and Pessimism for Reinforcement Learning,https://arxiv.org/abs/2410.17473,"arXiv:2410.17473v2 Announce Type: replace 
+Abstract: In reinforcement learning (RL), temporal difference (TD) error is known to be related to the firing rate of dopamine neurons. It has been observed "
+cs.LG,cs.LG_188,Pseudo-Probability Unlearning: Efficient and Privacy-Preserving Machine Unlearning,https://arxiv.org/abs/2411.02622,"arXiv:2411.02622v2 Announce Type: replace 
+Abstract: Machine unlearning, enabling a trained model to forget specific data, is crucial for addressing erroneous data and adhering to privacy regulations "
+cs.LG,cs.LG_189,Path Regularization: A Near-Complete and Optimal Nonasymptotic Generalization Theory for Multilayer Neural Networks and Double Descent Phenomenon,https://arxiv.org/abs/2503.02129,"arXiv:2503.02129v2 Announce Type: replace 
+Abstract: Path regularization has shown to be a very effective regularization to train neural networks, leading to a better generalization property than comm"
+cs.LG,cs.LG_190,SSPINNpose: A Self-Supervised PINN for Inertial Pose and Dynamics Estimation,https://arxiv.org/abs/2506.11786,"arXiv:2506.11786v2 Announce Type: replace 
+Abstract: Accurate real-time estimation of human movement dynamics, including internal joint moments and muscle forces, is essential for applications in clin"
+cs.LG,cs.LG_191,Inference-Time Scaling of Diffusion Language Models via Trajectory Refinement,https://arxiv.org/abs/2507.08390,"arXiv:2507.08390v4 Announce Type: replace 
+Abstract: Discrete diffusion models have recently emerged as strong alternatives to autoregressive language models, matching their performance through large-"
+cs.LG,cs.LG_192,Negative Binomial Variational Autoencoders for Overdispersed Latent Modeling,https://arxiv.org/abs/2508.05423,"arXiv:2508.05423v2 Announce Type: replace 
+Abstract: Although artificial neural networks are often described as brain-inspired, their representations typically rely on continuous activations, such as "
+cs.LG,cs.LG_193,Quantitative Estimation of Target Task Performance from Unsupervised Pretext Task in Semi/Self-Supervised Learning,https://arxiv.org/abs/2508.07299,"arXiv:2508.07299v2 Announce Type: replace 
+Abstract: The effectiveness of unlabeled data in Semi/Self-Supervised Learning (SSL) depends on appropriate assumptions for specific scenarios, thereby enabl"
+cs.LG,cs.LG_194,LNN-PINN: A Unified Physics-Only Training Framework with Liquid Residual Blocks,https://arxiv.org/abs/2508.08935,"arXiv:2508.08935v4 Announce Type: replace 
+Abstract: Physics-informed neural networks (PINNs) have attracted considerable attention for their ability to integrate partial differential equation priors "
+cs.LG,cs.LG_195,In-Context Decision Making for Optimizing Complex AutoML Pipelines,https://arxiv.org/abs/2508.13657,"arXiv:2508.13657v2 Announce Type: replace 
+Abstract: Combined Algorithm Selection and Hyperparameter Optimization (CASH) has been fundamental to traditional AutoML systems. However, with the advanceme"
+cs.LG,cs.LG_196,Physics-Informed Spectral Modeling for Hyperspectral Imaging,https://arxiv.org/abs/2508.21618,"arXiv:2508.21618v2 Announce Type: replace 
+Abstract: We present PhISM, a physics-informed deep learning architecture that learns without supervision to explicitly disentangle hyperspectral observation"
+cs.LG,cs.LG_197,LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised Learning in Open-World Scenarios,https://arxiv.org/abs/2509.09926,"arXiv:2509.09926v5 Announce Type: replace 
+Abstract: Long-tailed semi-supervised learning (LTSSL) presents a formidable challenge where models must overcome the scarcity of tail samples while mitigati"
+cs.LG,cs.LG_198,MDP modeling for multi-stage stochastic programs,https://arxiv.org/abs/2509.22981,"arXiv:2509.22981v2 Announce Type: replace 
+Abstract: We study a class of multi-stage stochastic programs, which incorporate modeling features from Markov decision processes (MDPs). This class includes"
+cs.LG,cs.LG_199,Entropy After </Think> for reasoning model early exiting,https://arxiv.org/abs/2509.26522,"arXiv:2509.26522v3 Announce Type: replace 
+Abstract: Reasoning LLMs show improved performance with longer chains of thought. However, recent work has highlighted their tendency to overthink, continuin"
+cs.LG,cs.LG_200,Bayesian E(3)-Equivariant Interatomic Potential with Iterative Restratification of Many-body Message Passing,https://arxiv.org/abs/2510.03046,"arXiv:2510.03046v2 Announce Type: replace 
+Abstract: Machine learning potentials (MLPs) have become essential for large-scale atomistic simulations, enabling ab initio-level accuracy with computationa"
+cs.LG,cs.LG_201,ECLipsE-Gen-Local: Efficient Compositional Local Lipschitz Estimates for Deep Neural Networks,https://arxiv.org/abs/2510.05261,"arXiv:2510.05261v2 Announce Type: replace 
+Abstract: The Lipschitz constant is a key measure for certifying the robustness of neural networks to input perturbations. However, computing the exact const"
+cs.LG,cs.LG_202,Approximate Replicability in Learning,https://arxiv.org/abs/2510.20200,"arXiv:2510.20200v2 Announce Type: replace 
+Abstract: Replicability, introduced by (Impagliazzo et al. STOC '22), is the notion that algorithms should remain stable under a resampling of their inputs ("
+cs.LG,cs.LG_203,Alternatives to the Laplacian for Scalable Spectral Clustering with Group Fairness Constraints,https://arxiv.org/abs/2510.20220,"arXiv:2510.20220v3 Announce Type: replace 
+Abstract: Recent research has focused on mitigating algorithmic bias in clustering by incorporating fairness constraints into algorithmic design. Notions suc"
+cs.LG,cs.LG_204,GIFT: Group-Relative Implicit Fine-Tuning Integrates GRPO with DPO and UNA,https://arxiv.org/abs/2510.23868,"arXiv:2510.23868v4 Announce Type: replace 
+Abstract: This paper proposes \textit{Group-relative Implicit Fine-Tuning (GIFT)}, a reinforcement learning framework for aligning large language models (LLM"
+cs.LG,cs.LG_205,LoRA-DA: Data-Aware Initialization for Low-Rank Adaptation via Asymptotic Analysis,https://arxiv.org/abs/2510.24561,"arXiv:2510.24561v2 Announce Type: replace 
+Abstract: LoRA has become a widely adopted method for PEFT, and its initialization methods have attracted increasing attention. However, existing methods hav"
+cs.LG,cs.LG_206,Nirvana: A Specialized Generalist Model With Task-Aware Memory Mechanism,https://arxiv.org/abs/2510.26083,"arXiv:2510.26083v2 Announce Type: replace 
+Abstract: Large Language Models (LLMs) excel at general language tasks but struggle in specialized domains. Specialized Generalist Models (SGMs) address this"
+cs.LG,cs.LG_207,Tensor-Efficient High-Dimensional Q-learning,https://arxiv.org/abs/2511.03595,"arXiv:2511.03595v2 Announce Type: replace 
+Abstract: High-dimensional reinforcement learning(RL) faces challenges with complex calculations and low sample efficiency in large state-action spaces. Q-le"
+cs.LG,cs.LG_208,Adaptive Symmetrization of the KL Divergence,https://arxiv.org/abs/2511.11159,"arXiv:2511.11159v2 Announce Type: replace 
+Abstract: Many tasks in machine learning can be described as or reduced to learning a probability distribution given a finite set of samples. A common approa"
+cs.LG,cs.LG_209,SpecQuant: Spectral Decomposition and Adaptive Truncation for Ultra-Low-Bit LLMs Quantization,https://arxiv.org/abs/2511.11663,"arXiv:2511.11663v2 Announce Type: replace 
+Abstract: The emergence of accurate open large language models (LLMs) has sparked a push for advanced quantization techniques to enable efficient deployment "
+cs.LG,cs.LG_210,TREASURE: The Visa Payment Foundation Model for High-Volume Transaction Understanding,https://arxiv.org/abs/2511.19693,"arXiv:2511.19693v3 Announce Type: replace 
+Abstract: Payment networks form the backbone of modern commerce, generating high volumes of transaction records from daily activities. Properly modeling this"
+cs.LG,cs.LG_211,CHiQPM: Calibrated Hierarchical Interpretable Image Classification,https://arxiv.org/abs/2511.20779,"arXiv:2511.20779v2 Announce Type: replace 
+Abstract: Globally interpretable models are a promising approach for trustworthy AI in safety-critical domains. Alongside global explanations, detailed local"
+cs.LG,cs.LG_212,Adaptive Replay Buffer for Offline-to-Online Reinforcement Learning,https://arxiv.org/abs/2512.10510,"arXiv:2512.10510v2 Announce Type: replace 
+Abstract: Offline-to-Online Reinforcement Learning (O2O RL) faces a critical dilemma in balancing the use of a fixed offline dataset with newly collected onl"
+cs.LG,cs.LG_213,Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study,https://arxiv.org/abs/2512.19253,"arXiv:2512.19253v3 Announce Type: replace 
+Abstract: We present the first empirical study of machine unlearning (MU) in hybrid quantum-classical neural networks. While MU has been extensively explored"
+cs.LG,cs.LG_214,Replacing Tunable Parameters in Weather and Climate Models with State-Dependent Functions using Reinforcement Learning,https://arxiv.org/abs/2601.04268,"arXiv:2601.04268v2 Announce Type: replace 
+Abstract: Weather and climate models rely on parametrisations to represent unresolved sub-grid processes. Traditional schemes rely on fixed coefficients that"
+cs.LG,cs.LG_215,Low-Rank Key Value Attention,https://arxiv.org/abs/2601.11471,"arXiv:2601.11471v3 Announce Type: replace 
+Abstract: The key-value (KV) cache is a primary memory bottleneck in Transformers. We propose Low-Rank Key-Value (LRKV) attention, which reduces KV cache mem"
+cs.LG,cs.LG_216,BadImplant: Injection-based Multi-Targeted Graph Backdoor Attack,https://arxiv.org/abs/2601.15474,"arXiv:2601.15474v2 Announce Type: replace 
+Abstract: Graph neural network (GNN) have demonstrated exceptional performance in solving critical problems across diverse domains yet remain susceptible to "
+cs.LG,cs.LG_217,Explainable AI to Improve Machine Learning Reliability for Industrial Cyber-Physical Systems,https://arxiv.org/abs/2601.16074,"arXiv:2601.16074v2 Announce Type: replace 
+Abstract: Industrial Cyber-Physical Systems (CPS) are sensitive infrastructure from both safety and economics perspectives, making their reliability critical"
+cs.LG,cs.LG_218,SPICE: Submodular Penalized Information-Conflict Selection for Efficient Large Language Model Training,https://arxiv.org/abs/2601.23155,"arXiv:2601.23155v2 Announce Type: replace 
+Abstract: Information-based data selection for instruction tuning is compelling: maximizing the log-determinant of the Fisher information yields a monotone s"
+cs.LG,cs.LG_219,Infusion: Shaping Model Behavior by Editing Training Data via Influence Functions,https://arxiv.org/abs/2602.09987,"arXiv:2602.09987v5 Announce Type: replace 
+Abstract: Influence functions are commonly used to attribute model behavior to training documents. We explore the reverse: crafting training data that induce"
+cs.LG,cs.LG_220,Zatom-1: A Multimodal Flow Foundation Model for 3D Molecules and Materials,https://arxiv.org/abs/2602.22251,"arXiv:2602.22251v3 Announce Type: replace 
+Abstract: General-purpose 3D chemical modeling encompasses molecules and materials, requiring both generative and predictive capabilities. However, most exis"
+cs.LG,cs.LG_221,LUMINA: Foundation Models for Topology Transferable ACOPF,https://arxiv.org/abs/2603.04300,"arXiv:2603.04300v2 Announce Type: replace 
+Abstract: Foundation models in general promise to accelerate scientific computation by learning reusable representations across problem instances, yet constr"
+cs.LG,cs.LG_222,Interventional Time Series Priors for Causal Foundation Models,https://arxiv.org/abs/2603.11090,"arXiv:2603.11090v2 Announce Type: replace 
+Abstract: Prior-data fitted networks (PFNs) have emerged as powerful foundation models for tabular causal inference, yet their extension to time series remai"
+cs.LG,cs.LG_223,EvoFlows: Evolutionary Edit-Based Flow-Matching for Protein Engineering,https://arxiv.org/abs/2603.11703,"arXiv:2603.11703v2 Announce Type: replace 
+Abstract: We introduce EvoFlows, a variable-length protein sequence-to-sequence modeling approach designed for protein engineering. Existing protein language"
+cs.LG,cs.LG_224,Shapes are not enough: CONSERVAttack and its use for finding vulnerabilities and uncertainties in machine learning applications,https://arxiv.org/abs/2603.13970,"arXiv:2603.13970v2 Announce Type: replace 
+Abstract: In High Energy Physics, as in many other fields of science, the application of machine learning techniques has been crucial in advancing our unders"
+cs.LG,cs.LG_225,CRPS-Optimal Binning for Univariate Conformal Regression,https://arxiv.org/abs/2603.22000,"arXiv:2603.22000v2 Announce Type: replace 
+Abstract: We propose a method for non-parametric conditional distribution estimation based on partitioning covariate-sorted observations into contiguous bins"
+cs.LG,cs.LG_226,MR-ImagenTime: Multi-Resolution Time Series Generation through Dual Image Representations,https://arxiv.org/abs/2603.28253,"arXiv:2603.28253v2 Announce Type: replace 
+Abstract: Time series forecasting is vital across many domains, yet existing models struggle with fixed-length inputs and inadequate multi-scale modeling. We"
+cs.LG,cs.LG_227,Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling,https://arxiv.org/abs/2604.01130,"arXiv:2604.01130v3 Announce Type: replace 
+Abstract: As sports training becomes more data-driven, traditional dart coaching based mainly on experience and visual observation is increasingly inadequate"
+cs.LG,cs.LG_228,Matrix Profile for Time-Series Anomaly Detection: A Reproducible Open-Source Benchmark on TSB-AD,https://arxiv.org/abs/2604.02445,"arXiv:2604.02445v2 Announce Type: replace 
+Abstract: Matrix Profile (MP) methods are an interpretable and scalable family of distance-based methods for time-series anomaly detection, but strong benchm"
+cs.LG,cs.LG_229,Self-Distilled RLVR,https://arxiv.org/abs/2604.03128,"arXiv:2604.03128v2 Announce Type: replace 
+Abstract: On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher to pr"
+cs.LG,cs.LG_230,"NativeTernary: A Self-Delimiting Binary Encoding with Unary Run-Length Hierarchy Markers for Ternary Neural Network Weights, Structured Data, and General Computing Infrastructure",https://arxiv.org/abs/2604.03336,"arXiv:2604.03336v2 Announce Type: replace 
+Abstract: BitNet b1.58 (Ma et al., 2024) demonstrates that large language models can operate entirely on ternary weights {-1, 0, +1}, yet no native binary wi"
+cs.LG,cs.LG_231,Algebraic Diversity: Group-Theoretic Spectral Estimation from Single Observations,https://arxiv.org/abs/2604.03634,"arXiv:2604.03634v2 Announce Type: replace 
+Abstract: We establish that temporal averaging over multiple observations is the degenerate case of algebraic group action with the trivial group $G=\{e\}$. "
+cs.LG,cs.LG_232,k-Maximum Inner Product Attention for Graph Transformers and the Expressive Power of GraphGPS,https://arxiv.org/abs/2604.03815,"arXiv:2604.03815v2 Announce Type: replace 
+Abstract: Graph transformers have shown promise in overcoming limitations of traditional graph neural networks, such as oversquashing and difficulties in mod"
+cs.LG,cs.LG_233,A Clinical Point Cloud Paradigm for In-Hospital Mortality Prediction from Multi-Level Incomplete Multimodal EHRs,https://arxiv.org/abs/2604.04614,"arXiv:2604.04614v2 Announce Type: replace 
+Abstract: Deep learning-based modeling of multimodal Electronic Health Records (EHRs) has become an important approach for clinical diagnosis and risk predic"
+cs.LG,cs.LG_234,Noise Immunity in In-Context Tabular Learning: An Empirical Robustness Analysis of TabPFN's Attention Mechanisms,https://arxiv.org/abs/2604.04868,"arXiv:2604.04868v2 Announce Type: replace 
+Abstract: Tabular foundation models (TFMs) such as TabPFN (Tabular Prior-Data Fitted Network) are designed to generalize across heterogeneous tabular dataset"
+cs.LG,cs.LG_235,Active Statistical Inference,https://arxiv.org/abs/2403.03208,"arXiv:2403.03208v3 Announce Type: replace-cross 
+Abstract: Inspired by the concept of active learning, we propose active inference$\unicode{x2013}$a methodology for statistical inference with machine-"
+cs.LG,cs.LG_236,Resistance Distance and Linearized Optimal Transport on Graphs,https://arxiv.org/abs/2404.15261,"arXiv:2404.15261v4 Announce Type: replace-cross 
+Abstract: We study the linearization of a discrete transportation distance between probability distributions on finite weighted graphs originally due t"
+cs.LG,cs.LG_237,Thompson Sampling for Infinite-Horizon Discounted Decision Processes,https://arxiv.org/abs/2405.08253,"arXiv:2405.08253v3 Announce Type: replace-cross 
+Abstract: This paper develops a viable notion of learning for sampling-based algorithms that applies in broader settings than previously considered. Mo"
+cs.LG,cs.LG_238,Differentially Private Best-Arm Identification,https://arxiv.org/abs/2406.06408,"arXiv:2406.06408v2 Announce Type: replace-cross 
+Abstract: Best Arm Identification (BAI) problems are progressively used for data-sensitive applications, such as designing adaptive clinical trials, tu"
+cs.LG,cs.LG_239,Exploring Natural Language-Based Strategies for Efficient Number Learning in Children through Reinforcement Learning,https://arxiv.org/abs/2410.08334,"arXiv:2410.08334v2 Announce Type: replace-cross 
+Abstract: In this paper, we build a reinforcement learning framework to study how children compose numbers using base-ten blocks. Studying numerical co"
+cs.LG,cs.LG_240,Nonparametric Instrumental Regression via Kernel Methods is Minimax Optimal,https://arxiv.org/abs/2411.19653,"arXiv:2411.19653v2 Announce Type: replace-cross 
+Abstract: We study the kernel instrumental variable (KIV) algorithm, a kernel-based two-stage least-squares method for nonparametric instrumental varia"
+cs.LG,cs.LG_241,Non-Expansive Mappings in Two-Time-Scale Stochastic Approximation: Finite-Time Analysis,https://arxiv.org/abs/2501.10806,"arXiv:2501.10806v4 Announce Type: replace-cross 
+Abstract: Two-time-scale stochastic approximation algorithms are iterative methods used in applications such as optimization, reinforcement learning, a"
+cs.LG,cs.LG_242,LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification,https://arxiv.org/abs/2502.17421,"arXiv:2502.17421v4 Announce Type: replace-cross 
+Abstract: As Large Language Models (LLMs) can now process extremely long contexts, efficient inference over these extended inputs has become increasing"
+cs.LG,cs.LG_243,Spike-based alignment learning solves the weight transport problem,https://arxiv.org/abs/2503.02642,"arXiv:2503.02642v3 Announce Type: replace-cross 
+Abstract: In both machine learning and in computational neuroscience, plasticity in functional neural networks is frequently expressed as gradient desc"
+cs.LG,cs.LG_244,AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization,https://arxiv.org/abs/2503.03088,"arXiv:2503.03088v4 Announce Type: replace-cross 
+Abstract: The Segment Anything Model (SAM) has revolutionized image and video segmentation with its powerful zero-shot capabilities. However, its massi"
+cs.LG,cs.LG_245,Computational bottlenecks for denoising diffusions,https://arxiv.org/abs/2503.08028,"arXiv:2503.08028v3 Announce Type: replace-cross 
+Abstract: Denoising diffusions sample from a probability distribution $\mu$ in $\mathbb{R}^d$ by constructing a stochastic process $({\hat{\boldsymbol "
+cs.LG,cs.LG_246,Lost in Cultural Translation: Do LLMs Struggle with Math Across Cultural Contexts?,https://arxiv.org/abs/2503.18018,"arXiv:2503.18018v2 Announce Type: replace-cross 
+Abstract: We demonstrate that large language models' (LLMs) mathematical reasoning is culturally sensitive: testing 14 models from Anthropic, OpenAI, G"
+cs.LG,cs.LG_247,A Giant-Step Baby-Step Classifier For Scalable and Real-Time Anomaly Detection In Industrial Control Systems and Water Treatment Systems,https://arxiv.org/abs/2504.20906,"arXiv:2504.20906v4 Announce Type: replace-cross 
+Abstract: The continuous monitoring of the interactions between cyber-physical components of any industrial control system (ICS) is required to secure "
+cs.LG,cs.LG_248,Apple: Toward General Active Perception via Reinforcement Learning,https://arxiv.org/abs/2505.06182,"arXiv:2505.06182v5 Announce Type: replace-cross 
+Abstract: Active perception is a fundamental skill that enables us humans to deal with uncertainty in our inherently partially observable environment. "
+cs.LG,cs.LG_249,LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning,https://arxiv.org/abs/2506.18841,"arXiv:2506.18841v3 Announce Type: replace-cross 
+Abstract: Ultra-long generation by large language models (LLMs) is a widely demanded scenario, yet it remains a significant challenge due to their maxi"
+cs.LG,cs.LG_250,Neural Two-Stage Stochastic Optimization for Solving Unit Commitment Problem,https://arxiv.org/abs/2507.09503,"arXiv:2507.09503v2 Announce Type: replace-cross 
+Abstract: This paper proposes a neural stochastic optimization method for efficiently solving the two-stage stochastic unit commitment (2S-SUC) problem"
+cs.LG,cs.LG_251,MF-GLaM: A multifidelity stochastic emulator using generalized lambda models,https://arxiv.org/abs/2507.10303,"arXiv:2507.10303v2 Announce Type: replace-cross 
+Abstract: Stochastic simulators exhibit intrinsic stochasticity due to unobservable, uncontrollable, or unmodeled input variables, resulting in random "
+cs.LG,cs.LG_252,CNN-based Surface Temperature Forecasts with Ensemble Numerical Weather Prediction,https://arxiv.org/abs/2507.18937,"arXiv:2507.18937v3 Announce Type: replace-cross 
+Abstract: Due to limited computational resources, medium-range temperature forecasts typically rely on low-resolution numerical weather prediction (NWP"
+cs.LG,cs.LG_253,AugLift: Depth-Aware Input Reparameterization Improves Domain Generalization in 2D-to-3D Pose Lifting,https://arxiv.org/abs/2508.07112,"arXiv:2508.07112v4 Announce Type: replace-cross 
+Abstract: Lifting-based 3D human pose estimation infers 3D joints from 2D keypoints but generalizes poorly because $(x,y)$ coordinates alone are an ill"
+cs.LG,cs.LG_254,ShadowNPU: System and Algorithm Co-design for NPU-Centric On-Device LLM Inference,https://arxiv.org/abs/2508.16703,"arXiv:2508.16703v4 Announce Type: replace-cross 
+Abstract: On-device running Large Language Models (LLMs) is nowadays a critical enabler towards preserving user privacy. We observe that the attention "
+cs.LG,cs.LG_255,Synthetic Homes: A Multimodal Generative AI Pipeline for Residential Building Data Generation under Data Scarcity,https://arxiv.org/abs/2509.09794,"arXiv:2509.09794v4 Announce Type: replace-cross 
+Abstract: Computational models have emerged as powerful tools for multi-scale energy modeling research at the building and urban scale, supporting data"
+cs.LG,cs.LG_256,LifeAlign: Lifelong Alignment for Large Language Models with Memory-Augmented Focalized Preference Optimization,https://arxiv.org/abs/2509.17183,"arXiv:2509.17183v3 Announce Type: replace-cross 
+Abstract: Alignment plays a crucial role in Large Language Models (LLMs) in aligning with human preferences on a specific task/domain. Traditional alig"
+cs.LG,cs.LG_257,PAC-Bayesian Bounds on Constrained f-Entropic Risk Measures,https://arxiv.org/abs/2510.11169,"arXiv:2510.11169v2 Announce Type: replace-cross 
+Abstract: PAC generalization bounds on the risk, when expressed in terms of the expected loss, are often insufficient to capture imbalances between sub"
+cs.LG,cs.LG_258,One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration,https://arxiv.org/abs/2510.12088,"arXiv:2510.12088v2 Announce Type: replace-cross 
+Abstract: Symbolic world modeling requires inferring and representing an environment's transitional dynamics as an executable program. Prior work has f"
+cs.LG,cs.LG_259,RLBoost: Harvesting Preemptible Resources for Cost-Efficient Reinforcement Learning on LLMs,https://arxiv.org/abs/2510.19225,"arXiv:2510.19225v3 Announce Type: replace-cross 
+Abstract: Reinforcement learning (RL) has become essential for unlocking advanced reasoning capabilities in large language models (LLMs). RL workflows "
+cs.LG,cs.LG_260,PULSE: Privileged Knowledge Transfer from Rich to Deployable Sensors for Embodied Multi-Sensory Learning,https://arxiv.org/abs/2510.24058,"arXiv:2510.24058v2 Announce Type: replace-cross 
+Abstract: Multi-sensory systems for embodied intelligence, from wearable body-sensor networks to instrumented robotic platforms, routinely face a senso"
+cs.LG,cs.LG_261,DisCEdge: Distributed Context Management for Large Language Models at the Edge,https://arxiv.org/abs/2511.22599,"arXiv:2511.22599v2 Announce Type: replace-cross 
+Abstract: Deploying Large Language Model (LLM) services at the edge benefits latency-sensitive and privacy-aware applications. However, the stateless n"
+cs.LG,cs.LG_262,Physics-Informed Neural Networks for Source Inversion and Parameters Estimation in Atmospheric Dispersion,https://arxiv.org/abs/2512.07755,"arXiv:2512.07755v2 Announce Type: replace-cross 
+Abstract: Recent studies have shown the success of deep learning in solving forward and inverse problems in engineering and scientific computing domain"
+cs.LG,cs.LG_263,Probabilistic Predictions of Process-Induced Deformation in Carbon/Epoxy Composites Using a Deep Operator Network,https://arxiv.org/abs/2512.13746,"arXiv:2512.13746v4 Announce Type: replace-cross 
+Abstract: Fiber reinforcement and polymer matrix respond differently to manufacturing conditions due to mismatch in coefficient of thermal expansion an"
+cs.LG,cs.LG_264,LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller,https://arxiv.org/abs/2512.19576,"arXiv:2512.19576v5 Announce Type: replace-cross 
+Abstract: Attitude control is essential for many satellite missions. Classical controllers, however, are time-consuming to design and sensitive to mode"
+cs.LG,cs.LG_265,Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC,https://arxiv.org/abs/2512.24290,"arXiv:2512.24290v2 Announce Type: replace-cross 
+Abstract: Optical-readout Time Projection Chambers (TPCs) produce megapixel-scale images whose fine-grained topological information is essential for ra"
+cs.LG,cs.LG_266,ADOPT: Adaptive Dependency-Guided Joint Prompt Optimization for Multi-Step LLM Pipelines,https://arxiv.org/abs/2512.24933,"arXiv:2512.24933v2 Announce Type: replace-cross 
+Abstract: Multi-step LLM pipelines can solve complex tasks, but jointly optimizing prompts across steps remains challenging due to missing step-level s"
+cs.LG,cs.LG_267,Concave Certificates: Geometric Framework for Distributionally Robust Risk and Complexity Analysis,https://arxiv.org/abs/2601.01311,"arXiv:2601.01311v2 Announce Type: replace-cross 
+Abstract: Distributionally Robust (DR) optimization aims to certify worst-case risk within a Wasserstein uncertainty set. Current certifications typica"
+cs.LG,cs.LG_268,ConvoLearn: A Dataset for Fine-Tuning Dialogic AI Tutors,https://arxiv.org/abs/2601.08950,"arXiv:2601.08950v3 Announce Type: replace-cross 
+Abstract: Despite their growing adoption in education, LLMs remain misaligned with the core principle of effective tutoring: the dialogic construction "
+cs.LG,cs.LG_269,Theory and interpretability of Quantum Extreme Learning Machines: a Pauli-transfer matrix approach,https://arxiv.org/abs/2602.18377,"arXiv:2602.18377v3 Announce Type: replace-cross 
+Abstract: Quantum reservoir computers (QRCs) have emerged as a promising approach to quantum machine learning, since they utilize the natural dynamics "
+cs.LG,cs.LG_270,Robust support vector model based on bounded asymmetric elastic net loss for binary classification,https://arxiv.org/abs/2603.06257,"arXiv:2603.06257v2 Announce Type: replace-cross 
+Abstract: In this paper, we propose a novel bounded asymmetric elastic net ($L_{baen}$) loss function and combine it with the support vector machine (S"
+cs.LG,cs.LG_271,Resource-constrained Amazons chess decision framework integrating large language models and graph attention,https://arxiv.org/abs/2603.10512,"arXiv:2603.10512v2 Announce Type: replace-cross 
+Abstract: Artificial intelligence has advanced significantly through the development of intelligent game-playing systems, providing rigorous testbeds f"
+cs.LG,cs.LG_272,AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification,https://arxiv.org/abs/2603.13354,"arXiv:2603.13354v3 Announce Type: replace-cross 
+Abstract: Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations oft"
+cs.LG,cs.LG_273,Conditional flow matching for physics-constrained inverse problems with finite training data,https://arxiv.org/abs/2603.14135,"arXiv:2603.14135v3 Announce Type: replace-cross 
+Abstract: This study presents a conditional flow matching framework for solving physics-constrained Bayesian inverse problems. In this setting, samples"
+cs.LG,cs.LG_274,ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation,https://arxiv.org/abs/2603.17812,"arXiv:2603.17812v2 Announce Type: replace-cross 
+Abstract: Recent video diffusion models achieve high-quality generation through recurrent frame processing where each frame generation depends on previ"
+cs.LG,cs.LG_275,From Synthetic Data to Real Restorations: Diffusion Model for Patient-specific Dental Crown Completion,https://arxiv.org/abs/2603.26588,"arXiv:2603.26588v2 Announce Type: replace-cross 
+Abstract: We present ToothCraft, a diffusion-based model for the contextual generation of tooth crowns, trained on artificially created incomplete teet"
+cs.LG,cs.LG_276,Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction,https://arxiv.org/abs/2604.01204,"arXiv:2604.01204v2 Announce Type: replace-cross 
+Abstract: Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstr"
+cs.LG,cs.LG_277,VisionClaw: Always-On AI Agents through Smart Glasses,https://arxiv.org/abs/2604.03486,"arXiv:2604.03486v2 Announce Type: replace-cross 
+Abstract: We present VisionClaw, an always-on wearable AI agent that integrates live egocentric perception with agentic task execution. Running on Meta"
+cs.LG,cs.LG_278,CodecFlow: Codec-Guided End-to-End Optimization for Streaming Video Analytics,https://arxiv.org/abs/2604.06036,"arXiv:2604.06036v2 Announce Type: replace-cross 
+Abstract: Video streaming analytics is a crucial workload for vision-language model serving, but the high cost of multimodal inference limits scalabili"

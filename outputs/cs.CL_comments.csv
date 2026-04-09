@@ -1,0 +1,367 @@
+﻿category,paper_id,title,link,summary
+cs.CL,cs.CL_0,LLM-Augmented Knowledge Base Construction For Root Cause Analysis,https://arxiv.org/abs/2604.06171,"arXiv:2604.06171v1 Announce Type: new 
+Abstract: Communications networks now form the backbone of our digital world, with fast and reliable connectivity. However, even with appropriate redundancy and "
+cs.CL,cs.CL_1,The Stepwise Informativeness Assumption: Why are Entropy Dynamics and Reasoning Correlated in LLMs?,https://arxiv.org/abs/2604.06192,"arXiv:2604.06192v1 Announce Type: new 
+Abstract: Recent work uses entropy-based signals at multiple representation levels to study reasoning in large language models, but the field remains largely emp"
+cs.CL,cs.CL_2,Depression Detection at the Point of Care: Automated Analysis of Linguistic Signals from Routine Primary Care Encounters,https://arxiv.org/abs/2604.06193,"arXiv:2604.06193v1 Announce Type: new 
+Abstract: Depression is underdiagnosed in primary care, yet timely identification remains critical. Recorded clinical encounters, increasingly common with digita"
+cs.CL,cs.CL_3,Hallucination as output-boundary misclassification: a composite abstention architecture for language models,https://arxiv.org/abs/2604.06195,"arXiv:2604.06195v1 Announce Type: new 
+Abstract: Large language models often produce unsupported claims. We frame this as a misclassification error at the output boundary, where internally generated c"
+cs.CL,cs.CL_4,Consistency-Guided Decoding with Proof-Driven Disambiguation for Three-Way Logical Question Answering,https://arxiv.org/abs/2604.06196,"arXiv:2604.06196v1 Announce Type: new 
+Abstract: Three-way logical question answering (QA) assigns $True/False/Unknown$ to a hypothesis $H$ given a premise set $S$. While modern large language models "
+cs.CL,cs.CL_5,Temporally Phenotyping GLP-1RA Case Reports with Large Language Models: A Textual Time Series Corpus and Risk Modeling,https://arxiv.org/abs/2604.06197,"arXiv:2604.06197v1 Announce Type: new 
+Abstract: Type 2 diabetes case reports describe complex clinical courses, but their timelines are often expressed in language that is difficult to reuse in longi"
+cs.CL,cs.CL_6,Emergent decentralized regulation in a purely synthetic society,https://arxiv.org/abs/2604.06199,"arXiv:2604.06199v1 Announce Type: new 
+Abstract: As autonomous AI agents increasingly inhabit online environments and extensively interact, a key question is whether synthetic collectives exhibit self"
+cs.CL,cs.CL_7,Beyond Facts: Benchmarking Distributional Reading Comprehension in Large Language Models,https://arxiv.org/abs/2604.06201,"arXiv:2604.06201v1 Announce Type: new 
+Abstract: While most reading comprehension benchmarks for LLMs focus on factual information that can be answered by localizing specific textual evidence, many re"
+cs.CL,cs.CL_8,Cross-Lingual Transfer and Parameter-Efficient Adaptation in the Turkic Language Family: A Theoretical Framework for Low-Resource Language Models,https://arxiv.org/abs/2604.06202,"arXiv:2604.06202v1 Announce Type: new 
+Abstract: Large language models (LLMs) have transformed natural language processing, yet their capabilities remain uneven across languages. Most multilingual mod"
+cs.CL,cs.CL_9,SensorPersona: An LLM-Empowered System for Continual Persona Extraction from Longitudinal Mobile Sensor Streams,https://arxiv.org/abs/2604.06204,"arXiv:2604.06204v1 Announce Type: new 
+Abstract: Personalization is essential for Large Language Model (LLM)-based agents to adapt to users' preferences and improve response quality and task performan"
+cs.CL,cs.CL_10,Tool-MCoT: Tool Augmented Multimodal Chain-of-Thought for Content Safety Moderation,https://arxiv.org/abs/2604.06205,"arXiv:2604.06205v1 Announce Type: new 
+Abstract: The growth of online platforms and user content requires strong content moderation systems that can handle complex inputs from various media types. Whi"
+cs.CL,cs.CL_11,A Comparative Study of Demonstration Selection for Practical Large Language Models-based Next POI Prediction,https://arxiv.org/abs/2604.06207,"arXiv:2604.06207v1 Announce Type: new 
+Abstract: This paper investigates demonstration selection strategies for predicting a user's next point-of-interest (POI) using large language models (LLMs), aim"
+cs.CL,cs.CL_12,Extracting Breast Cancer Phenotypes from Clinical Notes: Comparing LLMs with Classical Ontology Methods,https://arxiv.org/abs/2604.06208,"arXiv:2604.06208v1 Announce Type: new 
+Abstract: A significant amount of data held in Oncology Electronic Medical Records (EMRs) is contained in unstructured provider notes -- including but not limite"
+cs.CL,cs.CL_13,TelcoAgent-Bench: A Multilingual Benchmark for Telecom AI Agents,https://arxiv.org/abs/2604.06209,"arXiv:2604.06209v1 Announce Type: new 
+Abstract: The integration of large language model (LLM) agents into telecom networks introduces new challenges, related to intent recognition, tool execution, an"
+cs.CL,cs.CL_14,Distributional Open-Ended Evaluation of LLM Cultural Value Alignment Based on Value Codebook,https://arxiv.org/abs/2604.06210,"arXiv:2604.06210v1 Announce Type: new 
+Abstract: As LLMs are globally deployed, aligning their cultural value orientations is critical for safety and user engagement. However, existing benchmarks face"
+cs.CL,cs.CL_15,Illocutionary Explanation Planning for Source-Faithful Explanations in Retrieval-Augmented Language Models,https://arxiv.org/abs/2604.06211,"arXiv:2604.06211v1 Announce Type: new 
+Abstract: Natural language explanations produced by large language models (LLMs) are often persuasive, but not necessarily scrutable: users cannot easily verify "
+cs.CL,cs.CL_16,Invisible Influences: Investigating Implicit Intersectional Biases through Persona Engineering in Large Language Models,https://arxiv.org/abs/2604.06213,"arXiv:2604.06213v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) excel at human-like language generation but often embed and amplify implicit, intersectional biases, especially under pers"
+cs.CL,cs.CL_17,Unsupervised Neural Network for Automated Classification of Surgical Urgency Levels in Medical Transcriptions,https://arxiv.org/abs/2604.06214,"arXiv:2604.06214v1 Announce Type: new 
+Abstract: Efficient classification of surgical procedures by urgency is paramount to optimize patient care and resource allocation within healthcare systems. Thi"
+cs.CL,cs.CL_18,Blending Human and LLM Expertise to Detect Hallucinations and Omissions in Mental Health Chatbot Responses,https://arxiv.org/abs/2604.06216,"arXiv:2604.06216v1 Announce Type: new 
+Abstract: As LLM-powered chatbots are increasingly deployed in mental health services, detecting hallucinations and omissions has become critical for user safety"
+cs.CL,cs.CL_19,STDec: Spatio-Temporal Stability Guided Decoding for dLLMs,https://arxiv.org/abs/2604.06330,"arXiv:2604.06330v1 Announce Type: new 
+Abstract: Diffusion Large Language Models (dLLMs) have achieved rapid progress, viewed as a promising alternative to the autoregressive paradigm. However, most d"
+cs.CL,cs.CL_20,Severity-Aware Weighted Loss for Arabic Medical Text Generation,https://arxiv.org/abs/2604.06346,"arXiv:2604.06346v1 Announce Type: new 
+Abstract: Large language models have shown strong potential for Arabic medical text generation; however, traditional fine-tuning objectives treat all medical cas"
+cs.CL,cs.CL_21,"In-Context Learning in Speech Language Models: Analyzing the Role of Acoustic Features, Linguistic Structure, and Induction Heads",https://arxiv.org/abs/2604.06356,"arXiv:2604.06356v1 Announce Type: new 
+Abstract: In-Context Learning (ICL) has been extensively studied in text-only Language Models, but remains largely unexplored in the speech domain. Here, we inve"
+cs.CL,cs.CL_22,A Severity-Based Curriculum Learning Strategy for Arabic Medical Text Generation,https://arxiv.org/abs/2604.06365,"arXiv:2604.06365v1 Announce Type: new 
+Abstract: Arabic medical text generation is increasingly needed to help users interpret symptoms and access general health guidance in their native language. Nev"
+cs.CL,cs.CL_23,The Illusion of Superposition? A Principled Analysis of Latent Thinking in Language Models,https://arxiv.org/abs/2604.06374,"arXiv:2604.06374v1 Announce Type: new 
+Abstract: Latent reasoning via continuous chain-of-thoughts (Latent CoT) has emerged as a promising alternative to discrete CoT reasoning. Operating in continuou"
+cs.CL,cs.CL_24,Application-Driven Pedagogical Knowledge Optimization of Open-Source LLMs via Reinforcement Learning and Supervised Fine-Tuning,https://arxiv.org/abs/2604.06385,"arXiv:2604.06385v1 Announce Type: new 
+Abstract: We present an innovative multi-stage optimization strategy combining reinforcement learning (RL) and supervised fine-tuning (SFT) to enhance the pedago"
+cs.CL,cs.CL_25,ART: Attention Replacement Technique to Improve Factuality in LLMs,https://arxiv.org/abs/2604.06393,"arXiv:2604.06393v1 Announce Type: new 
+Abstract: Hallucination in large language models (LLMs) continues to be a significant issue, particularly in tasks like question answering, where models often ge"
+cs.CL,cs.CL_26,FMI@SU ToxHabits: Evaluating LLMs Performance on Toxic Habit Extraction in Spanish Clinical Texts,https://arxiv.org/abs/2604.06403,"arXiv:2604.06403v1 Announce Type: new 
+Abstract: The paper presents an approach for the recognition of toxic habits named entities in Spanish clinical texts. The approach was developed for the ToxHabi"
+cs.CL,cs.CL_27,Attention Flows: Tracing LLM Conceptual Engagement via Story Summaries,https://arxiv.org/abs/2604.06416,"arXiv:2604.06416v1 Announce Type: new 
+Abstract: Although LLM context lengths have grown, there is evidence that their ability to integrate information across long-form texts has not kept pace. We eva"
+cs.CL,cs.CL_28,State-of-the-Art Arabic Language Modeling with Sparse MoE Fine-Tuning and Chain-of-Thought Distillation,https://arxiv.org/abs/2604.06421,"arXiv:2604.06421v1 Announce Type: new 
+Abstract: This paper introduces Arabic-DeepSeek-R1, an application-driven open-source Arabic LLM that leverages a sparse MoE backbone to address the digital equi"
+cs.CL,cs.CL_29,"When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't",https://arxiv.org/abs/2604.06422,"arXiv:2604.06422v1 Announce Type: new 
+Abstract: Understanding when Vision-Language Models (VLMs) will behave unexpectedly, whether models can reliably predict their own behavior, and if models adhere"
+cs.CL,cs.CL_30,Team Fusion@ SU@ BC8 SympTEMIST track: transformer-based approach for symptom recognition and linking,https://arxiv.org/abs/2604.06424,"arXiv:2604.06424v1 Announce Type: new 
+Abstract: This paper presents a transformer-based approach to solving the SympTEMIST named entity recognition (NER) and entity linking (EL) tasks. For NER, we fi"
+cs.CL,cs.CL_31,Learning to Interrupt in Language-based Multi-agent Communication,https://arxiv.org/abs/2604.06452,"arXiv:2604.06452v1 Announce Type: new 
+Abstract: Multi-agent systems using large language models (LLMs) have demonstrated impressive capabilities across various domains. However, current agent communi"
+cs.CL,cs.CL_32,Context-Aware Dialectal Arabic Machine Translation with Interactive Region and Register Selection,https://arxiv.org/abs/2604.06456,"arXiv:2604.06456v1 Announce Type: new 
+Abstract: Current Machine Translation (MT) systems for Arabic often struggle to account for dialectal diversity, frequently homogenizing dialectal inputs into Mo"
+cs.CL,cs.CL_33,Multi-objective Evolutionary Merging Enables Efficient Reasoning Models,https://arxiv.org/abs/2604.06465,"arXiv:2604.06465v1 Announce Type: new 
+Abstract: Reasoning models have demonstrated remarkable capabilities in solving complex problems by leveraging long chains of thought. However, this more deliber"
+cs.CL,cs.CL_34,DataSTORM: Deep Research on Large-Scale Databases using Exploratory Data Analysis and Data Storytelling,https://arxiv.org/abs/2604.06474,"arXiv:2604.06474v1 Announce Type: new 
+Abstract: Deep research with Large Language Model (LLM) agents is emerging as a powerful paradigm for multi-step information discovery, synthesis, and analysis. "
+cs.CL,cs.CL_35,ValueGround: Evaluating Culture-Conditioned Visual Value Grounding in MLLMs,https://arxiv.org/abs/2604.06484,"arXiv:2604.06484v1 Announce Type: new 
+Abstract: Cultural values are expressed not only through language but also through visual scenes and everyday social practices. Yet existing evaluations of cultu"
+cs.CL,cs.CL_36,Closing the Speech-Text Gap with Limited Audio for Effective Domain Adaptation in LLM-Based ASR,https://arxiv.org/abs/2604.06487,"arXiv:2604.06487v1 Announce Type: new 
+Abstract: Conventional end-to-end automatic speech recognition (ASR) systems rely on paired speech-text data for domain adaptation. Recent LLM-based ASR architec"
+cs.CL,cs.CL_37,MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts,https://arxiv.org/abs/2604.06505,"arXiv:2604.06505v1 Announce Type: new 
+Abstract: Large language models (LLMs) are widely explored for reasoning-intensive research tasks, yet resources for testing whether they can infer scientific co"
+cs.CL,cs.CL_38,Fine-tuning Whisper for Pashto ASR: strategies and scale,https://arxiv.org/abs/2604.06507,"arXiv:2604.06507v1 Announce Type: new 
+Abstract: Pashto is absent from Whisper's pre-training corpus despite being one of CommonVoice's largest language collections, leaving off-the-shelf models unusa"
+cs.CL,cs.CL_39,Does a Global Perspective Help Prune Sparse MoEs Elegantly?,https://arxiv.org/abs/2604.06542,"arXiv:2604.06542v1 Announce Type: new 
+Abstract: Empirical scaling laws for language models have encouraged the development of ever-larger LLMs, despite their growing computational and memory costs. S"
+cs.CL,cs.CL_40,The Illusion of Stochasticity in LLMs,https://arxiv.org/abs/2604.06543,"arXiv:2604.06543v1 Announce Type: new 
+Abstract: In this work, we demonstrate that reliable stochastic sampling is a fundamental yet unfulfilled requirement for Large Language Models (LLMs) operating "
+cs.CL,cs.CL_41,CCD-CBT: Multi-Agent Therapeutic Interaction for CBT Guided by Cognitive Conceptualization Diagram,https://arxiv.org/abs/2604.06551,"arXiv:2604.06551v1 Announce Type: new 
+Abstract: Large language models show potential for scalable mental-health support by simulating Cognitive Behavioral Therapy (CBT) counselors. However, existing "
+cs.CL,cs.CL_42,To Lie or Not to Lie? Investigating The Biased Spread of Global Lies by LLMs,https://arxiv.org/abs/2604.06552,"arXiv:2604.06552v1 Announce Type: new 
+Abstract: Misinformation is on the rise, and the strong writing capabilities of LLMs lower the barrier for malicious actors to produce and disseminate false info"
+cs.CL,cs.CL_43,LLM-based Schema-Guided Extraction and Validation of Missing-Person Intelligence from Heterogeneous Data Sources,https://arxiv.org/abs/2604.06571,"arXiv:2604.06571v1 Announce Type: new 
+Abstract: Missing-person and child-safety investigations rely on heterogeneous case documents, including structured forms, bulletin-style posters, and narrative "
+cs.CL,cs.CL_44,Scoring Edit Impact in Grammatical Error Correction via Embedded Association Graphs,https://arxiv.org/abs/2604.06573,"arXiv:2604.06573v1 Announce Type: new 
+Abstract: A Grammatical Error Correction (GEC) system produces a sequence of edits to correct an erroneous sentence. The quality of these edits is typically eval"
+cs.CL,cs.CL_45,Scientific Knowledge-driven Decoding Constraints Improving the Reliability of LLMs,https://arxiv.org/abs/2604.06603,"arXiv:2604.06603v1 Announce Type: new 
+Abstract: Large language models (LLMs) have shown strong knowledge reserves and task-solving capabilities, but still face the challenge of severe hallucination, "
+cs.CL,cs.CL_46,The Detection--Extraction Gap: Models Know the Answer Before They Can Say It,https://arxiv.org/abs/2604.06613,"arXiv:2604.06613v1 Announce Type: new 
+Abstract: Modern reasoning models continue generating long after the answer is already determined. Across five model configurations, two families, and three benc"
+cs.CL,cs.CL_47,DiffuMask: Diffusion Language Model for Token-level Prompt Pruning,https://arxiv.org/abs/2604.06627,"arXiv:2604.06627v1 Announce Type: new 
+Abstract: In-Context Learning and Chain-of-Thought prompting improve reasoning in large language models (LLMs). These typically come at the cost of longer, more "
+cs.CL,cs.CL_48,Feedback Adaptation for Retrieval-Augmented Generation,https://arxiv.org/abs/2604.06647,"arXiv:2604.06647v1 Announce Type: new 
+Abstract: Retrieval-Augmented Generation (RAG) systems are typically evaluated under static assumptions, despite being frequently corrected through user or exper"
+cs.CL,cs.CL_49,A Parameter-Efficient Transfer Learning Approach through Multitask Prompt Distillation and Decomposition for Clinical NLP,https://arxiv.org/abs/2604.06650,"arXiv:2604.06650v1 Announce Type: new 
+Abstract: Existing prompt-based fine-tuning methods typically learn task-specific prompts independently, imposing significant computing and storage overhead at s"
+cs.CL,cs.CL_50,A Graph-Enhanced Defense Framework for Explainable Fake News Detection with LLM,https://arxiv.org/abs/2604.06666,"arXiv:2604.06666v1 Announce Type: new 
+Abstract: Explainable fake news detection aims to assess the veracity of news claims while providing human-friendly explanations. Existing methods incorporating "
+cs.CL,cs.CL_51,Between Century and Poet: Graph-Based Lexical Semantic Change in Persian Poetry,https://arxiv.org/abs/2604.06674,"arXiv:2604.06674v1 Announce Type: new 
+Abstract: Meaning in Persian poetry is both historical and relational. Words persist through literary tradition while shifting their force through changing const"
+cs.CL,cs.CL_52,ChemVLR: Prioritizing Reasoning in Perception for Chemical Vision-Language Understanding,https://arxiv.org/abs/2604.06685,"arXiv:2604.06685v1 Announce Type: new 
+Abstract: While Vision-Language Models (VLMs) have demonstrated significant potential in chemical visual understanding, current models are predominantly optimize"
+cs.CL,cs.CL_53,Adaptive Prompt Structure Factorization: A Framework for Self-Discovering and Optimizing Compositional Prompt Programs,https://arxiv.org/abs/2604.06699,"arXiv:2604.06699v1 Announce Type: new 
+Abstract: Automated prompt optimization is crucial for eliciting reliable reasoning from large language models (LLMs), yet most API-only prompt optimizers iterat"
+cs.CL,cs.CL_54,TEC: A Collection of Human Trial-and-error Trajectories for Problem Solving,https://arxiv.org/abs/2604.06734,"arXiv:2604.06734v1 Announce Type: new 
+Abstract: Trial-and-error is a fundamental strategy for humans to solve complex problems and a necessary capability for Artificial Intelligence (AI) systems oper"
+cs.CL,cs.CL_55,SQLStructEval: Structural Evaluation of LLM Text-to-SQL Generation,https://arxiv.org/abs/2604.06736,"arXiv:2604.06736v1 Announce Type: new 
+Abstract: Despite strong performance on Text-to-SQL benchmarks, it remains unclear whether LLM-generated SQL programs are structurally reliable. In this work, we"
+cs.CL,cs.CL_56,Luwen Technical Report,https://arxiv.org/abs/2604.06737,"arXiv:2604.06737v1 Announce Type: new 
+Abstract: Large language models have demonstrated remarkable capabilities across a wide range of natural language processing tasks, yet their application in the "
+cs.CL,cs.CL_57,StructKV: Preserving the Structural Skeleton for Scalable Long-Context Inference,https://arxiv.org/abs/2604.06746,"arXiv:2604.06746v1 Announce Type: new 
+Abstract: As Large Language Models (LLMs) scale to support context windows exceeding one million tokens, the linear growth of Key-Value (KV) cache imposes severe"
+cs.CL,cs.CL_58,Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents,https://arxiv.org/abs/2604.06753,"arXiv:2604.06753v1 Announce Type: new 
+Abstract: When an LLM-based agent improves on a task, is the gain from the model itself or from the reasoning paradigm wrapped around it? We study this question "
+cs.CL,cs.CL_59,How Long Reasoning Chains Influence LLMs' Judgment of Answer Factuality,https://arxiv.org/abs/2604.06756,"arXiv:2604.06756v1 Announce Type: new 
+Abstract: Large language models (LLMs) has been widely adopted as a scalable surrogate for human evaluation, yet such judges remain imperfect and susceptible to "
+cs.CL,cs.CL_60,Multilingual Cognitive Impairment Detection in the Era of Foundation Models,https://arxiv.org/abs/2604.06758,"arXiv:2604.06758v1 Announce Type: new 
+Abstract: We evaluate cognitive impairment (CI) classification from transcripts of speech in English, Slovene, and Korean. We compare zero-shot large language mo"
+cs.CL,cs.CL_61,TeamLLM: A Human-Like Team-Oriented Collaboration Framework for Multi-Step Contextualized Tasks,https://arxiv.org/abs/2604.06765,"arXiv:2604.06765v1 Announce Type: new 
+Abstract: Recently, multi-Large Language Model (LLM) frameworks have been proposed to solve contextualized tasks. However, these frameworks do not explicitly emu"
+cs.CL,cs.CL_62,Multi-Faceted Self-Consistent Preference Alignment for Query Rewriting in Conversational Search,https://arxiv.org/abs/2604.06771,"arXiv:2604.06771v1 Announce Type: new 
+Abstract: Conversational Query Rewriting (CQR) aims to rewrite ambiguous queries to achieve more efficient conversational search. Early studies have predominantl"
+cs.CL,cs.CL_63,Discourse Coherence and Response-Guided Context Rewriting for Multi-Party Dialogue Generation,https://arxiv.org/abs/2604.06784,"arXiv:2604.06784v1 Announce Type: new 
+Abstract: Previous research on multi-party dialogue generation has predominantly leveraged structural information inherent in dialogues to directly inform the ge"
+cs.CL,cs.CL_64,When Is Thinking Enough? Early Exit via Sufficiency Assessment for Efficient Reasoning,https://arxiv.org/abs/2604.06787,"arXiv:2604.06787v1 Announce Type: new 
+Abstract: Large reasoning models (LRMs) have achieved remarkable performance in complex reasoning tasks, driven by their powerful inference-time scaling capabili"
+cs.CL,cs.CL_65,GCoT-Decoding: Unlocking Deep Reasoning Paths for Universal Question Answering,https://arxiv.org/abs/2604.06794,"arXiv:2604.06794v1 Announce Type: new 
+Abstract: Chain-of-Thought reasoning can enhance large language models, but it requires manually designed prompts to guide the model. Recently proposed CoT-decod"
+cs.CL,cs.CL_66,Beyond Accuracy: Diagnosing Algebraic Reasoning Failures in LLMs Across Nine Complexity Dimensions,https://arxiv.org/abs/2604.06799,"arXiv:2604.06799v1 Announce Type: new 
+Abstract: Algebraic reasoning remains one of the most informative stress tests for large language models, yet current benchmarks provide no mechanism for attribu"
+cs.CL,cs.CL_67,Cognitive Loop of Thought: Reversible Hierarchical Markov Chain for Efficient Mathematical Reasoning,https://arxiv.org/abs/2604.06805,"arXiv:2604.06805v1 Announce Type: new 
+Abstract: Multi-step Chain-of-Thought (CoT) has significantly advanced the mathematical reasoning capabilities of LLMs by leveraging explicit reasoning steps. Ho"
+cs.CL,cs.CL_68,AGSC: Adaptive Granularity and Semantic Clustering for Uncertainty Quantification in Long-text Generation,https://arxiv.org/abs/2604.06812,"arXiv:2604.06812v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) have demonstrated impressive capabilities in long-form generation, yet their application is hindered by the hallucination "
+cs.CL,cs.CL_69,"SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization",https://arxiv.org/abs/2604.06817,"arXiv:2604.06817v1 Announce Type: new 
+Abstract: We present SemEval-2026 Task 9, a shared task on online polarization detection, covering 22 languages and comprising over 110K annotated instances. Eac"
+cs.CL,cs.CL_70,"Environmental, Social and Governance Sentiment Analysis on Slovene News: A Novel Dataset and Models",https://arxiv.org/abs/2604.06826,"arXiv:2604.06826v1 Announce Type: new 
+Abstract: Environmental, Social, and Governance (ESG) considerations are increasingly integral to assessing corporate performance, reputation, and long-term sust"
+cs.CL,cs.CL_71,WRAP++: Web discoveRy Amplified Pretraining,https://arxiv.org/abs/2604.06829,"arXiv:2604.06829v1 Announce Type: new 
+Abstract: Synthetic data rephrasing has emerged as a powerful technique for enhancing knowledge acquisition during large language model (LLM) pretraining. Howeve"
+cs.CL,cs.CL_72,Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM,https://arxiv.org/abs/2604.06832,"arXiv:2604.06832v1 Announce Type: new 
+Abstract: Vision-language models (VLMs) predominantly rely on autoregressive decoding, which generates tokens one at a time and fundamentally limits inference th"
+cs.CL,cs.CL_73,On the Step Length Confounding in LLM Reasoning Data Selection,https://arxiv.org/abs/2604.06834,"arXiv:2604.06834v1 Announce Type: new 
+Abstract: Large reasoning models have recently demonstrated strong performance on complex tasks that require long chain-of-thought reasoning, through supervised "
+cs.CL,cs.CL_74,HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues,https://arxiv.org/abs/2604.06845,"arXiv:2604.06845v1 Announce Type: new 
+Abstract: Long-term memory is critical for dialogue systems that support continuous, sustainable, and personalized interactions. However, existing methods rely o"
+cs.CL,cs.CL_75,MedDialBench: Benchmarking LLM Diagnostic Robustness under Parametric Adversarial Patient Behaviors,https://arxiv.org/abs/2604.06846,"arXiv:2604.06846v1 Announce Type: new 
+Abstract: Interactive medical dialogue benchmarks have shown that LLM diagnostic accuracy degrades significantly when interacting with non-cooperative patients, "
+cs.CL,cs.CL_76,"To Adapt or not to Adapt, Rethinking the Value of Medical Knowledge-Aware Large Language Models",https://arxiv.org/abs/2604.06854,"arXiv:2604.06854v1 Announce Type: new 
+Abstract: BACKGROUND: Recent studies have shown that domain-adapted large language models (LLMs) do not consistently outperform general-purpose counterparts on s"
+cs.CL,cs.CL_77,Do We Need Distinct Representations for Every Speech Token? Unveiling and Exploiting Redundancy in Large Speech Language Models,https://arxiv.org/abs/2604.06871,"arXiv:2604.06871v1 Announce Type: new 
+Abstract: Large Speech Language Models (LSLMs) typically operate at high token rates (tokens/s) to ensure acoustic fidelity, yet this results in sequence lengths"
+cs.CL,cs.CL_78,iTAG: Inverse Design for Natural Text Generation with Accurate Causal Graph Annotations,https://arxiv.org/abs/2604.06902,"arXiv:2604.06902v1 Announce Type: new 
+Abstract: A fundamental obstacle to causal discovery from text is the lack of causally annotated text data for use as ground truth, due to high annotation costs."
+cs.CL,cs.CL_79,Is Biomedical Specialization Still Worth It? Insights from Domain-Adaptive Language Modelling with a New French Health Corpus,https://arxiv.org/abs/2604.06903,"arXiv:2604.06903v1 Announce Type: new 
+Abstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse domains, yet their adaptation to specialized fields remains chall"
+cs.CL,cs.CL_80,"The AI Skills Shift: Mapping Skill Obsolescence, Emergence, and Transition Pathways in the LLM Era",https://arxiv.org/abs/2604.06906,"arXiv:2604.06906v1 Announce Type: new 
+Abstract: As Large Language Models reshape the global labor market, policymakers and workers need empirical data on which occupational skills may be most suscept"
+cs.CL,cs.CL_81,Self-Preference Bias in Rubric-Based Evaluation of Large Language Models,https://arxiv.org/abs/2604.06996,"arXiv:2604.06996v1 Announce Type: new 
+Abstract: LLM-as-a-judge has become the de facto approach for evaluating LLM outputs. However, judges are known to exhibit self-preference bias (SPB): they tend "
+cs.CL,cs.CL_82,ChunQiuTR: Time-Keyed Temporal Retrieval in Classical Chinese Annals,https://arxiv.org/abs/2604.06997,"arXiv:2604.06997v1 Announce Type: new 
+Abstract: Retrieval shapes how language models access and ground knowledge in retrieval-augmented generation (RAG). In historical research, the target is often n"
+cs.CL,cs.CL_83,Continuous Interpretive Steering for Scalar Diversity,https://arxiv.org/abs/2604.07006,"arXiv:2604.07006v1 Announce Type: new 
+Abstract: Pragmatic inference is inherently graded. Different lexical items give rise to pragmatic enrichment to different degrees. Scalar implicature exemplifie"
+cs.CL,cs.CL_84,DTCRS: Dynamic Tree Construction for Recursive Summarization,https://arxiv.org/abs/2604.07012,"arXiv:2604.07012v1 Announce Type: new 
+Abstract: Retrieval-Augmented Generation (RAG) mitigates the hallucination problem of Large Language Models (LLMs) by incorporating external knowledge. Recursive"
+cs.CL,cs.CL_85,Corpora deduplication or duplication in Natural Language Processing of few resourced languages ? A case of study: The Mexico's Nahuatl,https://arxiv.org/abs/2604.07015,"arXiv:2604.07015v1 Announce Type: new 
+Abstract: In this article, we seek to answer the following question: could data duplication be useful in Natural Language Processing (NLP) for languages with lim"
+cs.CL,cs.CL_86,MARS: Enabling Autoregressive Models Multi-Token Generation,https://arxiv.org/abs/2604.07023,"arXiv:2604.07023v1 Announce Type: new 
+Abstract: Autoregressive (AR) language models generate text one token at a time, even when consecutive tokens are highly predictable given earlier context. We in"
+cs.CL,cs.CL_87,"Gemma 4, Phi-4, and Qwen3: Accuracy-Efficiency Tradeoffs in Dense and MoE Reasoning Language Models",https://arxiv.org/abs/2604.07035,"arXiv:2604.07035v1 Announce Type: new 
+Abstract: Mixture-of-experts (MoE) language models are often expected to offer better quality-efficiency tradeoffs than dense models because only a subset of par"
+cs.CL,cs.CL_88,ReDAct: Uncertainty-Aware Deferral for LLM Agents,https://arxiv.org/abs/2604.07036,"arXiv:2604.07036v1 Announce Type: new 
+Abstract: Recently, LLM-based agents have become increasingly popular across many applications, including complex sequential decision-making problems. However, t"
+cs.CL,cs.CL_89,"Sell More, Play Less: Benchmarking LLM Realistic Selling Skill",https://arxiv.org/abs/2604.07054,"arXiv:2604.07054v1 Announce Type: new 
+Abstract: Sales dialogues require multi-turn, goal-directed persuasion under asymmetric incentives, which makes them a challenging setting for large language mod"
+cs.CL,cs.CL_90,IndoBERT-Sentiment: Context-Conditioned Sentiment Classification for Indonesian Text,https://arxiv.org/abs/2604.07057,"arXiv:2604.07057v1 Announce Type: new 
+Abstract: Existing Indonesian sentiment analysis models classify text in isolation, ignoring the topical context that often determines whether a statement is pos"
+cs.CL,cs.CL_91,SemEval-2026 Task 3: Dimensional Aspect-Based Sentiment Analysis (DimABSA),https://arxiv.org/abs/2604.07066,"arXiv:2604.07066v1 Announce Type: new 
+Abstract: We present the SemEval-2026 shared task on Dimensional Aspect-Based Sentiment Analysis (DimABSA), which improves traditional ABSA by modeling sentiment"
+cs.CL,cs.CL_92,Is Cross-Lingual Transfer in Bilingual Models Human-Like? A Study with Overlapping Word Forms in Dutch and English,https://arxiv.org/abs/2604.07067,"arXiv:2604.07067v1 Announce Type: new 
+Abstract: Bilingual speakers show cross-lingual activation during reading, especially for words with shared surface form. Cognates (friends) typically lead to fa"
+cs.CL,cs.CL_93,Multilingual Embedding Probes Fail to Generalize Across Learner Corpora,https://arxiv.org/abs/2604.07095,"arXiv:2604.07095v1 Announce Type: new 
+Abstract: Do multilingual embedding models encode a language-general representation of proficiency? We investigate this by training linear and non-linear probes "
+cs.CL,cs.CL_94,STRIDE-ED: A Strategy-Grounded Stepwise Reasoning Framework for Empathetic Dialogue Systems,https://arxiv.org/abs/2604.07100,"arXiv:2604.07100v1 Announce Type: new 
+Abstract: Empathetic dialogue requires not only recognizing a user's emotional state but also making strategy-aware, context-sensitive decisions throughout respo"
+cs.CL,cs.CL_95,The Impact of Steering Large Language Models with Persona Vectors in Educational Applications,https://arxiv.org/abs/2604.07102,"arXiv:2604.07102v1 Announce Type: new 
+Abstract: Activation-based steering can personalize large language models at inference time, but its effects in educational settings remain unclear. We study per"
+cs.CL,cs.CL_96,Yale-DM-Lab at ArchEHR-QA 2026: Deterministic Grounding and Multi-Pass Evidence Alignment for EHR Question Answering,https://arxiv.org/abs/2604.07116,"arXiv:2604.07116v1 Announce Type: new 
+Abstract: We describe the Yale-DM-Lab system for the ArchEHR-QA 2026 shared task. The task studies patient-authored questions about hospitalization records and c"
+cs.CL,cs.CL_97,Are Non-English Papers Reviewed Fairly? Language-of-Study Bias in NLP Peer Reviews,https://arxiv.org/abs/2604.07119,"arXiv:2604.07119v1 Announce Type: new 
+Abstract: Peer review plays a central role in the NLP publication process, but is susceptible to various biases. Here, we study language-of-study (LoS) bias: the"
+cs.CL,cs.CL_98,Language Bias under Conflicting Information in Multilingual LLMs,https://arxiv.org/abs/2604.07123,"arXiv:2604.07123v1 Announce Type: new 
+Abstract: Large Language Models (LLMs) have been shown to contain biases in the process of integrating conflicting information when answering questions. Here we "
+cs.CL,cs.CL_99,Dynamic Context Evolution for Scalable Synthetic Data Generation,https://arxiv.org/abs/2604.07147,"arXiv:2604.07147v1 Announce Type: new 
+Abstract: Large language models produce repetitive output when prompted independently across many batches, a phenomenon we term cross-batch mode collapse: the pr"
+cs.CL,cs.CL_100,Agent-Driven Corpus Linguistics: A Framework for Autonomous Linguistic Discovery,https://arxiv.org/abs/2604.07189,"arXiv:2604.07189v1 Announce Type: new 
+Abstract: Corpus linguistics has traditionally relied on human researchers to formulate hypotheses, construct queries, and interpret results - a process demandin"
+cs.CL,cs.CL_101,LaScA: Language-Conditioned Scalable Modelling of Affective Dynamics,https://arxiv.org/abs/2604.07193,"arXiv:2604.07193v1 Announce Type: new 
+Abstract: Predicting affect in unconstrained environments remains a fundamental challenge in human-centered AI. While deep neural embeddings dominate contemporar"
+cs.CL,cs.CL_102,Efficient Learned Data Compression via Dual-Stream Feature Decoupling,https://arxiv.org/abs/2604.07239,"arXiv:2604.07239v1 Announce Type: new 
+Abstract: While Learned Data Compression (LDC) has achieved superior compression ratios, balancing precise probability modeling with system efficiency remains ch"
+cs.CL,cs.CL_103,Joint Optimization of Reasoning and Dual-Memory for Self-Learning Diagnostic Agent,https://arxiv.org/abs/2604.07269,"arXiv:2604.07269v1 Announce Type: new 
+Abstract: Clinical expertise improves not only by acquiring medical knowledge, but by accumulating experience that yields reusable diagnostic patterns. Recent LL"
+cs.CL,cs.CL_104,ClickGuard: A Trustworthy Adaptive Fusion Framework for Clickbait Detection,https://arxiv.org/abs/2604.07272,"arXiv:2604.07272v1 Announce Type: new 
+Abstract: The widespread use of clickbait headlines, crafted to mislead and maximize engagement, poses a significant challenge to online credibility. These headl"
+cs.CL,cs.CL_105,A Systematic Study of Retrieval Pipeline Design for Retrieval-Augmented Medical Question Answering,https://arxiv.org/abs/2604.07274,"arXiv:2604.07274v1 Announce Type: new 
+Abstract: Large language models (LLMs) have demonstrated strong capabilities in medical question answering; however, purely parametric models often suffer from k"
+cs.CL,cs.CL_106,"Why teaching resists automation in an AI-inundated era: Human judgment, non-modular work, and the limits of delegation",https://arxiv.org/abs/2604.07285,"arXiv:2604.07285v1 Announce Type: new 
+Abstract: Debates about artificial intelligence (AI) in education often portray teaching as a modular and procedural job that can increasingly be automated or de"
+cs.CL,cs.CL_107,OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence,https://arxiv.org/abs/2604.07296,"arXiv:2604.07296v1 Announce Type: new 
+Abstract: Spatial understanding is a fundamental cornerstone of human-level intelligence. Nonetheless, current research predominantly focuses on domain-specific "
+cs.CL,cs.CL_108,Evaluating In-Context Translation with Synchronous Context-Free Grammar Transduction,https://arxiv.org/abs/2604.07320,"arXiv:2604.07320v1 Announce Type: new 
+Abstract: Low-resource languages pose a challenge for machine translation with large language models (LLMs), which require large amounts of training data. One po"
+cs.CL,cs.CL_109,Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization,https://arxiv.org/abs/2604.07343,"arXiv:2604.07343v1 Announce Type: new 
+Abstract: Pluralistic alignment has emerged as a critical frontier in the development of Large Language Models (LLMs), with reward models (RMs) serving as a cent"
+cs.CL,cs.CL_110,Robustness Risk of Conversational Retrieval: Identifying and Mitigating Noise Sensitivity in Qwen3-Embedding Model,https://arxiv.org/abs/2604.06176,"arXiv:2604.06176v1 Announce Type: cross 
+Abstract: We present an empirical study of embedding-based retrieval under realistic conversational settings, where queries are short, dialogue-like, and weakl"
+cs.CL,cs.CL_111,WebExpert: domain-aware web agents with critic-guided expert experience for high-precision search,https://arxiv.org/abs/2604.06177,"arXiv:2604.06177v1 Announce Type: cross 
+Abstract: Specialized web tasks in finance, biomedicine, and pharmaceuticals remain challenging due to missing domain priors: queries drift, evidence is noisy,"
+cs.CL,cs.CL_112,ARIA: Adaptive Retrieval Intelligence Assistant -- A Multimodal RAG Framework for Domain-Specific Engineering Education,https://arxiv.org/abs/2604.06179,"arXiv:2604.06179v1 Announce Type: cross 
+Abstract: Developing effective, domain-specific educational support systems is central to advancing AI in education. Although large language models (LLMs) demo"
+cs.CL,cs.CL_113,Benchmarking LLM Tool-Use in the Wild,https://arxiv.org/abs/2604.06185,"arXiv:2604.06185v1 Announce Type: cross 
+Abstract: Fulfilling user needs through Large Language Model multi-turn, multi-step tool-use is rarely a straightforward process. Real user interactions are in"
+cs.CL,cs.CL_114,LLM Spirals of Delusion: A Benchmarking Audit Study of AI Chatbot Interfaces,https://arxiv.org/abs/2604.06188,"arXiv:2604.06188v1 Announce Type: cross 
+Abstract: People increasingly hold sustained, open-ended conversations with large language models (LLMs). Public reports and early studies suggest that, in suc"
+cs.CL,cs.CL_115,Harf-Speech: A Clinically Aligned Framework for Arabic Phoneme-Level Speech Assessment,https://arxiv.org/abs/2604.06191,"arXiv:2604.06191v1 Announce Type: cross 
+Abstract: Automated phoneme-level pronunciation assessment is vital for scalable speech therapy and language learning, yet validated tools for Arabic remain sc"
+cs.CL,cs.CL_116,The Human Condition as Reflected in Contemporary Large Language Models,https://arxiv.org/abs/2604.06206,"arXiv:2604.06206v1 Announce Type: cross 
+Abstract: This study seeks to uncover evidence of a latent structure in evolved human culture as it is refracted through contemporary large language models (LL"
+cs.CL,cs.CL_117,Code Sharing In Prediction Model Research: A Scoping Review,https://arxiv.org/abs/2604.06212,"arXiv:2604.06212v1 Announce Type: cross 
+Abstract: Analytical code is essential for reproducing diagnostic and prognostic prediction model research, yet code availability in the published literature r"
+cs.CL,cs.CL_118,"Probabilistic Language Tries: A Unified Framework for Compression, Decision Policies, and Execution Reuse",https://arxiv.org/abs/2604.06228,"arXiv:2604.06228v1 Announce Type: cross 
+Abstract: We introduce probabilistic language tries (PLTs), a unified representation that makes explicit the prefix structure implicitly defined by any generat"
+cs.CL,cs.CL_119,Automating Database-Native Function Code Synthesis with LLMs,https://arxiv.org/abs/2604.06231,"arXiv:2604.06231v1 Announce Type: cross 
+Abstract: Database systems incorporate an ever-growing number of functions in their kernels (a.k.a., database native functions) for scenarios like new applicat"
+cs.CL,cs.CL_120,Weakly Supervised Distillation of Hallucination Signals into Transformer Representations,https://arxiv.org/abs/2604.06277,"arXiv:2604.06277v1 Announce Type: cross 
+Abstract: Existing hallucination detection methods for large language models (LLMs) rely on external verification at inference time, requiring gold answers, re"
+cs.CL,cs.CL_121,Say Something Else: Rethinking Contextual Privacy as Information Sufficiency,https://arxiv.org/abs/2604.06409,"arXiv:2604.06409v1 Announce Type: cross 
+Abstract: LLM agents increasingly draft messages on behalf of users, yet users routinely overshare sensitive information and disagree on what counts as private"
+cs.CL,cs.CL_122,The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning,https://arxiv.org/abs/2604.06427,"arXiv:2604.06427v1 Announce Type: cross 
+Abstract: The viability of chain-of-thought (CoT) monitoring hinges on models being unable to reason effectively in their latent representations. Yet little is"
+cs.CL,cs.CL_123,"Transformer See, Transformer Do: Copying as an Intermediate Step in Learning Analogical Reasoning",https://arxiv.org/abs/2604.06501,"arXiv:2604.06501v1 Announce Type: cross 
+Abstract: Analogical reasoning is a hallmark of human intelligence, enabling us to solve new problems by transferring knowledge from one situation to another. "
+cs.CL,cs.CL_124,Argus: Reorchestrating Static Analysis via a Multi-Agent Ensemble for Full-Chain Security Vulnerability Detection,https://arxiv.org/abs/2604.06633,"arXiv:2604.06633v1 Announce Type: cross 
+Abstract: Recent advancements in Large Language Models (LLMs) have sparked interest in their application to Static Application Security Testing (SAST), primari"
+cs.CL,cs.CL_125,SHAPE: Stage-aware Hierarchical Advantage via Potential Estimation for LLM Reasoning,https://arxiv.org/abs/2604.06636,"arXiv:2604.06636v1 Announce Type: cross 
+Abstract: Process supervision has emerged as a promising approach for enhancing LLM reasoning, yet existing methods fail to distinguish meaningful progress fro"
+cs.CL,cs.CL_126,Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation,https://arxiv.org/abs/2604.06711,"arXiv:2604.06711v1 Announce Type: cross 
+Abstract: Deciphering ancient Chinese Oracle Bone Script (OBS) is a challenging task that offers insights into the beliefs, systems, and culture of the ancient"
+cs.CL,cs.CL_127,Steering the Verifiability of Multimodal AI Hallucinations,https://arxiv.org/abs/2604.06714,"arXiv:2604.06714v1 Announce Type: cross 
+Abstract: AI applications driven by multimodal large language models (MLLMs) are prone to hallucinations and pose considerable risks to human users. Crucially,"
+cs.CL,cs.CL_128,Geometric Properties of the Voronoi Tessellation in Latent Semantic Manifolds of Large Language Models,https://arxiv.org/abs/2604.06767,"arXiv:2604.06767v1 Announce Type: cross 
+Abstract: Language models operate on discrete tokens but compute in continuous vector spaces, inducing a Voronoi tessellation over the representation manifold."
+cs.CL,cs.CL_129,From Perception to Autonomous Computational Modeling: A Multi-Agent Approach,https://arxiv.org/abs/2604.06788,"arXiv:2604.06788v1 Announce Type: cross 
+Abstract: We present a solver-agnostic framework in which coordinated large language model (LLM) agents autonomously execute the complete computational mechani"
+cs.CL,cs.CL_130,Video-guided Machine Translation with Global Video Context,https://arxiv.org/abs/2604.06789,"arXiv:2604.06789v1 Announce Type: cross 
+Abstract: Video-guided Multimodal Translation (VMT) has advanced significantly in recent years. However, most existing methods rely on locally aligned video se"
+cs.CL,cs.CL_131,"Digital Skin, Digital Bias: Uncovering Tone-Based Biases in LLMs and Emoji Embeddings",https://arxiv.org/abs/2604.06863,"arXiv:2604.06863v1 Announce Type: cross 
+Abstract: Skin-toned emojis are crucial for fostering personal identity and social inclusion in online communication. As AI models, particularly Large Language"
+cs.CL,cs.CL_132,Strategic Persuasion with Trait-Conditioned Multi-Agent Systems for Iterative Legal Argumentation,https://arxiv.org/abs/2604.07028,"arXiv:2604.07028v1 Announce Type: cross 
+Abstract: Strategic interaction in adversarial domains such as law, diplomacy, and negotiation is mediated by language, yet most game-theoretic models abstract"
+cs.CL,cs.CL_133,Selective Neuron Amplification for Training-Free Task Enhancement,https://arxiv.org/abs/2604.07098,"arXiv:2604.07098v1 Announce Type: cross 
+Abstract: Large language models often fail on tasks they seem to already understand. In our experiments, this appears to be less about missing knowledge and mo"
+cs.CL,cs.CL_134,TraceSafe: A Systematic Assessment of LLM Guardrails on Multi-Step Tool-Calling Trajectories,https://arxiv.org/abs/2604.07223,"arXiv:2604.07223v1 Announce Type: cross 
+Abstract: As large language models (LLMs) evolve from static chatbots into autonomous agents, the primary vulnerability surface shifts from final outputs to in"
+cs.CL,cs.CL_135,How Much LLM Does a Self-Revising Agent Actually Need?,https://arxiv.org/abs/2604.07236,"arXiv:2604.07236v1 Announce Type: cross 
+Abstract: Recent LLM-based agents often place world modeling, planning, and reflection inside a single language model loop. This can produce capable behavior, "
+cs.CL,cs.CL_136,On the Price of Privacy for Language Identification and Generation,https://arxiv.org/abs/2604.07238,"arXiv:2604.07238v1 Announce Type: cross 
+Abstract: As large language models (LLMs) are increasingly trained on sensitive user data, understanding the fundamental cost of privacy in language learning b"
+cs.CL,cs.CL_137,Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images,https://arxiv.org/abs/2604.07338,"arXiv:2604.07338v1 Announce Type: cross 
+Abstract: Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadat"
+cs.CL,cs.CL_138,A Multilingual Dataset and Empirical Validation for the Mutual Reinforcement Effect in Information Extraction,https://arxiv.org/abs/2407.10953,"arXiv:2407.10953v4 Announce Type: replace 
+Abstract: The Mutual Reinforcement Effect (MRE) describes a phenomenon in information extraction where word-level and sentence-level tasks can mutually impro"
+cs.CL,cs.CL_139,Reinforcement Learning for LLM Post-Training: A Survey,https://arxiv.org/abs/2407.16216,"arXiv:2407.16216v2 Announce Type: replace 
+Abstract: Through pretraining and supervised fine-tuning (SFT), large language models (LLMs) acquire strong instruction-following capabilities, yet they can "
+cs.CL,cs.CL_140,Exploring Natural Language-Based Strategies for Efficient Number Learning in Children through Reinforcement Learning,https://arxiv.org/abs/2410.08334,"arXiv:2410.08334v2 Announce Type: replace 
+Abstract: In this paper, we build a reinforcement learning framework to study how children compose numbers using base-ten blocks. Studying numerical cognitio"
+cs.CL,cs.CL_141,SimSiam Naming Game: A Unified Approach for Representation Learning and Emergent Communication,https://arxiv.org/abs/2410.21803,"arXiv:2410.21803v2 Announce Type: replace 
+Abstract: Emergent Communication (EmCom) investigates how agents develop symbolic communication through interaction without predefined language. Recent frame"
+cs.CL,cs.CL_142,LongSpec: Long-Context Lossless Speculative Decoding with Efficient Drafting and Verification,https://arxiv.org/abs/2502.17421,"arXiv:2502.17421v4 Announce Type: replace 
+Abstract: As Large Language Models (LLMs) can now process extremely long contexts, efficient inference over these extended inputs has become increasingly imp"
+cs.CL,cs.CL_143,"Large Language Models for Outpatient Referral: Problem Definition, Benchmarking and Challenges",https://arxiv.org/abs/2503.08292,"arXiv:2503.08292v4 Announce Type: replace 
+Abstract: Large language models (LLMs) are increasingly applied to outpatient referral tasks across healthcare systems. However, there is a lack of standardi"
+cs.CL,cs.CL_144,LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning,https://arxiv.org/abs/2506.18841,"arXiv:2506.18841v3 Announce Type: replace 
+Abstract: Ultra-long generation by large language models (LLMs) is a widely demanded scenario, yet it remains a significant challenge due to their maximum ge"
+cs.CL,cs.CL_145,Reward Models Can Improve Themselves: Reward-Guided Adversarial Failure Mode Discovery for Robust Reward Modeling,https://arxiv.org/abs/2507.06419,"arXiv:2507.06419v2 Announce Type: replace 
+Abstract: Reward modeling (RM), which captures human preferences to align large language models (LLMs), is increasingly employed in tasks such as model finet"
+cs.CL,cs.CL_146,Soft Head Selection for Injecting ICL-Derived Task Embeddings,https://arxiv.org/abs/2507.20906,"arXiv:2507.20906v3 Announce Type: replace 
+Abstract: Large language models (LLMs) are commonly adapted to downstream tasks using parameter-efficient fine-tuning (PEFT) or in-context learning (ICL). Re"
+cs.CL,cs.CL_147,SEA-BED: How Do Embedding Models Represent Southeast Asian Languages?,https://arxiv.org/abs/2508.12243,"arXiv:2508.12243v3 Announce Type: replace 
+Abstract: Multilingual text embeddings are often assumed to encode meaning in a perspective-independent semantic space, yielding stable similarity judgments "
+cs.CL,cs.CL_148,LifeAlign: Lifelong Alignment for Large Language Models with Memory-Augmented Focalized Preference Optimization,https://arxiv.org/abs/2509.17183,"arXiv:2509.17183v3 Announce Type: replace 
+Abstract: Alignment plays a crucial role in Large Language Models (LLMs) in aligning with human preferences on a specific task/domain. Traditional alignment "
+cs.CL,cs.CL_149,Between Help and Harm: An Evaluation of Mental Health Crisis Handling by LLMs,https://arxiv.org/abs/2509.24857,"arXiv:2509.24857v3 Announce Type: replace 
+Abstract: Large language model-powered chatbots have transformed how people seek information, especially in high-stakes contexts like mental health. Despite "
+cs.CL,cs.CL_150,"The Rise of AfricaNLP: A Survey of Contributions, Contributors, Community Impact, and Bibliometric Analysis",https://arxiv.org/abs/2509.25477,"arXiv:2509.25477v5 Announce Type: replace 
+Abstract: Natural Language Processing (NLP) is undergoing constant transformation, as Large Language Models (LLMs) are driving daily breakthroughs in researc"
+cs.CL,cs.CL_151,Mismatch Aware Guidance for Robust Emotion Control in Auto-Regressive TTS Models,https://arxiv.org/abs/2510.13293,"arXiv:2510.13293v2 Announce Type: replace 
+Abstract: While Text-to-Speech (TTS) systems can achieve fine-grained control over emotional expression via natural language prompts, a significant challenge"
+cs.CL,cs.CL_152,Telling Speculative Stories to Help Humans Imagine the Harms of Healthcare AI,https://arxiv.org/abs/2510.14718,"arXiv:2510.14718v3 Announce Type: replace 
+Abstract: Artificial intelligence (AI) is rapidly transforming healthcare, enabling fast development of tools like stress monitors, wellness trackers, and me"
+cs.CL,cs.CL_153,Contrastive Decoding Mitigates Score Range Bias in LLM-as-a-Judge,https://arxiv.org/abs/2510.18196,"arXiv:2510.18196v2 Announce Type: replace 
+Abstract: Large Language Models (LLMs) are commonly used as evaluators in various applications, but the reliability of the outcomes remains a challenge. One "
+cs.CL,cs.CL_154,How to Evaluate Speech Translation with Source-Aware Neural MT Metrics,https://arxiv.org/abs/2511.03295,"arXiv:2511.03295v3 Announce Type: replace 
+Abstract: Automatic evaluation of ST systems is typically performed by comparing translation hypotheses with one or more reference translations. While effect"
+cs.CL,cs.CL_155,Rectifying LLM Thought from Lens of Optimization,https://arxiv.org/abs/2512.01925,"arXiv:2512.01925v2 Announce Type: replace 
+Abstract: Recent advancements in large language models (LLMs) have been driven by their emergent reasoning capabilities, particularly through long chain-of-t"
+cs.CL,cs.CL_156,ADOPT: Adaptive Dependency-Guided Joint Prompt Optimization for Multi-Step LLM Pipelines,https://arxiv.org/abs/2512.24933,"arXiv:2512.24933v2 Announce Type: replace 
+Abstract: Multi-step LLM pipelines can solve complex tasks, but jointly optimizing prompts across steps remains challenging due to missing step-level supervi"
+cs.CL,cs.CL_157,Improved Evidence Extraction and Metrics for Document Inconsistency Detection with LLMs,https://arxiv.org/abs/2601.02627,"arXiv:2601.02627v2 Announce Type: replace 
+Abstract: Large language models (LLMs) are becoming useful in many domains due to their impressive abilities that arise from large training datasets and larg"
+cs.CL,cs.CL_158,Enhancing Multilingual RAG Systems with Debiased Language Preference-Guided Query Fusion,https://arxiv.org/abs/2601.02956,"arXiv:2601.02956v2 Announce Type: replace 
+Abstract: Multilingual Retrieval-Augmented Generation (mRAG) systems often exhibit a perceived preference for high-resource languages, particularly English, "
+cs.CL,cs.CL_159,Is Sentiment Banana-Shaped? Exploring the Geometry and Portability of Sentiment Concept Vectors,https://arxiv.org/abs/2601.07995,"arXiv:2601.07995v2 Announce Type: replace 
+Abstract: Use cases of sentiment analysis in the humanities often require contextualized, continuous scores. Concept Vector Projections (CVP) offer a recent "
+cs.CL,cs.CL_160,PEARL: Self-Evolving Assistant for Time Management with Reinforcement Learning,https://arxiv.org/abs/2601.11957,"arXiv:2601.11957v3 Announce Type: replace 
+Abstract: Overlapping calendar invitations force busy professionals to repeatedly decide which meetings to attend, reschedule, or decline. We refer to this p"
+cs.CL,cs.CL_161,Computer Environments Elicit General Agentic Intelligence in LLMs,https://arxiv.org/abs/2601.16206,"arXiv:2601.16206v3 Announce Type: replace 
+Abstract: Agentic intelligence in large language models (LLMs) requires not only model intrinsic capabilities but also interactions with external environment"
+cs.CL,cs.CL_162,PACIFIC: Can LLMs Discern the Traits Influencing Your Preferences? Evaluating Personality-Driven Preference Alignment in LLMs,https://arxiv.org/abs/2602.07181,"arXiv:2602.07181v3 Announce Type: replace 
+Abstract: User preferences are increasingly used to personalize Large Language Model (LLM) responses, yet how to reliably leverage preference signals for ans"
+cs.CL,cs.CL_163,ACE-Merging: Data-Free Model Merging with Adaptive Covariance Estimation,https://arxiv.org/abs/2603.02945,"arXiv:2603.02945v2 Announce Type: replace 
+Abstract: Model merging aims to combine multiple task-specific expert models into a single model while preserving generalization across diverse tasks. Howeve"
+cs.CL,cs.CL_164,What Do AI Agents Talk About? Discourse and Architectural Constraints in the First AI-Only Social Network,https://arxiv.org/abs/2603.07880,"arXiv:2603.07880v3 Announce Type: replace 
+Abstract: Moltbook is the first large-scale social network built for autonomous AI agent-to-agent interaction. Early studies on Moltbook have interpreted its"
+cs.CL,cs.CL_165,PEEM: Prompt Engineering Evaluation Metrics for Interpretable Joint Evaluation of Prompts and Responses,https://arxiv.org/abs/2603.10477,"arXiv:2603.10477v2 Announce Type: replace 
+Abstract: Prompt design is a primary control interface for large language models (LLMs), yet standard evaluations largely reduce performance to answer correc"
+cs.CL,cs.CL_166,Mitigating Hallucination on Hallucination in RAG via Ensemble Voting,https://arxiv.org/abs/2603.27253,"arXiv:2603.27253v2 Announce Type: replace 
+Abstract: Retrieval-Augmented Generation (RAG) aims to reduce hallucinations in Large Language Models (LLMs) by integrating external knowledge. However, RAG "
+cs.CL,cs.CL_167,A Taxonomy of Programming Languages for Code Generation,https://arxiv.org/abs/2604.00239,"arXiv:2604.00239v2 Announce Type: replace 
+Abstract: The world's 7,000+ languages vary widely in the availability of resources for NLP, motivating efforts to systematically categorize them by their de"
+cs.CL,cs.CL_168,JoyAI-LLM Flash: Advancing Mid-Scale LLMs with Token Efficiency,https://arxiv.org/abs/2604.03044,"arXiv:2604.03044v2 Announce Type: replace 
+Abstract: We introduce JoyAI-LLM Flash, an efficient Mixture-of-Experts (MoE) language model designed to redefine the trade-off between strong performance an"
+cs.CL,cs.CL_169,StoryScope: Investigating idiosyncrasies in AI fiction,https://arxiv.org/abs/2604.03136,"arXiv:2604.03136v3 Announce Type: replace 
+Abstract: As AI-generated fiction becomes increasingly prevalent, questions of authorship and originality are becoming central to how written work is evaluat"
+cs.CL,cs.CL_170,Compressible Softmax-Attended Language under Incompressible Attention,https://arxiv.org/abs/2604.04384,"arXiv:2604.04384v2 Announce Type: replace 
+Abstract: Softmax attention defines an interaction through $d_h$ head dimensions, but not all dimensions carry equal weight once real text passes through. We"
+cs.CL,cs.CL_171,UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding,https://arxiv.org/abs/2507.22025,"arXiv:2507.22025v4 Announce Type: replace-cross 
+Abstract: The emergence of Multimodal Large Language Models (MLLMs) has driven significant advances in Graphical User Interface (GUI) agent capabilitie"
+cs.CL,cs.CL_172,One Life to Learn: Inferring Symbolic World Models for Stochastic Environments from Unguided Exploration,https://arxiv.org/abs/2510.12088,"arXiv:2510.12088v2 Announce Type: replace-cross 
+Abstract: Symbolic world modeling requires inferring and representing an environment's transitional dynamics as an executable program. Prior work has f"
+cs.CL,cs.CL_173,VisCoder2: Building Multi-Language Visualization Coding Agents,https://arxiv.org/abs/2510.23642,"arXiv:2510.23642v2 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) have recently enabled coding agents capable of generating, executing, and revising visualization code. However, "
+cs.CL,cs.CL_174,GIFT: Group-Relative Implicit Fine-Tuning Integrates GRPO with DPO and UNA,https://arxiv.org/abs/2510.23868,"arXiv:2510.23868v4 Announce Type: replace-cross 
+Abstract: This paper proposes \textit{Group-relative Implicit Fine-Tuning (GIFT)}, a reinforcement learning framework for aligning large language model"
+cs.CL,cs.CL_175,Graph Representation-based Model Poisoning on the Heterogeneous Internet of Agents,https://arxiv.org/abs/2511.07176,"arXiv:2511.07176v3 Announce Type: replace-cross 
+Abstract: Internet of Agents (IoA) envisions a unified, agent-centric paradigm where heterogeneous large language model (LLM) agents can interconnect a"
+cs.CL,cs.CL_176,FBS: Modeling Native Parallel Reading inside a Transformer,https://arxiv.org/abs/2601.21708,"arXiv:2601.21708v2 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) excel across many tasks, yet inference is still dominated by strictly token-by-token autoregression. Existing ac"
+cs.CL,cs.CL_177,Daily and Weekly Periodicity in Large Language Model Performance and Its Implications for Research,https://arxiv.org/abs/2602.15889,"arXiv:2602.15889v2 Announce Type: replace-cross 
+Abstract: Large language models (LLMs) are increasingly used in research as both tools and objects of study. Much of this work assumes that LLM perform"
+cs.CL,cs.CL_178,"What Makes an Ideal Quote? Recommending ""Unexpected yet Rational"" Quotations via Novelty",https://arxiv.org/abs/2602.22220,"arXiv:2602.22220v2 Announce Type: replace-cross 
+Abstract: Quotation recommendation aims to enrich writing by suggesting quotes that complement a given context, yet existing systems mostly optimize su"
+cs.CL,cs.CL_179,Self-Distilled RLVR,https://arxiv.org/abs/2604.03128,"arXiv:2604.03128v2 Announce Type: replace-cross 
+Abstract: On-policy distillation (OPD) has become a popular training paradigm in the LLM community. This paradigm selects a larger model as the teacher"
+cs.CL,cs.CL_180,Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking,https://arxiv.org/abs/2604.05268,"arXiv:2604.05268v2 Announce Type: replace-cross 
+Abstract: Multi-modal retrieval-augmented generation (MM-RAG) relies heavily on re-rankers to surface the most relevant evidence for image-question que"
+cs.CL,cs.CL_181,Bridging Natural Language and Microgrid Dynamics: A Context-Aware Simulator and Dataset,https://arxiv.org/abs/2604.05429,"arXiv:2604.05429v2 Announce Type: replace-cross 
+Abstract: Addressing the critical need for intelligent, context-aware energy management in renewable systems, we introduce the OpenCEM Simulator and Da"
+cs.CL,cs.CL_182,JU\'A -- A Benchmark for Information Retrieval in Brazilian Legal Text Collections,https://arxiv.org/abs/2604.06098,"arXiv:2604.06098v2 Announce Type: replace-cross 
+Abstract: Legal information retrieval in Portuguese remains difficult to evaluate systematically because available datasets differ widely in document t"

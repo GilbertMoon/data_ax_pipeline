@@ -1,0 +1,435 @@
+﻿category,paper_id,title,link,summary
+cs.CV,cs.CV_0,CraterBench-R: Instance-Level Crater Retrieval for Planetary Scale,https://arxiv.org/abs/2604.06245,"arXiv:2604.06245v1 Announce Type: new 
+Abstract: Impact craters are a cornerstone of planetary surface analysis. However, while most deep learning pipelines treat craters solely as a detection problem"
+cs.CV,cs.CV_1,No-reference based automatic parameter optimization for iterative reconstruction using a novel search space aware crow search algorithm,https://arxiv.org/abs/2604.06246,"arXiv:2604.06246v1 Announce Type: new 
+Abstract: Iterative reconstruction technique's ability to reduce radiation exposure by using fewer projections has attracted significant attention. However, thes"
+cs.CV,cs.CV_2,DISSECT: Diagnosing Where Vision Ends and Language Priors Begin in Scientific VLMs,https://arxiv.org/abs/2604.06250,"arXiv:2604.06250v1 Announce Type: new 
+Abstract: When asked to describe a molecular diagram, a Vision-Language Model correctly identifies ``a benzene ring with an -OH group.'' When asked to reason abo"
+cs.CV,cs.CV_3,Telescope: Learnable Hyperbolic Foveation for Ultra-Long-Range Object Detection,https://arxiv.org/abs/2604.06332,"arXiv:2604.06332v1 Announce Type: new 
+Abstract: Autonomous highway driving, especially for long-haul heavy trucks, requires detecting objects at long ranges beyond 500 meters to satisfy braking dista"
+cs.CV,cs.CV_4,Evolution of Video Generative Foundations,https://arxiv.org/abs/2604.06339,"arXiv:2604.06339v1 Announce Type: new 
+Abstract: The rapid advancement of Artificial Intelligence Generated Content (AIGC) has revolutionized video generation, enabling systems ranging from proprietar"
+cs.CV,cs.CV_5,Evidence-Based Actor-Verifier Reasoning for Echocardiographic Agents,https://arxiv.org/abs/2604.06347,"arXiv:2604.06347v1 Announce Type: new 
+Abstract: Echocardiography plays an important role in the screening and diagnosis of cardiovascular diseases. However, automated intelligent analysis of echocard"
+cs.CV,cs.CV_6,DietDelta: A Vision-Language Approach for Dietary Assessment via Before-and-After Images,https://arxiv.org/abs/2604.06352,"arXiv:2604.06352v1 Announce Type: new 
+Abstract: Accurate dietary assessment is critical for precision nutrition, yet most image-based methods rely on a single pre-consumption image and provide only c"
+cs.CV,cs.CV_7,MTA-Agent: An Open Recipe for Multimodal Deep Search Agents,https://arxiv.org/abs/2604.06376,"arXiv:2604.06376v1 Announce Type: new 
+Abstract: Multimodal large language models (MLLMs) have demonstrated strong capabilities in visual understanding, yet they remain limited in complex, multi-step "
+cs.CV,cs.CV_8,MorphDistill: Distilling Unified Morphological Knowledge from Pathology Foundation Models for Colorectal Cancer Survival Prediction,https://arxiv.org/abs/2604.06390,"arXiv:2604.06390v1 Announce Type: new 
+Abstract: Background: Colorectal cancer (CRC) remains a leading cause of cancer-related mortality worldwide. Accurate survival prediction is essential for treatm"
+cs.CV,cs.CV_9,Continual Visual Anomaly Detection on the Edge: Benchmark and Efficient Solutions,https://arxiv.org/abs/2604.06435,"arXiv:2604.06435v1 Announce Type: new 
+Abstract: Visual Anomaly Detection (VAD) is a critical task for many applications including industrial inspection and healthcare. While VAD has been extensively "
+cs.CV,cs.CV_10,Visual prompting reimagined: The power of the Activation Prompts,https://arxiv.org/abs/2604.06440,"arXiv:2604.06440v1 Announce Type: new 
+Abstract: Visual prompting (VP) has emerged as a popular method to repurpose pretrained vision models for adaptation to downstream tasks. Unlike conventional mod"
+cs.CV,cs.CV_11,PhysHead: Simulation-Ready Gaussian Head Avatars,https://arxiv.org/abs/2604.06467,"arXiv:2604.06467v1 Announce Type: new 
+Abstract: Realistic digital avatars require expressive and dynamic hair motion; however, most existing head avatar methods assume rigid hair movement. These meth"
+cs.CV,cs.CV_12,Predicting Alzheimer's disease progression using rs-fMRI and a history-aware graph neural network,https://arxiv.org/abs/2604.06469,"arXiv:2604.06469v1 Announce Type: new 
+Abstract: Alzheimer's disease (AD) is a neurodegenerative disorder that affects more than seven million people in the United States alone. AD currently has no cu"
+cs.CV,cs.CV_13,Hybrid ResNet-1D-BiGRU with Multi-Head Attention for Cyberattack Detection in Industrial IoT Environments,https://arxiv.org/abs/2604.06481,"arXiv:2604.06481v1 Announce Type: new 
+Abstract: This study introduces a hybrid deep learning model for intrusion detection in Industrial IoT (IIoT) systems, combining ResNet-1D, BiGRU, and Multi-Head"
+cs.CV,cs.CV_14,DesigNet: Learning to Draw Vector Graphics as Designers Do,https://arxiv.org/abs/2604.06494,"arXiv:2604.06494v1 Announce Type: new 
+Abstract: AI-driven content generation has made remarkable progress in recent years. However, neural networks and human designers operate in fundamentally differ"
+cs.CV,cs.CV_15,LiftFormer: Lifting and Frame Theory Based Monocular Depth Estimation Using Depth and Edge Oriented Subspace Representation,https://arxiv.org/abs/2604.06576,"arXiv:2604.06576v1 Announce Type: new 
+Abstract: Monocular depth estimation (MDE) has attracted increasing interest in the past few years, owing to its important role in 3D vision. MDE is the estimati"
+cs.CV,cs.CV_16,VAMAE: Vessel-Aware Masked Autoencoders for OCT Angiography,https://arxiv.org/abs/2604.06583,"arXiv:2604.06583v1 Announce Type: new 
+Abstract: Optical coherence tomography angiography (OCTA) provides non-invasive visualization of retinal microvasculature, but learning robust representations re"
+cs.CV,cs.CV_17,Holistic Optimal Label Selection for Robust Prompt Learning under Partial Labels,https://arxiv.org/abs/2604.06614,"arXiv:2604.06614v1 Announce Type: new 
+Abstract: Prompt learning has gained significant attention as a parameter-efficient approach for adapting large pre-trained vision-language models to downstream "
+cs.CV,cs.CV_18,Balancing Efficiency and Restoration: Lightweight Mamba-Based Model for CT Metal Artifact Reduction,https://arxiv.org/abs/2604.06622,"arXiv:2604.06622v1 Announce Type: new 
+Abstract: In computed tomography imaging, metal implants frequently generate severe artifacts that compromise image quality and hinder diagnostic accuracy. There"
+cs.CV,cs.CV_19,WeatherRemover: All-in-one Adverse Weather Removal with Multi-scale Feature Map Compression,https://arxiv.org/abs/2604.06623,"arXiv:2604.06623v1 Announce Type: new 
+Abstract: Photographs taken in adverse weather conditions often suffer from blurriness, occlusion, and low brightness due to interference from rain, snow, and fo"
+cs.CV,cs.CV_20,Variational Feature Compression for Model-Specific Representations,https://arxiv.org/abs/2604.06644,"arXiv:2604.06644v1 Announce Type: new 
+Abstract: As deep learning inference is increasingly deployed in shared and cloud-based settings, a growing concern is input repurposing, in which data submitted"
+cs.CV,cs.CV_21,Controllable Generative Video Compression,https://arxiv.org/abs/2604.06655,"arXiv:2604.06655v1 Announce Type: new 
+Abstract: Perceptual video compression adopts generative video modeling to improve perceptual realism but frequently sacrifices signal fidelity, diverging from t"
+cs.CV,cs.CV_22,GPAFormer: Graph-guided Patch Aggregation Transformer for Efficient 3D Medical Image Segmentation,https://arxiv.org/abs/2604.06658,"arXiv:2604.06658v1 Announce Type: new 
+Abstract: Deep learning has been widely applied to 3D medical image segmentation tasks. However, due to the diversity of imaging modalities, the high-dimensional"
+cs.CV,cs.CV_23,Towards Robust Content Watermarking Against Removal and Forgery Attacks,https://arxiv.org/abs/2604.06662,"arXiv:2604.06662v1 Announce Type: new 
+Abstract: Generated contents have raised serious concerns about copyright protection, image provenance, and credit attribution. A potential solution for these pr"
+cs.CV,cs.CV_24,VDPP: Video Depth Post-Processing for Speed and Scalability,https://arxiv.org/abs/2604.06665,"arXiv:2604.06665v1 Announce Type: new 
+Abstract: Video depth estimation is essential for providing 3D scene structure in applications ranging from autonomous driving to mixed reality. Current end-to-e"
+cs.CV,cs.CV_25,RASR: Retrieval-Augmented Semantic Reasoning for Fake News Video Detection,https://arxiv.org/abs/2604.06687,"arXiv:2604.06687v1 Announce Type: new 
+Abstract: Multimodal fake news video detection is a crucial research direction for maintaining the credibility of online information. Existing studies primarily "
+cs.CV,cs.CV_26,Specializing Large Models for Oracle Bone Script Interpretation via Component-Grounded Multimodal Knowledge Augmentation,https://arxiv.org/abs/2604.06711,"arXiv:2604.06711v1 Announce Type: new 
+Abstract: Deciphering ancient Chinese Oracle Bone Script (OBS) is a challenging task that offers insights into the beliefs, systems, and culture of the ancient e"
+cs.CV,cs.CV_27,Improving Local Feature Matching by Entropy-inspired Scale Adaptability and Flow-endowed Local Consistency,https://arxiv.org/abs/2604.06713,"arXiv:2604.06713v1 Announce Type: new 
+Abstract: Recent semi-dense image matching methods have achieved remarkable success, but two long-standing issues still impair their performance. At the coarse s"
+cs.CV,cs.CV_28,HQF-Net: A Hybrid Quantum-Classical Multi-Scale Fusion Network for Remote Sensing Image Segmentation,https://arxiv.org/abs/2604.06715,"arXiv:2604.06715v1 Announce Type: new 
+Abstract: Remote sensing semantic segmentation requires models that can jointly capture fine spatial details and high-level semantic context across complex scene"
+cs.CV,cs.CV_29,Exploring 6D Object Pose Estimation with Deformation,https://arxiv.org/abs/2604.06720,"arXiv:2604.06720v1 Announce Type: new 
+Abstract: We present DeSOPE, a large-scale dataset for 6DoF deformed objects. Most 6D object pose methods assume rigid or articulated objects, an assumption that"
+cs.CV,cs.CV_30,Enhancing MLLM Spatial Understanding via Active 3D Scene Exploration for Multi-Perspective Reasoning,https://arxiv.org/abs/2604.06725,"arXiv:2604.06725v1 Announce Type: new 
+Abstract: Although Multimodal Large Language Models have achieved remarkable progress, they still struggle with complex 3D spatial reasoning due to the reliance "
+cs.CV,cs.CV_31,URMF: Uncertainty-aware Robust Multimodal Fusion for Multimodal Sarcasm Detection,https://arxiv.org/abs/2604.06728,"arXiv:2604.06728v1 Announce Type: new 
+Abstract: Multimodal sarcasm detection (MSD) aims to identify sarcastic intent from semantic incongruity between text and image. Although recent methods have imp"
+cs.CV,cs.CV_32,DOC-GS: Dual-Domain Observation and Calibration for Reliable Sparse-View Gaussian Splatting,https://arxiv.org/abs/2604.06739,"arXiv:2604.06739v1 Announce Type: new 
+Abstract: Sparse-view reconstruction with 3D Gaussian Splatting (3DGS) is fundamentally ill-posed due to insufficient geometric supervision, often leading to sev"
+cs.CV,cs.CV_33,LiveStre4m: Feed-Forward Live Streaming of Novel Views from Unposed Multi-View Video,https://arxiv.org/abs/2604.06740,"arXiv:2604.06740v1 Announce Type: new 
+Abstract: Live-streaming Novel View Synthesis (NVS) from unposed multi-view video remains an open challenge in a wide range of applications. Existing methods for"
+cs.CV,cs.CV_34,From Static to Interactive: Adapting Visual in-Context Learners for User-Driven Tasks,https://arxiv.org/abs/2604.06748,"arXiv:2604.06748v1 Announce Type: new 
+Abstract: Visual in-context learning models are designed to adapt to new tasks by leveraging a set of example input-output pairs, enabling rapid generalization w"
+cs.CV,cs.CV_35,How Well Do Vision-Language Models Understand Sequential Driving Scenes? A Sensitivity Study,https://arxiv.org/abs/2604.06750,"arXiv:2604.06750v1 Announce Type: new 
+Abstract: Vision-Language Models (VLMs) are increasingly proposed for autonomous driving tasks, yet their performance on sequential driving scenes remains poorly"
+cs.CV,cs.CV_36,"FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching",https://arxiv.org/abs/2604.06757,"arXiv:2604.06757v1 Announce Type: new 
+Abstract: Multimodal generation has long been dominated by text-driven pipelines where language dictates vision but cannot reason or create within it. We challen"
+cs.CV,cs.CV_37,FlowExtract: Procedural Knowledge Extraction from Maintenance Flowcharts,https://arxiv.org/abs/2604.06770,"arXiv:2604.06770v1 Announce Type: new 
+Abstract: Maintenance procedures in manufacturing facilities are often documented as flowcharts in static PDFs or scanned images. They encode procedural knowledg"
+cs.CV,cs.CV_38,Walk the Talk: Bridging the Reasoning-Action Gap for Thinking with Images via Multimodal Agentic Policy Optimization,https://arxiv.org/abs/2604.06777,"arXiv:2604.06777v1 Announce Type: new 
+Abstract: Recent advancements in Multimodal Large Language Models (MLLMs) have incentivized models to ``think with images'' by actively invoking visual tools dur"
+cs.CV,cs.CV_39,EventFace: Event-Based Face Recognition via Structure-Driven Spatiotemporal Modeling,https://arxiv.org/abs/2604.06782,"arXiv:2604.06782v1 Announce Type: new 
+Abstract: Event cameras offer a promising sensing modality for face recognition due to their inherent advantages in illumination robustness and privacy-friendlin"
+cs.CV,cs.CV_40,Insights from Visual Cognition: Understanding Human Action Dynamics with Overall Glance and Refined Gaze Transformer,https://arxiv.org/abs/2604.06783,"arXiv:2604.06783v1 Announce Type: new 
+Abstract: Recently, Transformer has made significant progress in various vision tasks. To balance computation and efficiency in video tasks, recent works heavily"
+cs.CV,cs.CV_41,Video-guided Machine Translation with Global Video Context,https://arxiv.org/abs/2604.06789,"arXiv:2604.06789v1 Announce Type: new 
+Abstract: Video-guided Multimodal Translation (VMT) has advanced significantly in recent years. However, most existing methods rely on locally aligned video segm"
+cs.CV,cs.CV_42,FedDAP: Domain-Aware Prototype Learning for Federated Learning under Domain Shift,https://arxiv.org/abs/2604.06795,"arXiv:2604.06795v1 Announce Type: new 
+Abstract: Federated Learning (FL) enables decentralized model training across multiple clients without exposing private data, making it ideal for privacy-sensiti"
+cs.CV,cs.CV_43,"Generate, Analyze, and Refine: Training-Free Sound Source Localization via MLLM Meta-Reasoning",https://arxiv.org/abs/2604.06824,"arXiv:2604.06824v1 Announce Type: new 
+Abstract: Sound source localization task aims to identify the locations of sound-emitting objects by leveraging correlations between audio and visual modalities."
+cs.CV,cs.CV_44,RePL: Pseudo-label Refinement for Semi-supervised LiDAR Semantic Segmentation,https://arxiv.org/abs/2604.06825,"arXiv:2604.06825v1 Announce Type: new 
+Abstract: Semi-supervised learning for LiDAR semantic segmentation often suffers from error propagation and confirmation bias caused by noisy pseudo-labels. To t"
+cs.CV,cs.CV_45,VGGT-SLAM++,https://arxiv.org/abs/2604.06830,"arXiv:2604.06830v1 Announce Type: new 
+Abstract: We introduce VGGT-SLAM++, a complete visual SLAM system that leverages the geometry-rich outputs of the Visual Geometry Grounded Transformer (VGGT). Th"
+cs.CV,cs.CV_46,CloudMamba: An Uncertainty-Guided Dual-Scale Mamba Network for Cloud Detection in Remote Sensing Imagery,https://arxiv.org/abs/2604.06844,"arXiv:2604.06844v1 Announce Type: new 
+Abstract: Cloud detection in remote sensing imagery is a fundamental, critical, and highly challenging problem. Existing deep learning-based cloud detection meth"
+cs.CV,cs.CV_47,"Vision-Language Model-Guided Deep Unrolling Enables Personalized, Fast MRI",https://arxiv.org/abs/2604.06849,"arXiv:2604.06849v1 Announce Type: new 
+Abstract: Magnetic Resonance Imaging (MRI) is a cornerstone in medicine and healthcare but suffers from long acquisition times. Traditional accelerated MRI metho"
+cs.CV,cs.CV_48,"Physical Adversarial Attacks on AI Surveillance Systems:Detection, Tracking, and Visible--Infrared Evasion",https://arxiv.org/abs/2604.06865,"arXiv:2604.06865v1 Announce Type: new 
+Abstract: Physical adversarial attacks are increasingly studied in settings that resemble deployed surveillance systems rather than isolated image benchmarks. In"
+cs.CV,cs.CV_49,RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details,https://arxiv.org/abs/2604.06870,"arXiv:2604.06870v1 Announce Type: new 
+Abstract: We introduce region-specific image refinement as a dedicated problem setting: given an input image and a user-specified region (e.g., a scribble mask o"
+cs.CV,cs.CV_50,SCT-MOT: Enhancing Air-to-Air Multiple UAVs Tracking with Swarm-Coupled Motion and Trajectory Guidance,https://arxiv.org/abs/2604.06883,"arXiv:2604.06883v1 Announce Type: new 
+Abstract: Air-to-air tracking of swarm UAVs presents significant challenges due to the complex nonlinear group motion and weak visual cues for small objects, whi"
+cs.CV,cs.CV_51,Time-driven Survival Analysis from FDG-PET/CT in Non-Small Cell Lung Cancer,https://arxiv.org/abs/2604.06885,"arXiv:2604.06885v1 Announce Type: new 
+Abstract: Purpose: Automated medical image-based prediction of clinical outcomes, such as overall survival (OS), has great potential in improving patient prognos"
+cs.CV,cs.CV_52,Energy-Regularized Spatial Masking: A Novel Approach to Enhancing Robustness and Interpretability in Vision Models,https://arxiv.org/abs/2604.06893,"arXiv:2604.06893v1 Announce Type: new 
+Abstract: Deep convolutional neural networks achieve remarkable performance by exhaustively processing dense spatial feature maps, yet this brute-force strategy "
+cs.CV,cs.CV_53,Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models,https://arxiv.org/abs/2604.06912,"arXiv:2604.06912v1 Announce Type: new 
+Abstract: MLLMs require high-resolution visual inputs for fine-grained tasks like document understanding and dense scene perception. However, current global reso"
+cs.CV,cs.CV_54,Multi-modal user interface control detection using cross-attention,https://arxiv.org/abs/2604.06934,"arXiv:2604.06934v1 Announce Type: new 
+Abstract: Detecting user interface (UI) controls from software screenshots is a critical task for automated testing, accessibility, and software analytics, yet i"
+cs.CV,cs.CV_55,POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP,https://arxiv.org/abs/2604.06938,"arXiv:2604.06938v1 Announce Type: new 
+Abstract: Recent work has explored optimizing image signal processing (ISP) pipelines for various tasks by composing predefined modules and adapting them to task"
+cs.CV,cs.CV_56,Grounded Forcing: Bridging Time-Independent Semantics and Proximal Dynamics in Autoregressive Video Synthesis,https://arxiv.org/abs/2604.06939,"arXiv:2604.06939v1 Announce Type: new 
+Abstract: Autoregressive video synthesis offers a promising pathway for infinite-horizon generation but is fundamentally hindered by three intertwined challenges"
+cs.CV,cs.CV_57,NTIRE 2026 Challenge on Bitstream-Corrupted Video Restoration: Methods and Results,https://arxiv.org/abs/2604.06945,"arXiv:2604.06945v1 Announce Type: new 
+Abstract: This paper reports on the NTIRE 2026 Challenge on Bitstream-Corrupted Video Restoration (BSCVR). The challenge aims to advance research on recovering v"
+cs.CV,cs.CV_58,Making MLLMs Blind: Adversarial Smuggling Attacks in MLLM Content Moderation,https://arxiv.org/abs/2604.06950,"arXiv:2604.06950v1 Announce Type: new 
+Abstract: Multimodal Large Language Models (MLLMs) are increasingly being deployed as automated content moderators. Within this landscape, we uncover a critical "
+cs.CV,cs.CV_59,Compression as an Adversarial Amplifier Through Decision Space Reduction,https://arxiv.org/abs/2604.06954,"arXiv:2604.06954v1 Announce Type: new 
+Abstract: Image compression is a ubiquitous component of modern visual pipelines, routinely applied by social media platforms and resource-constrained systems pr"
+cs.CV,cs.CV_60,Auditing Demographic Bias in Facial Landmark Detection for Fair Human-Robot Interaction,https://arxiv.org/abs/2604.06961,"arXiv:2604.06961v1 Announce Type: new 
+Abstract: Fairness in human-robot interaction critically depends on the reliability of the perceptual models that enable robots to interpret human behavior. Whil"
+cs.CV,cs.CV_61,MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation,https://arxiv.org/abs/2604.06966,"arXiv:2604.06966v1 Announce Type: new 
+Abstract: Reinforcement learning (RL) has been successfully applied to autoregressive (AR) and diffusion models. However, extending RL to hybrid AR-diffusion fra"
+cs.CV,cs.CV_62,CAAP: Capture-Aware Adversarial Patch Attacks on Palmprint Recognition Models,https://arxiv.org/abs/2604.06987,"arXiv:2604.06987v1 Announce Type: new 
+Abstract: Palmprint recognition is deployed in security-critical applications, including access control and palm-based payment, due to its contactless acquisitio"
+cs.CV,cs.CV_63,Canopy Tree Height Estimation Using Quantile Regression: Modeling and Evaluating Uncertainty in Remote Sensing,https://arxiv.org/abs/2604.06988,"arXiv:2604.06988v1 Announce Type: new 
+Abstract: Accurate tree height estimation is vital for ecological monitoring and biomass assessment. We apply quantile regression to existing tree height estimat"
+cs.CV,cs.CV_64,Generative Phomosaic with Structure-Aligned and Personalized Diffusion,https://arxiv.org/abs/2604.06989,"arXiv:2604.06989v1 Announce Type: new 
+Abstract: We present the first generative approach to photomosaic creation. Traditional photomosaic methods rely on a large number of tile images and color-based"
+cs.CV,cs.CV_65,IQ-LUT: interpolated and quantized LUT for efficient image super-resolution,https://arxiv.org/abs/2604.07000,"arXiv:2604.07000v1 Announce Type: new 
+Abstract: Lookup table (LUT) methods demonstrate considerable potential in accelerating image super-resolution inference. However, pursuing higher image quality "
+cs.CV,cs.CV_66,Synthetic Dataset Generation for Partially Observed Indoor Objects,https://arxiv.org/abs/2604.07010,"arXiv:2604.07010v1 Announce Type: new 
+Abstract: Learning-based methods for 3D scene reconstruction and object completion require large datasets containing partial scans paired with complete ground-tr"
+cs.CV,cs.CV_67,ModuSeg: Decoupling Object Discovery and Semantic Retrieval for Training-Free Weakly Supervised Segmentation,https://arxiv.org/abs/2604.07021,"arXiv:2604.07021v1 Announce Type: new 
+Abstract: Weakly supervised semantic segmentation aims to achieve pixel-level predictions using image-level labels. Existing methods typically entangle semantic "
+cs.CV,cs.CV_68,Not all tokens contribute equally to diffusion learning,https://arxiv.org/abs/2604.07026,"arXiv:2604.07026v1 Announce Type: new 
+Abstract: With the rapid development of conditional diffusion models, significant progress has been made in text-to-video generation. However, we observe that th"
+cs.CV,cs.CV_69,PRISM: Rethinking Scattered Atmosphere Reconstruction as a Unified Understanding and Generation Model for Real-world Dehazing,https://arxiv.org/abs/2604.07048,"arXiv:2604.07048v1 Announce Type: new 
+Abstract: Real-world image dehazing (RID) aims to remove haze induced degradation from real scenes. This task remains challenging due to non-uniform haze distrib"
+cs.CV,cs.CV_70,AnchorSplat: Feed-Forward 3D Gaussian SplattingWith 3D Geometric Priors,https://arxiv.org/abs/2604.07053,"arXiv:2604.07053v1 Announce Type: new 
+Abstract: Recent feed-forward Gaussian reconstruction models adopt a pixel-aligned formulation that maps each 2D pixel to a 3D Gaussian, entangling Gaussian repr"
+cs.CV,cs.CV_71,Location Is All You Need: Continuous Spatiotemporal Neural Representations of Earth Observation Data,https://arxiv.org/abs/2604.07092,"arXiv:2604.07092v1 Announce Type: new 
+Abstract: In this work, we present LIANet (Location Is All You Need Network), a coordinate-based neural representation that models multi-temporal spaceborne Eart"
+cs.CV,cs.CV_72,Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples,https://arxiv.org/abs/2604.07097,"arXiv:2604.07097v1 Announce Type: new 
+Abstract: In conventional anomaly detection, training data consist of only normal samples. However, in real-world scenarios, the definition of a normal sample is"
+cs.CV,cs.CV_73,SurFITR: A Dataset for Surveillance Image Forgery Detection and Localisation,https://arxiv.org/abs/2604.07101,"arXiv:2604.07101v1 Announce Type: new 
+Abstract: We present the Surveillance Forgery Image Test Range (SurFITR), a dataset for surveillance-style image forgery detection and localisation, in response "
+cs.CV,cs.CV_74,Assessing the Added Value of Onboard Earth Observation Processing with the IRIDE HEO Service Segment,https://arxiv.org/abs/2604.07120,"arXiv:2604.07120v1 Announce Type: new 
+Abstract: Current operational Earth Observation (EO) services, including the Copernicus Emergency Management Service (CEMS), the European Forest Fire Information"
+cs.CV,cs.CV_75,Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator,https://arxiv.org/abs/2604.07122,"arXiv:2604.07122v1 Announce Type: new 
+Abstract: In semantic segmentation, the creation of pixel-level labels for training data incurs significant costs. To address this problem, semi-supervised learn"
+cs.CV,cs.CV_76,A Utility-preserving De-identification Pipeline for Cross-hospital Radiology Data Sharing,https://arxiv.org/abs/2604.07128,"arXiv:2604.07128v1 Announce Type: new 
+Abstract: Large-scale radiology data are critical for developing robust medical AI systems. However, sharing such data across hospitals remains heavily constrain"
+cs.CV,cs.CV_77,CSA-Graphs: A Privacy-Preserving Structural Dataset for Child Sexual Abuse Research,https://arxiv.org/abs/2604.07132,"arXiv:2604.07132v1 Announce Type: new 
+Abstract: Child Sexual Abuse Imagery (CSAI) classification is an important yet challenging problem for computer vision research due to the strict legal and ethic"
+cs.CV,cs.CV_78,USCNet: Transformer-Based Multimodal Fusion with Segmentation Guidance for Urolithiasis Classification,https://arxiv.org/abs/2604.07141,"arXiv:2604.07141v1 Announce Type: new 
+Abstract: Kidney stone disease ranks among the most prevalent conditions in urology, and understanding the composition of these stones is essential for creating "
+cs.CV,cs.CV_79,Learning to Search: A Decision-Based Agent for Knowledge-Based Visual Question Answering,https://arxiv.org/abs/2604.07146,"arXiv:2604.07146v1 Announce Type: new 
+Abstract: Knowledge-based visual question answering (KB-VQA) requires vision-language models to understand images and use external knowledge, especially for rare"
+cs.CV,cs.CV_80,Bridging MRI and PET physiology: Untangling complementarity through orthogonal representations,https://arxiv.org/abs/2604.07154,"arXiv:2604.07154v1 Announce Type: new 
+Abstract: Multimodal imaging analysis often relies on joint latent representations, yet these approaches rarely define what information is shared versus modality"
+cs.CV,cs.CV_81,DINO-QPM: Adapting Visual Foundation Models for Globally Interpretable Image Classification,https://arxiv.org/abs/2604.07166,"arXiv:2604.07166v1 Announce Type: new 
+Abstract: Although visual foundation models like DINOv2 provide state-of-the-art performance as feature extractors, their complex, high-dimensional representatio"
+cs.CV,cs.CV_82,Multiple Domain Generalization Using Category Information Independent of Domain Differences,https://arxiv.org/abs/2604.07175,"arXiv:2604.07175v1 Announce Type: new 
+Abstract: Domain generalization is a technique aimed at enabling models to maintain high accuracy when applied to new environments or datasets (unseen domains) t"
+cs.CV,cs.CV_83,Energy-based Tissue Manifolds for Longitudinal Multiparametric MRI Analysis,https://arxiv.org/abs/2604.07180,"arXiv:2604.07180v1 Announce Type: new 
+Abstract: We propose a geometric framework for longitudinal multi-parametric MRI analysis based on patient-specific energy modelling in sequence space. Rather th"
+cs.CV,cs.CV_84,TeaLeafVision: An Explainable and Robust Deep Learning Framework for Tea Leaf Disease Classification,https://arxiv.org/abs/2604.07182,"arXiv:2604.07182v1 Announce Type: new 
+Abstract: As the worlds second most consumed beverage after water, tea is not just a cultural staple but a global economic force of profound scale and influence."
+cs.CV,cs.CV_85,INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling,https://arxiv.org/abs/2604.07209,"arXiv:2604.07209v1 Announce Type: new 
+Abstract: Building world models with spatial consistency and real-time interactivity remains a fundamental challenge in computer vision. Current video generation"
+cs.CV,cs.CV_86,VersaVogue: Visual Expert Orchestration and Preference Alignment for Unified Fashion Synthesis,https://arxiv.org/abs/2604.07210,"arXiv:2604.07210v1 Announce Type: new 
+Abstract: Diffusion models have driven remarkable advancements in fashion image generation, yet prior works usually treat garment generation and virtual dressing"
+cs.CV,cs.CV_87,PhyEdit: Towards Real-World Object Manipulation via Physically-Grounded Image Editing,https://arxiv.org/abs/2604.07230,"arXiv:2604.07230v1 Announce Type: new 
+Abstract: Achieving physically accurate object manipulation in image editing is essential for its potential applications in interactive world models. However, ex"
+cs.CV,cs.CV_88,Geo-EVS: Geometry-Conditioned Extrapolative View Synthesis for Autonomous Driving,https://arxiv.org/abs/2604.07250,"arXiv:2604.07250v1 Announce Type: new 
+Abstract: Extrapolative novel view synthesis can reduce camera-rig dependency in autonomous driving by generating standardized virtual views from heterogeneous s"
+cs.CV,cs.CV_89,Non-identifiability of Explanations from Model Behavior in Deep Networks of Image Authenticity Judgments,https://arxiv.org/abs/2604.07254,"arXiv:2604.07254v1 Announce Type: new 
+Abstract: Deep neural networks can predict human judgments, but this does not imply that they rely on human-like information or reveal the cues underlying those "
+cs.CV,cs.CV_90,GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos,https://arxiv.org/abs/2604.07273,"arXiv:2604.07273v1 Announce Type: new 
+Abstract: We present GenLCA, a diffusion-based generative model for generating and editing photorealistic full-body avatars from text and image inputs. The gener"
+cs.CV,cs.CV_91,Mem3R: Streaming 3D Reconstruction with Hybrid Memory via Test-Time Training,https://arxiv.org/abs/2604.07279,"arXiv:2604.07279v1 Announce Type: new 
+Abstract: Streaming 3D perception is well suited to robotics and augmented reality, where long visual streams must be processed efficiently and consistently. Rec"
+cs.CV,cs.CV_92,Are Face Embeddings Compatible Across Deep Neural Network Models?,https://arxiv.org/abs/2604.07282,"arXiv:2604.07282v1 Announce Type: new 
+Abstract: Automated face recognition has made rapid strides over the past decade due to the unprecedented rise of deep neural network (DNN) models that can be tr"
+cs.CV,cs.CV_93,Region-Graph Optimal Transport Routing for Mixture-of-Experts Whole-Slide Image Classification,https://arxiv.org/abs/2604.07298,"arXiv:2604.07298v1 Announce Type: new 
+Abstract: Multiple Instance Learning (MIL) is the dominant framework for gigapixel whole-slide image (WSI) classification in computational pathology. However, cu"
+cs.CV,cs.CV_94,Beyond Loss Values: Robust Dynamic Pruning via Loss Trajectory Alignment,https://arxiv.org/abs/2604.07306,"arXiv:2604.07306v1 Announce Type: new 
+Abstract: Existing dynamic data pruning methods often fail under noisy-label settings, as they typically rely on per-sample loss as the ranking criterion. This c"
+cs.CV,cs.CV_95,Distilling Photon-Counting CT into Routine Chest CT through Clinically Validated Degradation Modeling,https://arxiv.org/abs/2604.07329,"arXiv:2604.07329v1 Announce Type: new 
+Abstract: Photon-counting CT (PCCT) provides superior image quality with higher spatial resolution and lower noise compared to conventional energy-integrating CT"
+cs.CV,cs.CV_96,From Blobs to Spokes: High-Fidelity Surface Reconstruction via Oriented Gaussians,https://arxiv.org/abs/2604.07337,"arXiv:2604.07337v1 Announce Type: new 
+Abstract: 3D Gaussian Splatting (3DGS) has revolutionized fast novel view synthesis, yet its opacity-based formulation makes surface extraction fundamentally dif"
+cs.CV,cs.CV_97,Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images,https://arxiv.org/abs/2604.07338,"arXiv:2604.07338v1 Announce Type: new 
+Abstract: Recent advances in vision-language models (VLMs) have improved image captioning for cultural heritage. However, inferring structured cultural metadata "
+cs.CV,cs.CV_98,TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders,https://arxiv.org/abs/2604.07340,"arXiv:2604.07340v1 Announce Type: new 
+Abstract: We propose TC-AE, a ViT-based architecture for deep compression autoencoders. Existing methods commonly increase the channel number of latent represent"
+cs.CV,cs.CV_99,MoRight: Motion Control Done Right,https://arxiv.org/abs/2604.07348,"arXiv:2604.07348v1 Announce Type: new 
+Abstract: Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands two"
+cs.CV,cs.CV_100,Fast Spatial Memory with Elastic Test-Time Training,https://arxiv.org/abs/2604.07350,"arXiv:2604.07350v1 Announce Type: new 
+Abstract: Large Chunk Test-Time Training (LaCT) has shown strong performance on long-context 3D reconstruction, but its fully plastic inference-time updates rema"
+cs.CV,cs.CV_101,MAE-SAM2: Mask Autoencoder-Enhanced SAM2 for Clinical Retinal Vascular Leakage Segmentation,https://arxiv.org/abs/2509.10554,"arXiv:2509.10554v5 Announce Type: cross 
+Abstract: We propose MAE-SAM2, a novel foundation model for retinal vascular leakage segmentation on fluorescein angiography images. Due to the small size and "
+cs.CV,cs.CV_102,MedRoute: RL-Based Dynamic Specialist Routing in Multi-Agent Medical Diagnosis,https://arxiv.org/abs/2604.06180,"arXiv:2604.06180v1 Announce Type: cross 
+Abstract: Medical diagnosis using Large Multimodal Models (LMMs) has gained increasing attention due to capability of these models in providing precise diagnos"
+cs.CV,cs.CV_103,SE-Enhanced ViT and BiLSTM-Based Intrusion Detection for Secure IIoT and IoMT Environments,https://arxiv.org/abs/2604.06254,"arXiv:2604.06254v1 Announce Type: cross 
+Abstract: With the rapid growth of interconnected devices in Industrial and Medical Internet of Things (IIoT and MIoT) ecosystems, ensuring timely and accurate"
+cs.CV,cs.CV_104,Structural Regularities of Cinema SDR-to-HDR Mapping in a Controlled Mastering Workflow: A Pixel-wise Case Study on ASC StEM2,https://arxiv.org/abs/2604.06276,"arXiv:2604.06276v1 Announce Type: cross 
+Abstract: We present an empirical case study of cinema SDR-to-HDR mapping using ASC StEM2, a rare common-source dataset containing EXR scene-referred images an"
+cs.CV,cs.CV_105,Harnessing Hyperbolic Geometry for Harmful Prompt Detection and Sanitization,https://arxiv.org/abs/2604.06285,"arXiv:2604.06285v1 Announce Type: cross 
+Abstract: Vision-Language Models (VLMs) have become essential for tasks such as image synthesis, captioning, and retrieval by aligning textual and visual infor"
+cs.CV,cs.CV_106,Drifting Fields are not Conservative,https://arxiv.org/abs/2604.06333,"arXiv:2604.06333v1 Announce Type: cross 
+Abstract: Drifting models generate high-quality samples in a single forward pass by transporting generated samples toward the data distribution using a vector "
+cs.CV,cs.CV_107,Bi-Level Optimization for Single Domain Generalization,https://arxiv.org/abs/2604.06349,"arXiv:2604.06349v1 Announce Type: cross 
+Abstract: Generalizing from a single labeled source domain to unseen target domains, without access to any target data during training, remains a fundamental c"
+cs.CV,cs.CV_108,ProofSketcher: Hybrid LLM + Lightweight Proof Checker for Reliable Math/Logic Reasoning,https://arxiv.org/abs/2604.06401,"arXiv:2604.06401v1 Announce Type: cross 
+Abstract: The large language models (LLMs) might produce a persuasive argument within mathematical and logical fields, although such argument often includes so"
+cs.CV,cs.CV_109,"When to Call an Apple Red: Humans Follow Introspective Rules, VLMs Don't",https://arxiv.org/abs/2604.06422,"arXiv:2604.06422v1 Announce Type: cross 
+Abstract: Understanding when Vision-Language Models (VLMs) will behave unexpectedly, whether models can reliably predict their own behavior, and if models adhe"
+cs.CV,cs.CV_110,Adaptive Differential Privacy for Federated Medical Image Segmentation Across Diverse Modalities,https://arxiv.org/abs/2604.06518,"arXiv:2604.06518v1 Announce Type: cross 
+Abstract: Large volumes of medical data remain underutilized because centralizing distributed data is often infeasible due to strict privacy regulations and in"
+cs.CV,cs.CV_111,CWRNN-INVR: A Coupled WarpRNN based Implicit Neural Video Representation,https://arxiv.org/abs/2604.06564,"arXiv:2604.06564v1 Announce Type: cross 
+Abstract: Implicit Neural Video Representation (INVR) has emerged as a novel approach for video representation and compression, using learnable grids and neura"
+cs.CV,cs.CV_112,A Noise Constrained Diffusion (NC-Diffusion) Framework for High Fidelity Image Compression,https://arxiv.org/abs/2604.06568,"arXiv:2604.06568v1 Announce Type: cross 
+Abstract: With the great success of diffusion models in image generation, diffusion-based image compression is attracting increasing interests. However, due to"
+cs.CV,cs.CV_113,SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport,https://arxiv.org/abs/2604.06631,"arXiv:2604.06631v1 Announce Type: cross 
+Abstract: Federated Learning (FL) enables collaborative model training while preserving data privacy, but its practical deployment is hampered by system and st"
+cs.CV,cs.CV_114,Euclid Quick Data Release (Q1). AgileLens: A scalable CNN-based pipeline for strong gravitational lens identification,https://arxiv.org/abs/2604.06648,"arXiv:2604.06648v1 Announce Type: cross 
+Abstract: We present an end-to-end, iterative pipeline for efficient identification of strong galaxy--galaxy lensing systems, applied to the Euclid Q1 imaging "
+cs.CV,cs.CV_115,4D Vessel Reconstruction for Benchtop Thrombectomy Analysis,https://arxiv.org/abs/2604.06671,"arXiv:2604.06671v1 Announce Type: cross 
+Abstract: Introduction: Mechanical thrombectomy can cause vessel deformation and procedure-related injury. Benchtop models are widely used for device testing, "
+cs.CV,cs.CV_116,Steering the Verifiability of Multimodal AI Hallucinations,https://arxiv.org/abs/2604.06714,"arXiv:2604.06714v1 Announce Type: cross 
+Abstract: AI applications driven by multimodal large language models (MLLMs) are prone to hallucinations and pose considerable risks to human users. Crucially,"
+cs.CV,cs.CV_117,Enhanced Self-Supervised Multi-Image Super-Resolution for Camera Array Images,https://arxiv.org/abs/2604.06816,"arXiv:2604.06816v1 Announce Type: cross 
+Abstract: Conventional multi-image super-resolution (MISR) methods, such as burst and video SR, rely on sequential frames from a single camera. Consequently, t"
+cs.CV,cs.CV_118,XR-CareerAssist: An Immersive Platform for Personalised Career Guidance Leveraging Extended Reality and Multimodal AI,https://arxiv.org/abs/2604.06901,"arXiv:2604.06901v1 Announce Type: cross 
+Abstract: Conventional career guidance platforms rely on static, text-driven interfaces that struggle to engage users or deliver personalised, evidence-based i"
+cs.CV,cs.CV_119,"FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling",https://arxiv.org/abs/2604.06916,"arXiv:2604.06916v1 Announce Type: cross 
+Abstract: Reinforcement-Learning-based post-training has recently emerged as a promising paradigm for aligning text-to-image diffusion models with human prefer"
+cs.CV,cs.CV_120,KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis,https://arxiv.org/abs/2604.07034,"arXiv:2604.07034v1 Announce Type: cross 
+Abstract: We present KITE, a training-free, keyframe-anchored, layout-grounded front-end that converts long robot-execution videos into compact, interpretable "
+cs.CV,cs.CV_121,Towards foundation-style models for energy-frontier heterogeneous neutrino detectors via self-supervised pre-training,https://arxiv.org/abs/2604.07037,"arXiv:2604.07037v1 Announce Type: cross 
+Abstract: Accelerator-based neutrino physics is entering an energy-frontier regime in which interactions reach the TeV scale and produce exceptionally dense, o"
+cs.CV,cs.CV_122,An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments,https://arxiv.org/abs/2604.07151,"arXiv:2604.07151v1 Announce Type: cross 
+Abstract: RTK-SLAM systems integrate simultaneous localization and mapping (SLAM) with real-time kinematic (RTK) GNSS positioning, promising both relative cons"
+cs.CV,cs.CV_123,BRIDGE: Multimodal-to-Text Retrieval via Reinforcement-Learned Query Alignment,https://arxiv.org/abs/2604.07201,"arXiv:2604.07201v1 Announce Type: cross 
+Abstract: Multimodal retrieval systems struggle to resolve image-text queries against text-only corpora: the best vision-language encoder achieves only 27.6 nD"
+cs.CV,cs.CV_124,TurPy: a physics-based and differentiable optical turbulence simulator for algorithmic development and system optimization,https://arxiv.org/abs/2604.07248,"arXiv:2604.07248v1 Announce Type: cross 
+Abstract: Developing optical systems for free-space applications requires simulation tools that accurately capture turbulence-induced wavefront distortions and"
+cs.CV,cs.CV_125,BATON: A Multimodal Benchmark for Bidirectional Automation Transition Observation in Naturalistic Driving,https://arxiv.org/abs/2604.07263,"arXiv:2604.07263v1 Announce Type: cross 
+Abstract: Existing driving automation (DA) systems on production vehicles rely on human drivers to decide when to engage DA while requiring them to remain cont"
+cs.CV,cs.CV_126,RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild,https://arxiv.org/abs/2604.07331,"arXiv:2604.07331v1 Announce Type: cross 
+Abstract: Scaling up robot learning will likely require human data containing rich and long-horizon interactions in the wild. Existing approaches for collectin"
+cs.CV,cs.CV_127,A Robust 3D Registration Method via Simultaneous Inlier Identification and Model Estimation,https://arxiv.org/abs/2008.01574,"arXiv:2008.01574v3 Announce Type: replace 
+Abstract: Robust 3D registration is a fundamental problem in computer vision and robotics, where the goal is to estimate the geometric transformation between"
+cs.CV,cs.CV_128,DiffSketcher: Text Guided Vector Sketch Synthesis through Latent Diffusion Models,https://arxiv.org/abs/2306.14685,"arXiv:2306.14685v5 Announce Type: replace 
+Abstract: We demonstrate that pre-trained text-to-image diffusion models, despite being trained on raster images, possess a remarkable capacity to guide vect"
+cs.CV,cs.CV_129,Caption-Matching: A Multimodal Approach for Cross-Domain Image Retrieval,https://arxiv.org/abs/2403.15152,"arXiv:2403.15152v3 Announce Type: replace 
+Abstract: Cross-Domain Image Retrieval (CDIR) is a challenging task in computer vision, aiming to match images across different visual domains such as sketch"
+cs.CV,cs.CV_130,Learning Spatial-Preserving Hierarchical Representations for Digital Pathology,https://arxiv.org/abs/2406.09333,"arXiv:2406.09333v3 Announce Type: replace 
+Abstract: Whole slide images (WSIs) pose fundamental computational challenges due to their gigapixel resolution and the sparse distribution of informative re"
+cs.CV,cs.CV_131,MSG Score: Automated Video Verification for Reliable Multi-Scene Generation,https://arxiv.org/abs/2411.19121,"arXiv:2411.19121v2 Announce Type: replace 
+Abstract: While text-to-video diffusion models have advanced significantly, creating coherent long-form content remains unreliable due to stochastic sampling"
+cs.CV,cs.CV_132,MozzaVID: Mozzarella Volumetric Image Dataset,https://arxiv.org/abs/2412.04880,"arXiv:2412.04880v3 Announce Type: replace 
+Abstract: Influenced by the complexity of volumetric imaging, there is a shortage of established datasets useful for benchmarking volumetric deep-learning mo"
+cs.CV,cs.CV_133,Generating Attribution Reports for Manipulated Facial Images: A Dataset and Baseline,https://arxiv.org/abs/2412.19685,"arXiv:2412.19685v2 Announce Type: replace 
+Abstract: Existing facial forgery detection methods typically focus on binary classification or pixel-level localization, providing little semantic insight i"
+cs.CV,cs.CV_134,Retrievals Can Be Detrimental: A Contrastive Backdoor Attack Paradigm on Retrieval-Augmented Diffusion Models,https://arxiv.org/abs/2501.13340,"arXiv:2501.13340v3 Announce Type: replace 
+Abstract: Diffusion models (DMs) have recently demonstrated remarkable generation capability. However, their training generally requires huge computational r"
+cs.CV,cs.CV_135,Unsupervised Source-Free Ranking of Biomedical Segmentation Models Under Distribution Shift,https://arxiv.org/abs/2503.00450,"arXiv:2503.00450v4 Announce Type: replace 
+Abstract: Model reuse offers a solution to the challenges of segmentation in biomedical imaging, where high data annotation costs remain a major bottleneck f"
+cs.CV,cs.CV_136,AHCQ-SAM: Toward Accurate and Hardware-Compatible Post-Training Segment Anything Model Quantization,https://arxiv.org/abs/2503.03088,"arXiv:2503.03088v4 Announce Type: replace 
+Abstract: The Segment Anything Model (SAM) has revolutionized image and video segmentation with its powerful zero-shot capabilities. However, its massive par"
+cs.CV,cs.CV_137,D-Garment: Physically Grounded Latent Diffusion for Dynamic Garment Deformations,https://arxiv.org/abs/2504.03468,"arXiv:2504.03468v2 Announce Type: replace 
+Abstract: We present a method to dynamically deform 3D garments, in the form of a 3D polygon mesh, based on body shape, motion, and physical cloth material p"
+cs.CV,cs.CV_138,SoftHGNN: Soft Hypergraph Neural Networks for General Visual Recognition,https://arxiv.org/abs/2505.15325,"arXiv:2505.15325v3 Announce Type: replace 
+Abstract: Visual recognition relies on understanding the semantics of image tokens and their complex interactions. Mainstream self-attention methods, while e"
+cs.CV,cs.CV_139,Toward Memory-Aided World Models: Benchmarking via Spatial Consistency,https://arxiv.org/abs/2505.22976,"arXiv:2505.22976v2 Announce Type: replace 
+Abstract: The ability to simulate the world in a spatially consistent manner is a crucial requirements for effective world models. Such a model enables high-"
+cs.CV,cs.CV_140,AugLift: Depth-Aware Input Reparameterization Improves Domain Generalization in 2D-to-3D Pose Lifting,https://arxiv.org/abs/2508.07112,"arXiv:2508.07112v4 Announce Type: replace 
+Abstract: Lifting-based 3D human pose estimation infers 3D joints from 2D keypoints but generalizes poorly because $(x,y)$ coordinates alone are an ill-posed"
+cs.CV,cs.CV_141,Looking Beyond the Obvious: A Survey on Abstract Concept Recognition for Video Understanding,https://arxiv.org/abs/2508.20765,"arXiv:2508.20765v2 Announce Type: replace 
+Abstract: The automatic understanding of video content is advancing rapidly. Empowered by deeper neural networks and large datasets, machines are increasingl"
+cs.CV,cs.CV_142,Draw-In-Mind: Rebalancing Designer-Painter Roles in Unified Multimodal Models Benefits Image Editing,https://arxiv.org/abs/2509.01986,"arXiv:2509.01986v4 Announce Type: replace 
+Abstract: In recent years, integrating multimodal understanding and generation into a single unified model has emerged as a promising paradigm. While this ap"
+cs.CV,cs.CV_143,PCSR: Pseudo-label Consistency-Guided Sample Refinement for Noisy Correspondence Learning,https://arxiv.org/abs/2509.15623,"arXiv:2509.15623v2 Announce Type: replace 
+Abstract: Cross-modal retrieval aims to align different modalities via semantic similarity. However, existing methods often assume that image-text pairs are "
+cs.CV,cs.CV_144,"Erased, But Not Forgotten: Erased Rectified Flow Transformers Still Remain Unsafe Under Concept Attack",https://arxiv.org/abs/2510.00635,"arXiv:2510.00635v5 Announce Type: replace 
+Abstract: Recent advances in text-to-image (T2I) diffusion models have enabled impressive generative capabilities, but they also raise significant safety con"
+cs.CV,cs.CV_145,RASALoRE: Region Aware Spatial Attention with Location-based Random Embeddings for Weakly Supervised Anomaly Detection in Brain MRI Scans,https://arxiv.org/abs/2510.08052,"arXiv:2510.08052v2 Announce Type: replace 
+Abstract: Weakly Supervised Anomaly detection (WSAD) in brain MRI scans is an important challenge useful to obtain quick and accurate detection of brain anom"
+cs.CV,cs.CV_146,Free-Grained Hierarchical Visual Recognition,https://arxiv.org/abs/2510.14737,"arXiv:2510.14737v2 Announce Type: replace 
+Abstract: Hierarchical image recognition seeks to predict class labels along a semantic taxonomy, from broad categories to specific ones, typically under the"
+cs.CV,cs.CV_147,Exploring Conditions for Diffusion models in Robotic Control,https://arxiv.org/abs/2510.15510,"arXiv:2510.15510v2 Announce Type: replace 
+Abstract: While pre-trained visual representations have significantly advanced imitation learning, they are often task-agnostic as they remain frozen during "
+cs.CV,cs.CV_148,Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning,https://arxiv.org/abs/2510.18034,"arXiv:2510.18034v2 Announce Type: replace 
+Abstract: Autonomous driving systems remain critically vulnerable to the long-tail of rare, out-of-distribution semantic anomalies. While VLMs have emerged a"
+cs.CV,cs.CV_149,CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation,https://arxiv.org/abs/2511.16428,"arXiv:2511.16428v2 Announce Type: replace 
+Abstract: Self-supervised surround-view depth estimation enables dense, low-cost 3D perception with a 360{\deg} field of view from multiple minimally overlap"
+cs.CV,cs.CV_150,Less is More: Data-Efficient Adaptation for Controllable Text-to-Video Generation,https://arxiv.org/abs/2511.17844,"arXiv:2511.17844v4 Announce Type: replace 
+Abstract: Fine-tuning large-scale text-to-video diffusion models to add new generative controls, such as those over physical camera parameters (e.g., shutter"
+cs.CV,cs.CV_151,DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation,https://arxiv.org/abs/2511.19365,"arXiv:2511.19365v2 Announce Type: replace 
+Abstract: Pixel diffusion aims to generate images directly in pixel space in an end-to-end fashion. This approach avoids the limitations of VAE in the two-st"
+cs.CV,cs.CV_152,"Pistachio: Towards Synthetic, Balanced, and Long-Form Video Anomaly Benchmarks",https://arxiv.org/abs/2511.19474,"arXiv:2511.19474v4 Announce Type: replace 
+Abstract: Automatically detecting abnormal events in videos is crucial for modern autonomous systems, yet existing Video Anomaly Detection (VAD) benchmarks l"
+cs.CV,cs.CV_153,V$^{2}$-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence,https://arxiv.org/abs/2511.20886,"arXiv:2511.20886v2 Announce Type: replace 
+Abstract: Cross-view object correspondence, exemplified by the representative task of ego-exo object correspondence, aims to establish consistent association"
+cs.CV,cs.CV_154,Asking like Socrates: Socrates helps VLMs understand remote sensing images,https://arxiv.org/abs/2511.22396,"arXiv:2511.22396v2 Announce Type: replace 
+Abstract: Recent multimodal reasoning models, inspired by DeepSeek-R1, have significantly advanced vision-language systems. However, in remote sensing (RS) t"
+cs.CV,cs.CV_155,SciPostGen: Bridging the Gap between Scientific Papers and Poster Layouts,https://arxiv.org/abs/2511.22490,"arXiv:2511.22490v2 Announce Type: replace 
+Abstract: As the number of scientific papers continues to grow, there is a demand for approaches that can effectively convey research findings, with posters "
+cs.CV,cs.CV_156,REVEAL: Reasoning-Enhanced Forensic Evidence Analysis for Explainable AI-Generated Image Detection,https://arxiv.org/abs/2511.23158,"arXiv:2511.23158v2 Announce Type: replace 
+Abstract: The rapid progress of visual generative models has made AI-generated images increasingly difficult to distinguish from authentic ones, posing growi"
+cs.CV,cs.CV_157,MedGRPO: Multi-Task Reinforcement Learning for Heterogeneous Medical Video Understanding,https://arxiv.org/abs/2512.06581,"arXiv:2512.06581v4 Announce Type: replace 
+Abstract: Large vision-language models struggle with medical video understanding, where spatial precision, temporal reasoning, and clinical semantics are cri"
+cs.CV,cs.CV_158,From Orbit to Ground: Generative City Photogrammetry from Extreme Off-Nadir Satellite Images,https://arxiv.org/abs/2512.07527,"arXiv:2512.07527v3 Announce Type: replace 
+Abstract: City-scale 3D reconstruction from satellite imagery presents the challenge of extreme viewpoint extrapolation, where our goal is to synthesize grou"
+cs.CV,cs.CV_159,VHOI: Controllable Video Generation of Human-Object Interactions from Sparse Trajectories via Motion Densification,https://arxiv.org/abs/2512.09646,"arXiv:2512.09646v2 Announce Type: replace 
+Abstract: Synthesizing realistic human-object interactions (HOI) in video is challenging due to the complex, instance-specific interaction dynamics of both h"
+cs.CV,cs.CV_160,FlexAvatar: Learning Complete 3D Head Avatars with Partial Supervision,https://arxiv.org/abs/2512.15599,"arXiv:2512.15599v2 Announce Type: replace 
+Abstract: We introduce FlexAvatar, a method for creating high-quality and complete 3D head avatars from a single image. A core challenge lies in the limited "
+cs.CV,cs.CV_161,dMLLM-TTS: Self-Verified and Efficient Test-Time Scaling for Diffusion Multi-Modal Large Language Models,https://arxiv.org/abs/2512.19433,"arXiv:2512.19433v2 Announce Type: replace 
+Abstract: Diffusion Multi-modal Large Language Models (dMLLMs) have recently emerged as a novel architecture unifying image generation and understanding. How"
+cs.CV,cs.CV_162,AstraNav-World: World Model for Foresight Control and Consistency,https://arxiv.org/abs/2512.21714,"arXiv:2512.21714v2 Announce Type: replace 
+Abstract: Embodied navigation in open, dynamic environments demands accurate foresight of how the world will evolve and how actions will unfold over time. We"
+cs.CV,cs.CV_163,SpatialMosaic: A Multiview VLM Dataset for Partial Visibility,https://arxiv.org/abs/2512.23365,"arXiv:2512.23365v2 Announce Type: replace 
+Abstract: The rapid progress of Multimodal Large Language Models (MLLMs) has unlocked the potential for enhanced 3D scene understanding and spatial reasoning"
+cs.CV,cs.CV_164,Robust Mesh Saliency Ground Truth Acquisition in VR via View Cone Sampling and Manifold Diffusion,https://arxiv.org/abs/2601.02721,"arXiv:2601.02721v2 Announce Type: replace 
+Abstract: As the complexity of 3D digital content grows exponentially, understanding human visual attention is critical for optimizing rendering and processi"
+cs.CV,cs.CV_165,Motion Focus Recognition in Fast-Moving Egocentric Video,https://arxiv.org/abs/2601.07154,"arXiv:2601.07154v3 Announce Type: replace 
+Abstract: From Vision-Language-Action (VLA) systems to robotics, existing egocentric datasets primarily focus on action recognition tasks, while largely over"
+cs.CV,cs.CV_166,Spatial-Conditioned Reasoning in Long-Egocentric Videos,https://arxiv.org/abs/2601.18100,"arXiv:2601.18100v2 Announce Type: replace 
+Abstract: Long-horizon egocentric video presents significant challenges for visual navigation due to viewpoint drift and the absence of persistent geometric "
+cs.CV,cs.CV_167,Focus on What Really Matters in Low-Altitude Governance: A Management-Centric Multi-Modal Benchmark with Implicitly Coordinated Vision-Language Reasoning Framework,https://arxiv.org/abs/2601.19640,"arXiv:2601.19640v2 Announce Type: replace 
+Abstract: Low-altitude vision systems are becoming a critical infrastructure for smart city governance. However, existing object-centric perception paradigms"
+cs.CV,cs.CV_168,Countering the Over-Reliance Trap: Mitigating Object Hallucination for LVLMs via a Self-Validation Framework,https://arxiv.org/abs/2601.22451,"arXiv:2601.22451v2 Announce Type: replace 
+Abstract: Despite progress in Large Vision Language Models (LVLMs), object hallucination remains a critical issue in image captioning task, where models gene"
+cs.CV,cs.CV_169,AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process,https://arxiv.org/abs/2602.02676,"arXiv:2602.02676v3 Announce Type: replace 
+Abstract: Adaptive multimodal reasoning has emerged as a promising frontier in Vision-Language Models (VLMs), aiming to dynamically modulate between tool-aug"
+cs.CV,cs.CV_170,A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures,https://arxiv.org/abs/2602.03604,"arXiv:2602.03604v3 Announce Type: replace 
+Abstract: We present EB-JEPA, an open-source library for learning representations and world models using Joint-Embedding Predictive Architectures (JEPAs). JE"
+cs.CV,cs.CV_171,Can We Build a Monolithic Model for Fake Image Detection? SICA: Semantic-Induced Constrained Adaptation for Unified-Yet-Discriminative Artifact Feature Space Reconstruction,https://arxiv.org/abs/2602.06676,"arXiv:2602.06676v3 Announce Type: replace 
+Abstract: Fake Image Detection (FID), aiming at unified detection across four image forensic subdomains, is critical in real-world forensic scenarios. Compar"
+cs.CV,cs.CV_172,BrepGaussian: CAD reconstruction from Multi-View Images with Gaussian Splatting,https://arxiv.org/abs/2602.21105,"arXiv:2602.21105v3 Announce Type: replace 
+Abstract: The boundary representation (B-Rep) models a 3D solid as its explicit boundaries: trimmed corners, edges, and faces. Recovering B-Rep representatio"
+cs.CV,cs.CV_173,TopoMaskV3: 3D Mask Head with Dense Offset and Height Predictions for Road Topology Understanding,https://arxiv.org/abs/2603.01558,"arXiv:2603.01558v2 Announce Type: replace 
+Abstract: Mask-based paradigms for road topology understanding, such as TopoMaskV2, offer a complementary alternative to query-based methods by generating ce"
+cs.CV,cs.CV_174,Linearized Coupling Flow with Shortcut Constraints for One-Step Face Restoration,https://arxiv.org/abs/2603.03648,"arXiv:2603.03648v2 Announce Type: replace 
+Abstract: Face restoration can be formulated as a continuous-time transformation between image distributions via Flow Matching (FM). However, standard FM typ"
+cs.CV,cs.CV_175,PlaneCycle: Training-Free 2D-to-3D Lifting of Foundation Models Without Adapters,https://arxiv.org/abs/2603.04165,"arXiv:2603.04165v3 Announce Type: replace 
+Abstract: Large-scale 2D foundation models exhibit strong transferable representations, yet extending them to 3D volumetric data typically requires retrainin"
+cs.CV,cs.CV_176,How to Embed Matters: Evaluation of EO Embedding Design Choices,https://arxiv.org/abs/2603.10658,"arXiv:2603.10658v2 Announce Type: replace 
+Abstract: Earth observation (EO) missions produce petabytes of multispectral imagery, increasingly analyzed using large Geospatial Foundation Models (GeoFMs)"
+cs.CV,cs.CV_177,AgriPath: A Systematic Exploration of Architectural Trade-offs for Crop Disease Classification,https://arxiv.org/abs/2603.13354,"arXiv:2603.13354v3 Announce Type: replace 
+Abstract: Reliable crop disease detection requires models that perform consistently across diverse acquisition conditions, yet existing evaluations often foc"
+cs.CV,cs.CV_178,Gym-V: A Unified Vision Environment System for Agentic Vision Research,https://arxiv.org/abs/2603.15432,"arXiv:2603.15432v3 Announce Type: replace 
+Abstract: As agentic systems increasingly rely on reinforcement learning from verifiable rewards, standardized ``gym'' infrastructure has become essential fo"
+cs.CV,cs.CV_179,ChopGrad: Pixel-Wise Losses for Latent Video Diffusion via Truncated Backpropagation,https://arxiv.org/abs/2603.17812,"arXiv:2603.17812v2 Announce Type: replace 
+Abstract: Recent video diffusion models achieve high-quality generation through recurrent frame processing where each frame generation depends on previous fr"
+cs.CV,cs.CV_180,STAC: Plug-and-Play Spatio-Temporal Aware Cache Compression for Streaming 3D Reconstruction,https://arxiv.org/abs/2603.20284,"arXiv:2603.20284v2 Announce Type: replace 
+Abstract: Online 3D reconstruction from streaming inputs requires both long-term temporal consistency and efficient memory usage. Although causal variants of"
+cs.CV,cs.CV_181,"B-MoE: A Body-Part-Aware Mixture-of-Experts ""All Parts Matter"" Approach to Micro-Action Recognition",https://arxiv.org/abs/2603.24245,"arXiv:2603.24245v2 Announce Type: replace 
+Abstract: Micro-actions, fleeting and low-amplitude motions, such as glances, nods, or minor posture shifts, carry rich social meaning but remain difficult f"
+cs.CV,cs.CV_182,Positive-First Most Ambiguous: A Simple Active Learning Criterion for Interactive Retrieval of Rare Categories,https://arxiv.org/abs/2603.24480,"arXiv:2603.24480v2 Announce Type: replace 
+Abstract: Real-world fine-grained visual retrieval often requires discovering a rare concept from large unlabeled collections with minimal supervision. This "
+cs.CV,cs.CV_183,Gaussian Shannon: High-Precision Diffusion Model Watermarking Based on Communication,https://arxiv.org/abs/2603.26167,"arXiv:2603.26167v2 Announce Type: replace 
+Abstract: Diffusion models generate high-quality images but pose serious risks like copyright violation and disinformation. Watermarking is a key defense for"
+cs.CV,cs.CV_184,From Synthetic Data to Real Restorations: Diffusion Model for Patient-specific Dental Crown Completion,https://arxiv.org/abs/2603.26588,"arXiv:2603.26588v2 Announce Type: replace 
+Abstract: We present ToothCraft, a diffusion-based model for the contextual generation of tooth crowns, trained on artificially created incomplete teeth. Bui"
+cs.CV,cs.CV_185,UniDAC: Universal Metric Depth Estimation for Any Camera,https://arxiv.org/abs/2603.27105,"arXiv:2603.27105v2 Announce Type: replace 
+Abstract: Monocular metric depth estimation (MMDE) is a core challenge in computer vision, playing a pivotal role in real-world applications that demand accu"
+cs.CV,cs.CV_186,Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting,https://arxiv.org/abs/2603.28049,"arXiv:2603.28049v2 Announce Type: replace 
+Abstract: Autoregressive (AR)-Diffusion hybrid paradigms combine AR's structured semantic modeling with diffusion's high-fidelity synthesis, yet suffer from "
+cs.CV,cs.CV_187,EarthEmbeddingExplorer: A Web Application for Cross-Modal Retrieval of Global Satellite Images,https://arxiv.org/abs/2603.29441,"arXiv:2603.29441v2 Announce Type: replace 
+Abstract: While the Earth observation community has witnessed a surge in high-impact foundation models and global Earth embedding datasets, a significant bar"
+cs.CV,cs.CV_188,Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction,https://arxiv.org/abs/2604.01204,"arXiv:2604.01204v2 Announce Type: replace 
+Abstract: Primitive-based methods such as 3D Gaussian Splatting have recently become the state-of-the-art for novel-view synthesis and related reconstruction"
+cs.CV,cs.CV_189,SDesc3D: Towards Layout-Aware 3D Indoor Scene Generation from Short Descriptions,https://arxiv.org/abs/2604.01972,"arXiv:2604.01972v3 Announce Type: replace 
+Abstract: 3D indoor scene generation conditioned on short textual descriptions provides a promising avenue for interactive 3D environment construction withou"
+cs.CV,cs.CV_190,Rendering Multi-Human and Multi-Object with 3D Gaussian Splatting,https://arxiv.org/abs/2604.02996,"arXiv:2604.02996v2 Announce Type: replace 
+Abstract: Reconstructing dynamic scenes with multiple interacting humans and objects from sparse-view inputs is a critical yet challenging task, essential fo"
+cs.CV,cs.CV_191,Stabilizing Unsupervised Self-Evolution of MLLMs via Continuous Softened Retracing reSampling,https://arxiv.org/abs/2604.03647,"arXiv:2604.03647v2 Announce Type: replace 
+Abstract: In the unsupervised self-evolution of Multimodal Large Language Models, the quality of feedback signals during post-training is pivotal for stable "
+cs.CV,cs.CV_192,Temporal Inversion for Learning Interval Change in Chest X-Rays,https://arxiv.org/abs/2604.04563,"arXiv:2604.04563v2 Announce Type: replace 
+Abstract: Recent advances in vision--language pretraining have enabled strong medical foundation models, yet most analyze radiographs in isolation, overlooki"
+cs.CV,cs.CV_193,"Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",https://arxiv.org/abs/2604.04746,"arXiv:2604.04746v3 Announce Type: replace 
+Abstract: Humans paint images incrementally: they plan a global layout, sketch a coarse draft, inspect, and refine details, and most importantly, each step i"
+cs.CV,cs.CV_194,SpatialEdit: Benchmarking Fine-Grained Image Spatial Editing,https://arxiv.org/abs/2604.04911,"arXiv:2604.04911v2 Announce Type: replace 
+Abstract: Image spatial editing performs geometry-driven transformations, allowing precise control over object layout and camera viewpoints. Current models a"
+cs.CV,cs.CV_195,SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo,https://arxiv.org/abs/2604.04925,"arXiv:2604.04925v2 Announce Type: replace 
+Abstract: In this paper, we explore the design space of procedural rules for multi-view stereo (MVS). We demonstrate that we can generate effective training "
+cs.CV,cs.CV_196,Region-R1: Reinforcing Query-Side Region Cropping for Multi-Modal Re-Ranking,https://arxiv.org/abs/2604.05268,"arXiv:2604.05268v2 Announce Type: replace 
+Abstract: Multi-modal retrieval-augmented generation (MM-RAG) relies heavily on re-rankers to surface the most relevant evidence for image-question queries. "
+cs.CV,cs.CV_197,Purify-then-Align: Towards Robust Human Sensing under Modality Missing with Knowledge Distillation from Noisy Multimodal Teacher,https://arxiv.org/abs/2604.05584,"arXiv:2604.05584v2 Announce Type: replace 
+Abstract: Robust multimodal human sensing must overcome the critical challenge of missing modalities. Two principal barriers are the Representation Gap betwe"
+cs.CV,cs.CV_198,On the Robustness of Diffusion-Based Image Compression to Bit-Flip Errors,https://arxiv.org/abs/2604.05743,"arXiv:2604.05743v2 Announce Type: replace 
+Abstract: Modern image compression methods are typically optimized for the rate--distortion--perception trade-off, whereas their robustness to bit-level corr"
+cs.CV,cs.CV_199,Reading Between the Pixels: An Inscriptive Jailbreak Attack on Text-to-Image Models,https://arxiv.org/abs/2604.05853,"arXiv:2604.05853v2 Announce Type: replace 
+Abstract: Modern text-to-image (T2I) models can now render legible, paragraph-length text, enabling a fundamentally new class of misuse. We identify and form"
+cs.CV,cs.CV_200,SonoSelect: Efficient Ultrasound Perception via Active Probe Exploration,https://arxiv.org/abs/2604.05933,"arXiv:2604.05933v2 Announce Type: replace 
+Abstract: Ultrasound perception typically requires multiple scan views through probe movement to reduce diagnostic ambiguity, mitigate acoustic occlusions, a"
+cs.CV,cs.CV_201,SleepNet and DreamNet: Enriching and Reconstructing Representations for Consolidated Visual Classification,https://arxiv.org/abs/2409.01633,"arXiv:2409.01633v4 Announce Type: replace-cross 
+Abstract: An effective integration of rich feature representations with robust classification mechanisms remains a key challenge in visual understandin"
+cs.CV,cs.CV_202,A Dynamic Prognostic Prediction Method for Colorectal Cancer Liver Metastasis,https://arxiv.org/abs/2505.03123,"arXiv:2505.03123v3 Announce Type: replace-cross 
+Abstract: Colorectal cancer liver metastasis (CRLM) exhibits high postoperative recurrence and pronounced prognostic heterogeneity, challenging individ"
+cs.CV,cs.CV_203,PRISM: Programmatic Reasoning with Image Sequence Manipulation for LVLM Jailbreaking,https://arxiv.org/abs/2507.21540,"arXiv:2507.21540v3 Announce Type: replace-cross 
+Abstract: The increasing sophistication of large vision-language models (LVLMs) has been accompanied by advances in safety alignment mechanisms designe"
+cs.CV,cs.CV_204,UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding,https://arxiv.org/abs/2507.22025,"arXiv:2507.22025v4 Announce Type: replace-cross 
+Abstract: The emergence of Multimodal Large Language Models (MLLMs) has driven significant advances in Graphical User Interface (GUI) agent capabilitie"
+cs.CV,cs.CV_205,"Efficient Image-to-Image Schr\""odinger Bridge for CT Field of View Extension",https://arxiv.org/abs/2508.11211,"arXiv:2508.11211v2 Announce Type: replace-cross 
+Abstract: Computed tomography (CT) is a cornerstone imaging modality for non-invasive, high-resolution visualization of internal anatomical structures."
+cs.CV,cs.CV_206,LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised Learning in Open-World Scenarios,https://arxiv.org/abs/2509.09926,"arXiv:2509.09926v5 Announce Type: replace-cross 
+Abstract: Long-tailed semi-supervised learning (LTSSL) presents a formidable challenge where models must overcome the scarcity of tail samples while mi"
+cs.CV,cs.CV_207,Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation,https://arxiv.org/abs/2511.18525,"arXiv:2511.18525v2 Announce Type: replace-cross 
+Abstract: We present Splatblox, a real-time system for autonomous navigation in outdoor environments with dense vegetation, irregular obstacles, and co"
+cs.CV,cs.CV_208,CHiQPM: Calibrated Hierarchical Interpretable Image Classification,https://arxiv.org/abs/2511.20779,"arXiv:2511.20779v2 Announce Type: replace-cross 
+Abstract: Globally interpretable models are a promising approach for trustworthy AI in safety-critical domains. Alongside global explanations, detailed"
+cs.CV,cs.CV_209,PyFi: Toward Pyramid-like Financial Image Understanding for VLMs via Adversarial Agents,https://arxiv.org/abs/2512.14735,"arXiv:2512.14735v2 Announce Type: replace-cross 
+Abstract: This paper proposes PyFi, a novel framework for pyramid-like financial image understanding that enables vision language models (VLMs) to reas"
+cs.CV,cs.CV_210,Machine Unlearning in the Era of Quantum Machine Learning: An Empirical Study,https://arxiv.org/abs/2512.19253,"arXiv:2512.19253v3 Announce Type: replace-cross 
+Abstract: We present the first empirical study of machine unlearning (MU) in hybrid quantum-classical neural networks. While MU has been extensively ex"
+cs.CV,cs.CV_211,FourierPET: Deep Fourier-based Unrolled Network for Low-count PET Reconstruction,https://arxiv.org/abs/2601.11680,"arXiv:2601.11680v2 Announce Type: replace-cross 
+Abstract: Low-count positron emission tomography (PET) reconstruction is a challenging inverse problem due to severe degradations arising from Poisson "
+cs.CV,cs.CV_212,STRADAViT: Towards a Foundational Model for Radio Astronomy through Self-Supervised Transfer,https://arxiv.org/abs/2603.29660,"arXiv:2603.29660v3 Announce Type: replace-cross 
+Abstract: Next-generation radio astronomy surveys are delivering millions of resolved sources, but robust and scalable morphology analysis remains diff"
+cs.CV,cs.CV_213,Toward Personalized Darts Training: A Data-Driven Framework Based on Skeleton-Based Biomechanical Analysis and Motion Modeling,https://arxiv.org/abs/2604.01130,"arXiv:2604.01130v3 Announce Type: replace-cross 
+Abstract: As sports training becomes more data-driven, traditional dart coaching based mainly on experience and visual observation is increasingly inad"
+cs.CV,cs.CV_214,VisionClaw: Always-On AI Agents through Smart Glasses,https://arxiv.org/abs/2604.03486,"arXiv:2604.03486v2 Announce Type: replace-cross 
+Abstract: We present VisionClaw, an always-on wearable AI agent that integrates live egocentric perception with agentic task execution. Running on Meta"
+cs.CV,cs.CV_215,AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation,https://arxiv.org/abs/2604.05351,"arXiv:2604.05351v2 Announce Type: replace-cross 
+Abstract: Image Goal Navigation (ImageNav) is evaluated by a coarse success criterion, the agent must stop within 1m of the target, which is sufficient"
+cs.CV,cs.CV_216,CodecFlow: Codec-Guided End-to-End Optimization for Streaming Video Analytics,https://arxiv.org/abs/2604.06036,"arXiv:2604.06036v2 Announce Type: replace-cross 
+Abstract: Video streaming analytics is a crucial workload for vision-language model serving, but the high cost of multimodal inference limits scalabili"

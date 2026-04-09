@@ -1,0 +1,331 @@
+[
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_0",
+    "title": "Occlusion Handling by Pushing for Enhanced Fruit Detection",
+    "link": "https://arxiv.org/abs/2604.06341",
+    "summary": "arXiv:2604.06341v1 Announce Type: new \nAbstract: In agricultural robotics, effective observation and localization of fruits present challenges due to occlusions caused by other parts of the tree, such"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_1",
+    "title": "Designing Privacy-Preserving Visual Perception for Robot Navigation Based on User Privacy Preferences",
+    "link": "https://arxiv.org/abs/2604.06382",
+    "summary": "arXiv:2604.06382v1 Announce Type: new \nAbstract: Visual navigation is a fundamental capability of mobile service robots, yet the onboard cameras required for such navigation can capture privacy-sensit"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_2",
+    "title": "Uncertainty Estimation for Deep Reconstruction in Actuatic Disaster Scenarios with Autonomous Vehicles",
+    "link": "https://arxiv.org/abs/2604.06387",
+    "summary": "arXiv:2604.06387v1 Announce Type: new \nAbstract: Accurate reconstruction of environmental scalar fields from sparse onboard observations is essential for autonomous vehicles engaged in aquatic monitor"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_3",
+    "title": "BiDexGrasp: Coordinated Bimanual Dexterous Grasps across Object Geometries and Sizes",
+    "link": "https://arxiv.org/abs/2604.06589",
+    "summary": "arXiv:2604.06589v1 Announce Type: new \nAbstract: Bimanual dexterous grasping is a fundamental and promising area in robotics, yet its progress is constrained by the lack of comprehensive datasets and "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_4",
+    "title": "Train-Small Deploy-Large: Leveraging Diffusion-Based Multi-Robot Planning",
+    "link": "https://arxiv.org/abs/2604.06598",
+    "summary": "arXiv:2604.06598v1 Announce Type: new \nAbstract: Learning based multi-robot path planning methods struggle to scale or generalize to changes, particularly variations in the number of robots during dep"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_5",
+    "title": "RichMap: A Reachability Map Balancing Precision, Efficiency, and Flexibility for Rich Robot Manipulation Tasks",
+    "link": "https://arxiv.org/abs/2604.06778",
+    "summary": "arXiv:2604.06778v1 Announce Type: new \nAbstract: This paper presents RichMap, a high-precision reachability map representation designed to balance efficiency and flexibility for versatile robot manipu"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_6",
+    "title": "Telecom World Models: Unifying Digital Twins, Foundation Models, and Predictive Planning for 6G",
+    "link": "https://arxiv.org/abs/2604.06882",
+    "summary": "arXiv:2604.06882v1 Announce Type: new \nAbstract: The integration of machine learning tools into telecom networks, has led to two prevailing paradigms, namely, language-based systems, such as Large Lan"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_7",
+    "title": "Towards Multi-Object Nonprehensile Transportation via Shared Teleoperation: A Framework Based on Virtual Object Model Predictive Control",
+    "link": "https://arxiv.org/abs/2604.06932",
+    "summary": "arXiv:2604.06932v1 Announce Type: new \nAbstract: Multi-object nonprehensile transportation in teleoperation demands simultaneous trajectory tracking and tray orientation control. Existing methods ofte"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_8",
+    "title": "Sustainable Transfer Learning for Adaptive Robot Skills",
+    "link": "https://arxiv.org/abs/2604.06943",
+    "summary": "arXiv:2604.06943v1 Announce Type: new \nAbstract: Learning robot skills from scratch is often time-consuming, while reusing data promotes sustainability and improves sample efficiency. This study inves"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_9",
+    "title": "Learning-Based Strategy for Composite Robot Assembly Skill Adaptation",
+    "link": "https://arxiv.org/abs/2604.06949",
+    "summary": "arXiv:2604.06949v1 Announce Type: new \nAbstract: Contact-rich robotic skills remain challenging for industrial robots due to tight geometric tolerances, frictional variability, and uncertain contact d"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_10",
+    "title": "Differentiable Environment-Trajectory Co-Optimization for Safe Multi-Agent Navigation",
+    "link": "https://arxiv.org/abs/2604.06972",
+    "summary": "arXiv:2604.06972v1 Announce Type: new \nAbstract: The environment plays a critical role in multi-agent navigation by imposing spatial constraints, rules, and limitations that agents must navigate aroun"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_11",
+    "title": "KITE: Keyframe-Indexed Tokenized Evidence for VLM-Based Robot Failure Analysis",
+    "link": "https://arxiv.org/abs/2604.07034",
+    "summary": "arXiv:2604.07034v1 Announce Type: new \nAbstract: We present KITE, a training-free, keyframe-anchored, layout-grounded front-end that converts long robot-execution videos into compact, interpretable to"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_12",
+    "title": "Exploring the proprioceptive potential of joint receptors using a biomimetic robotic joint",
+    "link": "https://arxiv.org/abs/2604.07038",
+    "summary": "arXiv:2604.07038v1 Announce Type: new \nAbstract: In neuroscience, joint receptors have traditionally been viewed as limit detectors, providing positional information only at extreme joint angles, whil"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_13",
+    "title": "AEROS: A Single-Agent Operating Architecture with Embodied Capability Modules",
+    "link": "https://arxiv.org/abs/2604.07039",
+    "summary": "arXiv:2604.07039v1 Announce Type: new \nAbstract: Robotic systems lack a principled abstraction for organizing intelligence, capabilities, and execution in a unified manner. Existing approaches either "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_14",
+    "title": "Flow Motion Policy: Manipulator Motion Planning with Flow Matching Models",
+    "link": "https://arxiv.org/abs/2604.07084",
+    "summary": "arXiv:2604.07084v1 Announce Type: new \nAbstract: Open-loop end-to-end neural motion planners have recently been proposed to improve motion planning for robotic manipulators. These methods enable plann"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_15",
+    "title": "Genie Sim PanoRecon: Fast Immersive Scene Generation from Single-View Panorama",
+    "link": "https://arxiv.org/abs/2604.07105",
+    "summary": "arXiv:2604.07105v1 Announce Type: new \nAbstract: We present Genie Sim PanoRecon, a feed-forward Gaussian-splatting pipeline that delivers high-fidelity, low-cost 3D scenes for robotic manipulation sim"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_16",
+    "title": "Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction",
+    "link": "https://arxiv.org/abs/2604.07126",
+    "summary": "arXiv:2604.07126v1 Announce Type: new \nAbstract: Predicting vehicle trajectories plays an important role in autonomous driving and ITS applications. Although multiple deep learning algorithms are devi"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_17",
+    "title": "An RTK-SLAM Dataset for Absolute Accuracy Evaluation in GNSS-Degraded Environments",
+    "link": "https://arxiv.org/abs/2604.07151",
+    "summary": "arXiv:2604.07151v1 Announce Type: new \nAbstract: RTK-SLAM systems integrate simultaneous localization and mapping (SLAM) with real-time kinematic (RTK) GNSS positioning, promising both relative consis"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_18",
+    "title": "Robust Quadruped Locomotion via Evolutionary Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2604.07224",
+    "summary": "arXiv:2604.07224v1 Announce Type: new \nAbstract: Deep reinforcement learning has recently achieved strong results in quadrupedal locomotion, yet policies trained in simulation often fail to transfer w"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_19",
+    "title": "CADENCE: Context-Adaptive Depth Estimation for Navigation and Computational Efficiency",
+    "link": "https://arxiv.org/abs/2604.07286",
+    "summary": "arXiv:2604.07286v1 Announce Type: new \nAbstract: Autonomous vehicles deployed in remote environments typically rely on embedded processors, compact batteries, and lightweight sensors. These hardware l"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_20",
+    "title": "Robots that learn to evaluate models of collective behavior",
+    "link": "https://arxiv.org/abs/2604.07303",
+    "summary": "arXiv:2604.07303v1 Announce Type: new \nAbstract: Understanding and modeling animal behavior is essential for studying collective motion, decision-making, and bio-inspired robotics. Yet, evaluating the"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_21",
+    "title": "RoSHI: A Versatile Robot-oriented Suit for Human Data In-the-Wild",
+    "link": "https://arxiv.org/abs/2604.07331",
+    "summary": "arXiv:2604.07331v1 Announce Type: new \nAbstract: Scaling up robot learning will likely require human data containing rich and long-horizon interactions in the wild. Existing approaches for collecting "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_22",
+    "title": "TAMEn: Tactile-Aware Manipulation Engine for Closed-Loop Data Collection in Contact-Rich Tasks",
+    "link": "https://arxiv.org/abs/2604.07335",
+    "summary": "arXiv:2604.07335v1 Announce Type: new \nAbstract: Handheld paradigms offer an efficient and intuitive way for collecting large-scale demonstration of robot manipulation. However, achieving contact-rich"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_23",
+    "title": "Logical Robots: Declarative Multi-Agent Programming in Logica",
+    "link": "https://arxiv.org/abs/2604.06629",
+    "summary": "arXiv:2604.06629v1 Announce Type: cross \nAbstract: We present Logical Robots, an interactive multi-agent simulation platform where autonomous robot behavior is specified declaratively in the logic pro"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_24",
+    "title": "Infrastructure First: Enabling Embodied AI for Science in the Global South",
+    "link": "https://arxiv.org/abs/2604.06722",
+    "summary": "arXiv:2604.06722v1 Announce Type: cross \nAbstract: Embodied AI for Science (EAI4S) brings intelligence into the laboratory by uniting perception, reasoning, and robotic action to autonomously run expe"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_25",
+    "title": "VGGT-SLAM++",
+    "link": "https://arxiv.org/abs/2604.06830",
+    "summary": "arXiv:2604.06830v1 Announce Type: cross \nAbstract: We introduce VGGT-SLAM++, a complete visual SLAM system that leverages the geometry-rich outputs of the Visual Geometry Grounded Transformer (VGGT). "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_26",
+    "title": "Exploiting Aggregate Programming in a Multi-Robot Service Prototype",
+    "link": "https://arxiv.org/abs/2604.06876",
+    "summary": "arXiv:2604.06876v1 Announce Type: cross \nAbstract: Multi-robot systems are becoming increasingly relevant within diverse application domains, such as healthcare, exploration, and rescue missions. Howe"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_27",
+    "title": "MoRight: Motion Control Done Right",
+    "link": "https://arxiv.org/abs/2604.07348",
+    "summary": "arXiv:2604.07348v1 Announce Type: cross \nAbstract: Generating motion-controlled videos--where user-specified actions drive physically plausible scene dynamics under freely chosen viewpoints--demands t"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_28",
+    "title": "STERN: Simultaneous Trajectory Estimation and Relative Navigation for Autonomous Underwater Proximity Operations",
+    "link": "https://arxiv.org/abs/2309.08780",
+    "summary": "arXiv:2309.08780v2 Announce Type: replace \nAbstract: Due to the challenges regarding the limits of their endurance and autonomous capabilities, underwater docking for autonomous underwater vehicles (A"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_29",
+    "title": "Apple: Toward General Active Perception via Reinforcement Learning",
+    "link": "https://arxiv.org/abs/2505.06182",
+    "summary": "arXiv:2505.06182v5 Announce Type: replace \nAbstract: Active perception is a fundamental skill that enables us humans to deal with uncertainty in our inherently partially observable environment. For se"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_30",
+    "title": "Before Humans Join the Team: Diagnosing Coordination Failures in Healthcare Robot Team Simulation",
+    "link": "https://arxiv.org/abs/2508.04691",
+    "summary": "arXiv:2508.04691v2 Announce Type: replace \nAbstract: As humans move toward collaborating with coordinated robot teams, understanding how these teams coordinate and fail is essential for building trust"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_31",
+    "title": "Simultaneous Calibration of Noise Covariance and Kinematics for State Estimation of Legged Robots via Bi-level Optimization",
+    "link": "https://arxiv.org/abs/2510.11539",
+    "summary": "arXiv:2510.11539v4 Announce Type: replace \nAbstract: Accurate state estimation is critical for legged and aerial robots operating in dynamic, uncertain environments. A key challenge lies in specifying"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_32",
+    "title": "Adaptive Obstacle-Aware Task Assignment and Planning for Heterogeneous Robot Teaming",
+    "link": "https://arxiv.org/abs/2510.14063",
+    "summary": "arXiv:2510.14063v2 Announce Type: replace \nAbstract: Multi-Agent Task Assignment and Planning (MATP) has attracted growing attention but remains challenging in terms of scalability, spatial reasoning,"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_33",
+    "title": "Model Predictive Control via Probabilistic Inference: A Tutorial and Survey",
+    "link": "https://arxiv.org/abs/2511.08019",
+    "summary": "arXiv:2511.08019v4 Announce Type: replace \nAbstract: This paper presents a tutorial and survey on Probabilistic Inference-based Model Predictive Control (PI-MPC). PI-MPC reformulates finite-horizon op"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_34",
+    "title": "Splatblox: Traversability-Aware Gaussian Splatting for Outdoor Robot Navigation",
+    "link": "https://arxiv.org/abs/2511.18525",
+    "summary": "arXiv:2511.18525v2 Announce Type: replace \nAbstract: We present Splatblox, a real-time system for autonomous navigation in outdoor environments with dense vegetation, irregular obstacles, and complex "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_35",
+    "title": "LeLaR: The First In-Orbit Demonstration of an AI-Based Satellite Attitude Controller",
+    "link": "https://arxiv.org/abs/2512.19576",
+    "summary": "arXiv:2512.19576v5 Announce Type: replace \nAbstract: Attitude control is essential for many satellite missions. Classical controllers, however, are time-consuming to design and sensitive to model unce"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_36",
+    "title": "ODYN: An All-Shifted Non-Interior-Point Method for Quadratic Programming in Robotics and AI",
+    "link": "https://arxiv.org/abs/2602.16005",
+    "summary": "arXiv:2602.16005v2 Announce Type: replace \nAbstract: We introduce ODYN, a novel all-shifted primal-dual non-interior-point quadratic programming (QP) solver designed to efficiently handle challenging "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_37",
+    "title": "A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry",
+    "link": "https://arxiv.org/abs/2604.02387",
+    "summary": "arXiv:2604.02387v2 Announce Type: replace \nAbstract: Precision reducers are critical components in robotic systems, directly affecting the motion accuracy and dynamic performance of humanoid robots, q"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_38",
+    "title": "Differentiable SpaTiaL: Symbolic Learning and Reasoning with Geometric Temporal Logic for Manipulation Tasks",
+    "link": "https://arxiv.org/abs/2604.02643",
+    "summary": "arXiv:2604.02643v2 Announce Type: replace \nAbstract: Executing complex manipulation in cluttered environments requires satisfying coupled geometric and temporal constraints. Although Spatio-Temporal L"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_39",
+    "title": "RK-MPC: Residual Koopman Model Predictive Control for Quadruped Locomotion in Offroad Environments",
+    "link": "https://arxiv.org/abs/2604.04221",
+    "summary": "arXiv:2604.04221v2 Announce Type: replace \nAbstract: This paper presents Residual Koopman MPC (RK-MPC), a Koopman-based, data-driven model predictive control framework for quadruped locomotion that im"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_40",
+    "title": "AnyImageNav: Any-View Geometry for Precise Last-Meter Image-Goal Navigation",
+    "link": "https://arxiv.org/abs/2604.05351",
+    "summary": "arXiv:2604.05351v2 Announce Type: replace \nAbstract: Image Goal Navigation (ImageNav) is evaluated by a coarse success criterion, the agent must stop within 1m of the target, which is sufficient for f"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_41",
+    "title": "A1: A Fully Transparent Open-Source, Adaptive and Efficient Truncated Vision-Language-Action Model",
+    "link": "https://arxiv.org/abs/2604.05672",
+    "summary": "arXiv:2604.05672v2 Announce Type: replace \nAbstract: Vision-Language-Action (VLA) models have emerged as a powerful paradigm for open-world robot manipulation, but their practical deployment is often "
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_42",
+    "title": "Precise Aggressive Aerial Maneuvers with Sensorimotor Policies",
+    "link": "https://arxiv.org/abs/2604.05828",
+    "summary": "arXiv:2604.05828v2 Announce Type: replace \nAbstract: Precise aggressive maneuvers with lightweight onboard sensors remains a key bottleneck in fully exploiting the maneuverability of drones. Such mane"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_43",
+    "title": "SemanticScanpath: Combining Gaze and Speech for Situated Human-Robot Interaction Using LLMs",
+    "link": "https://arxiv.org/abs/2503.16548",
+    "summary": "arXiv:2503.16548v2 Announce Type: replace-cross \nAbstract: Large Language Models (LLMs) have substantially improved the conversational capabilities of social robots. Nevertheless, for an intuitive and"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_44",
+    "title": "Exploring Conditions for Diffusion models in Robotic Control",
+    "link": "https://arxiv.org/abs/2510.15510",
+    "summary": "arXiv:2510.15510v2 Announce Type: replace-cross \nAbstract: While pre-trained visual representations have significantly advanced imitation learning, they are often task-agnostic as they remain frozen d"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_45",
+    "title": "Can VLMs Unlock Semantic Anomaly Detection? A Framework for Structured Reasoning",
+    "link": "https://arxiv.org/abs/2510.18034",
+    "summary": "arXiv:2510.18034v2 Announce Type: replace-cross \nAbstract: Autonomous driving systems remain critically vulnerable to the long-tail of rare, out-of-distribution semantic anomalies. While VLMs have eme"
+  },
+  {
+    "category": "cs.RO",
+    "paper_id": "cs.RO_46",
+    "title": "Before We Trust Them: Decision-Making Failures in Navigation of Foundation Models",
+    "link": "https://arxiv.org/abs/2601.05529",
+    "summary": "arXiv:2601.05529v5 Announce Type: replace-cross \nAbstract: High success rates on navigation-related tasks do not necessarily translate into reliable decision making by foundation models. To examine th"
+  }
+]
