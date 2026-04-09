@@ -18,3 +18,23 @@ COUNT: 217
 [CRAWL START] 2026-04-09 15:38:04.005238
 URL: https://rss.arxiv.org/rss/cs.RO
 COUNT: 47
+
+[CRAWL START] 2026-04-09 16:20:32.299635
+URL: https://rss.arxiv.org/rss/cs.AI
+COUNT: 330
+
+[CRAWL START] 2026-04-09 16:20:32.950996
+URL: https://rss.arxiv.org/rss/cs.LG
+COUNT: 279
+
+[CRAWL START] 2026-04-09 16:20:33.534899
+URL: https://rss.arxiv.org/rss/cs.CL
+COUNT: 183
+
+[CRAWL START] 2026-04-09 16:20:34.082631
+URL: https://rss.arxiv.org/rss/cs.CV
+COUNT: 217
+
+[CRAWL START] 2026-04-09 16:20:34.525177
+URL: https://rss.arxiv.org/rss/cs.RO
+COUNT: 47
