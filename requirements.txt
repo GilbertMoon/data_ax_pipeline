@@ -4,3 +4,4 @@ lxml
 pandas
 mysql-connector-python
 pyspark
+scikit-learn

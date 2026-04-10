@@ -1,0 +1,4 @@
+﻿paper_id,batch_id,topic_rule_label,sensitivity_rule_label,ml_pred_label,created_at
+P001,20260410_0900,"AI, 의료",기타,AI,2026-04-10 12:37:48
+P002,20260410_0900,AI,윤리,윤리,2026-04-10 12:37:48
+P003,20260410_0900,경영,기타,경영,2026-04-10 12:37:48
